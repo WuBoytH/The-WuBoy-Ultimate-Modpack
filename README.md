@@ -1,24 +1,17 @@
-Thank you for checking out The WuBoy Ultimate Modpack!
+Thank you for checking out The WuBoy Ultimate Modpack! Full modpack last updated 3/16/21.
 
 IMPORTANT NOTE: This version of the modpack was updated due to the new version of ARCropolis that was released.
 Unfortunately, this means that many fake one-slot mods from the old version of my modpack are unusable, thus I had to make this new version.
-You can still find the old version here: https://github.com/WuBoytH/WuBoyUltimateModpack-OLD
+[You can still find the old version here.] (https://github.com/WuBoytH/WuBoyUltimateModpack-OLD)
 
-This version of the modpack also has no need for the "Skin Fixes" folder from the previous version.
+Another note, you will now see an Updates folder, which will hold all of the updated files since the previous version.
+I will also be putting the date of the previous full version on the top of the README, so you know what to download.
+I will merge the updates with the rest of the modpack after enough updates.
 
 Installation:
-First, grab the lastest ARCropolis from https://github.com/Raytwo/ARCropolis/
+[Grab the lastest ARCropolis from here.] (https://github.com/Raytwo/ARCropolis/)
 Drag all of the files (except for README.md and Final Kill Screen Preview.png) into the following directory:
- - atmosphere\contents\01006A800016E000\romfs\arcropolis\workspaces
-
-If you have not used ARCropolis since they added the Workspace feature *and* don't see any mods loading, please do the following:
-
-1. Open Smash Ultimate and go to the main menu.
-2. Open the ZR menu.
-3. Select "Help".
-4. Select "Mode Help"
-5. Select "The WuBoy Ultimate Modpack" in the Workspace Manager.
-6. Restart the game and see the changes!
+ - SD:\ultimate\mods\
 
 If you have a previous version of the modpack installed, please delete the following folders before installing anew:
  - SD:\ultimate\mods\The WuBoy Ultimate Modpack
@@ -30,6 +23,9 @@ Notes:
 All the changes found in the WuBoy Ultimate Modpack can be found here:
  - https://tinyurl.com/WuBoyModpack
  - https://tinyurl.com/WuBoyModpackMusic
+
+The WuBoy Ultimate Music Modpack now supports the One-Slot Victory Theme mod by Coolsonickirby!
+ - [Download instructions can be found here.] ("https://gamebanana.com/gamefiles/17417")
 
 The WuBoy Ultimate Modpack Optionals includes:
  - text edits throughout menus, Star Fox's final smash subtitles, and Hero's spell list, for the fun of it =)
