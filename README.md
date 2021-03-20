@@ -25,7 +25,7 @@ All the changes found in the WuBoy Ultimate Modpack can be found here:
  - https://tinyurl.com/WuBoyModpackMusic
 
 The WuBoy Ultimate Music Modpack now supports the One-Slot Victory Theme mod by Coolsonickirby!
-[Download instructions can be found here.]("https://gamebanana.com/gamefiles/17417")
+[Download instructions can be found here.](https://gamebanana.com/gamefiles/17417)
 
 The WuBoy Ultimate Modpack Optionals includes:
  - text edits throughout menus, Star Fox's final smash subtitles, and Hero's spell list, for the fun of it =)
