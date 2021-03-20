@@ -2,6 +2,7 @@ Thank you for checking out The WuBoy Ultimate Modpack! Full modpack last updated
 
 IMPORTANT NOTE: This version of the modpack was updated due to the new version of ARCropolis that was released.
 Unfortunately, this means that many fake one-slot mods from the old version of my modpack are unusable, thus I had to make this new version.
+
 [You can still find the old version here.](https://github.com/WuBoytH/WuBoyUltimateModpack-OLD)
 
 Another note, you will now see an Updates folder, which will hold all of the updated files since the previous version.
@@ -9,7 +10,9 @@ I will also be putting the date of the previous full version on the top of the R
 I will merge the updates with the rest of the modpack after enough updates.
 
 Installation:
+
 [Grab the lastest ARCropolis from here.](https://github.com/Raytwo/ARCropolis/)
+
 Drag all of the files (except for README.md and Final Kill Screen Preview.png) into the following directory:
  - SD:\ultimate\mods\
 
@@ -25,6 +28,7 @@ All the changes found in the WuBoy Ultimate Modpack can be found here:
  - https://tinyurl.com/WuBoyModpackMusic
 
 The WuBoy Ultimate Music Modpack now supports the One-Slot Victory Theme mod by Coolsonickirby!
+
 [Download instructions can be found here.](https://gamebanana.com/gamefiles/17417)
 
 The WuBoy Ultimate Modpack Optionals includes:
