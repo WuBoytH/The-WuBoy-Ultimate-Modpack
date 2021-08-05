@@ -1,3 +1,23 @@
+[bgm_z10_f_captain]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 0
+costume_5 = 0
+costume_6 = 0
+costume_7 = 1
+
+[bgm_z15_f_sheik]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 0
+costume_5 = 0
+costume_6 = 0
+costume_7 = 1
+
 [bgm_z34_f_ike]
 costume_0 = 0
 costume_1 = 1
@@ -8,6 +28,26 @@ costume_5 = 1
 costume_6 = 0
 costume_7 = 1
 
+[bgm_z67_f_palutena]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 0
+costume_5 = 0
+costume_6 = 0
+costume_7 = 1
+
+[bgm_z73_f_pacman]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 0
+costume_5 = 0
+costume_6 = 0
+costume_7 = 1
+
 [bgm_zz01_f_dolly]
 costume_0 = 0
 costume_1 = 0
@@ -15,5 +55,25 @@ costume_2 = 0
 costume_3 = 0
 costume_4 = 1
 costume_5 = 2
+costume_6 = 0
+costume_7 = 0
+
+[bgm_zz02_f_master]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 0
+costume_5 = 0
+costume_6 = 0
+costume_7 = 1
+
+[bgm_zz05_f_edge]
+costume_0 = 0
+costume_1 = 0
+costume_2 = 0
+costume_3 = 0
+costume_4 = 2
+costume_5 = 0
 costume_6 = 0
 costume_7 = 0
