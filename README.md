@@ -11,6 +11,7 @@ I will merge the updates with the rest of the modpack after enough updates.
 
 Installation:
 
+Note: The WuBoy Ultimate Modpack *requires* ARCropolis 3.0.0 Beta 1 or higher.
 [Grab the lastest ARCropolis from here.](https://github.com/Raytwo/ARCropolis/)
 
 Drag all of the files (except for README.md and Final Kill Screen Preview.png) into the following directory:
