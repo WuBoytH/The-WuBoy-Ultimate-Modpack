@@ -1,4 +1,9 @@
 {
+	"unshare-blacklist": [
+		"prebuilt:/movie/fighter/brave/c00/final_00.h264",
+		"prebuilt:/movie/fighter/edge/c00/final_00.h264",
+		"prebuilt:/movie/fighter/pickel/c00/final_00.h264"
+	],
 	"new-dir-files": {
 		"fighter/eflame/c05": [
 			"fighter/eflame/model/body/c05/festiv_flame_001_col.nutexb",
