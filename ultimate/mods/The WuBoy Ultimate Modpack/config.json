@@ -5,6 +5,11 @@
 		"prebuilt:/movie/fighter/pickel/c00/final_00.h264"
 	],
 	"new-dir-files": {
+		"fighter/master/c01": [
+			"fighter/master/model/body/c01/def_nakoruru_001_col.nutexb",
+			"fighter/master/model/body/c01/def_nakoruru_001_nor.nutexb",
+			"fighter/master/model/body/c01/def_nakoruru_001_prm.nutexb"
+		],
 		"fighter/eflame/c05": [
 			"fighter/eflame/model/body/c05/festiv_flame_001_col.nutexb",
 			"fighter/eflame/model/body/c05/festiv_flame_001_emi.nutexb",
@@ -74,6 +79,18 @@
 			"stage/end/normal/model/landscape_loop_space_main_set/st3_sky_cloud13_col.nutexb",
 			"stage/end/normal/model/landscape_loop_space_main_set/st3_sky_cloud14_col.nutexb",
 			"stage/end/normal/model/landscape_loop_space_main_set/st3_sunshaft_gradation_col.nutexb"
+		],
+		"stage/zelda_pirates/battle/model/floating_plate_set": [
+			"stage/zelda_pirates/battle/model/floating_plate_set/bnsmy_floating_plate_col.nutexb",
+			"stage/zelda_pirates/battle/model/floating_plate_set/bnsmy_floating_plate_lit.nutexb",
+			"stage/zelda_pirates/battle/model/floating_plate_set/bnsmy_floating_plate_nor.nutexb",
+			"stage/zelda_pirates/battle/model/floating_plate_set/bnsmy_floating_plate_prm.nutexb"
+		],
+		"stage/zelda_pirates/battle/model/main_ring_set": [
+			"stage/zelda_pirates/battle/model/main_ring_set/grdizumiwd2_col.nutexb",
+			"stage/zelda_pirates/battle/model/main_ring_set/grdizumiwd2b_col.nutexb",
+			"stage/zelda_pirates/battle/model/main_ring_set/s23_kirby_fountain_grdizumifoun10_col.nutexb",
+			"stage/zelda_pirates/battle/model/main_ring_set/s23_kirby_fountain_grdizumipdptn1_col.nutexb"
 		]
 	}
 }
