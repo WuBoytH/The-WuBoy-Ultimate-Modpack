@@ -1,4 +1,4 @@
-Thank you for checking out The WuBoy Ultimate Modpack! Full modpack last updated 3/16/21.
+Thank you for checking out The WuBoy Ultimate Modpack!
 
 IMPORTANT NOTE: This version of the modpack was updated due to the new version of ARCropolis that was released.
 Unfortunately, this means that many fake one-slot mods from the old version of my modpack are unusable, thus I had to make this new version.
