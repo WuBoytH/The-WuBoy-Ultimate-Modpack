@@ -5,6 +5,12 @@
 		"prebuilt:/movie/fighter/pickel/c00/final_00.h264"
 	],
 	"new-dir-files": {
+		"fighter/daisy/c02": [
+			"fighter/daisy/model/body/c02/def_daisy_002_col.nutexb",
+			"fighter/daisy/model/body/c02/def_daisy_002_nor.nutexb",
+			"fighter/daisy/model/body/c02/def_daisy_002_prm.nutexb",
+			"fighter/daisy/model/body/c02/def_daisy_003_prm.nutexb"
+		],
 		"fighter/master/c01": [
 			"fighter/master/model/body/c01/def_nakoruru_001_col.nutexb",
 			"fighter/master/model/body/c01/def_nakoruru_001_nor.nutexb",
