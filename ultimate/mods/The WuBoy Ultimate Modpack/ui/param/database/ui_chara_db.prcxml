@@ -50,7 +50,9 @@
     <hash40 index="44">dummy</hash40>
     <hash40 index="45">dummy</hash40>
     <hash40 index="46">dummy</hash40>
-    <hash40 index="47">dummy</hash40>
+    <struct index="47">
+      <byte hash="color_num">9</byte>
+    </struct>
     <hash40 index="48">dummy</hash40>
     <hash40 index="49">dummy</hash40>
     <hash40 index="50">dummy</hash40>

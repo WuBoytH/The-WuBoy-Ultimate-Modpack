@@ -10,6 +10,11 @@
         "fighter/link/movie/c09",
         "fighter/link/camera/c09",
         "fighter/link/kirbycopy/c09",
+        "fighter/lucario/c08",
+        "fighter/lucario/result/c08",
+        "fighter/lucario/kirbycopy/c08",
+        "fighter/lucario/camera/c08",
+        "fighter/lucario/movie/c08",
         "fighter/master/c08",
         "fighter/master/camera/c08",
         "fighter/master/movie/c08",
@@ -37,6 +42,11 @@
         "fighter/link/kirbycopy/c09/bodymotion": "fighter/link/kirbycopy/c01/bodymotion",
         "fighter/link/kirbycopy/c09/sound": "fighter/link/kirbycopy/c01/sound",
         "fighter/link/kirbycopy/c09/cmn": "fighter/link/kirbycopy/c01/cmn",
+        "fighter/lucario/c08/camera": "fighter/lucario/c00/camera",
+        "fighter/lucario/c08/cmn": "fighter/lucario/c00/cmn",
+        "fighter/lucario/kirbycopy/c08/bodymotion": "fighter/lucario/kirbycopy/c00/bodymotion",
+        "fighter/lucario/kirbycopy/c08/sound": "fighter/lucario/kirbycopy/c00/sound",
+        "fighter/lucario/kirbycopy/c08/cmn": "fighter/lucario/kirbycopy/c00/cmn",
         "fighter/master/c08/cmn": "fighter/master/c00/cmn",
         "fighter/master/c08/camera": "fighter/master/c00/camera",
         "fighter/master/kirbycopy/c08/sound": "fighter/master/kirbycopy/c00/sound",
@@ -189,6 +199,9 @@
         "fighter/link/model/body/c00/metamon_model.numatb": [
             "fighter/link/model/body/c08/metamon_model.numatb"
         ],
+        "fighter/link/model/body/c00/model.nuanmb": [
+            "fighter/link/model/body/c08/model.nuanmb"
+        ],
         "fighter/link/model/body/c00/model.nusktb": [
             "fighter/link/model/body/c08/model.nusktb"
         ],
@@ -215,6 +228,9 @@
         ],
         "fighter/link/model/boomerang/c00/metamon_model.numatb": [
             "fighter/link/model/boomerang/c08/metamon_model.numatb"
+        ],
+        "fighter/link/model/boomerang/c00/model.nuanmb": [
+            "fighter/link/model/boomerang/c08/model.nuanmb"
         ],
         "fighter/link/model/boomerang/c00/model.nuhlpb": [
             "fighter/link/model/boomerang/c08/model.nuhlpb"
@@ -267,6 +283,9 @@
         "fighter/link/model/bow/c00/metamon_model.numatb": [
             "fighter/link/model/bow/c08/metamon_model.numatb"
         ],
+        "fighter/link/model/bow/c00/model.nuanmb": [
+            "fighter/link/model/bow/c08/model.nuanmb"
+        ],
         "fighter/link/model/bow/c00/model.nuhlpb": [
             "fighter/link/model/bow/c08/model.nuhlpb"
         ],
@@ -308,6 +327,9 @@
         ],
         "fighter/link/model/bowarrow/c00/metamon_model.numatb": [
             "fighter/link/model/bowarrow/c08/metamon_model.numatb"
+        ],
+        "fighter/link/model/bowarrow/c00/model.nuanmb": [
+            "fighter/link/model/bowarrow/c08/model.nuanmb"
         ],
         "fighter/link/model/bowarrow/c00/model.nuhlpb": [
             "fighter/link/model/bowarrow/c08/model.nuhlpb"
@@ -414,54 +436,6 @@
         "fighter/link/model/parasail/c00/model.xmb": [
             "fighter/link/model/parasail/c08/model.xmb"
         ],
-        "fighter/link/motion/body/c00/flip.prc": [
-            "fighter/link/motion/body/c08/flip.prc"
-        ],
-        "fighter/link/motion/body/c00/ik.prc": [
-            "fighter/link/motion/body/c08/ik.prc"
-        ],
-        "fighter/link/motion/body/c00/scharge.prc": [
-            "fighter/link/motion/body/c08/scharge.prc"
-        ],
-        "fighter/link/motion/body/c00/swing.prc": [
-            "fighter/link/motion/body/c08/swing.prc"
-        ],
-        "fighter/link/motion/body/c00/swingblend.prc": [
-            "fighter/link/motion/body/c08/swingblend.prc"
-        ],
-        "fighter/link/motion/body/c00/update.prc": [
-            "fighter/link/motion/body/c08/update.prc"
-        ],
-        "fighter/link/motion/boomerang/c00/update.prc": [
-            "fighter/link/motion/boomerang/c08/update.prc"
-        ],
-        "fighter/link/motion/bow/c00/update.prc": [
-            "fighter/link/motion/bow/c08/update.prc"
-        ],
-        "fighter/link/motion/bowarrow/c00/update.prc": [
-            "fighter/link/motion/bowarrow/c08/update.prc"
-        ],
-        "fighter/link/motion/clawshot/c00/update.prc": [
-            "fighter/link/motion/clawshot/c08/update.prc"
-        ],
-        "fighter/link/motion/clawshotall/c00/update.prc": [
-            "fighter/link/motion/clawshotall/c08/update.prc"
-        ],
-        "fighter/link/motion/clawshothand/c00/update.prc": [
-            "fighter/link/motion/clawshothand/c08/update.prc"
-        ],
-        "fighter/link/motion/clawshothead/c00/update.prc": [
-            "fighter/link/motion/clawshothead/c08/update.prc"
-        ],
-        "fighter/link/motion/clawshotreverse/c00/update.prc": [
-            "fighter/link/motion/clawshotreverse/c08/update.prc"
-        ],
-        "fighter/link/motion/linkbomb/c00/update.prc": [
-            "fighter/link/motion/linkbomb/c08/update.prc"
-        ],
-        "fighter/link/motion/navy/c00/update.prc": [
-            "fighter/link/motion/navy/c08/update.prc"
-        ],
         "sound/bank/fighter/se_link_c00.nus3bank": [
             "sound/bank/fighter/se_link_c08.nus3bank"
         ],
@@ -544,6 +518,9 @@
         "fighter/kirby/model/copy_link_cap/c00/metamon_model.numatb": [
             "fighter/kirby/model/copy_link_cap/c08/metamon_model.numatb"
         ],
+        "fighter/kirby/model/copy_link_cap/c00/model.nuanmb": [
+            "fighter/kirby/model/copy_link_cap/c08/model.nuanmb"
+        ],
         "fighter/kirby/model/copy_link_cap/c00/model.nuhlpb": [
             "fighter/kirby/model/copy_link_cap/c08/model.nuhlpb"
         ],
@@ -567,15 +544,6 @@
         ],
         "fighter/kirby/model/copy_link_cap/c00/model.xmb": [
             "fighter/kirby/model/copy_link_cap/c08/model.xmb"
-        ],
-        "fighter/kirby/motion/copy_link_cap/c00/flip.prc": [
-            "fighter/kirby/motion/copy_link_cap/c08/flip.prc"
-        ],
-        "fighter/kirby/motion/copy_link_cap/c00/swing.prc": [
-            "fighter/kirby/motion/copy_link_cap/c08/swing.prc"
-        ],
-        "fighter/kirby/motion/copy_link_cap/c00/update.prc": [
-            "fighter/kirby/motion/copy_link_cap/c08/update.prc"
         ],
         "fighter/link/model/body/c01/alp_link_001_col.nutexb": [
             "fighter/link/model/body/c09/alp_link_001_col.nutexb"
@@ -615,6 +583,9 @@
         ],
         "fighter/link/model/body/c01/metamon_model.numatb": [
             "fighter/link/model/body/c09/metamon_model.numatb"
+        ],
+        "fighter/link/model/body/c01/model.nuanmb": [
+            "fighter/link/model/body/c09/model.nuanmb"
         ],
         "fighter/link/model/body/c01/model.nuhlpb": [
             "fighter/link/model/body/c09/model.nuhlpb"
@@ -700,6 +671,9 @@
         "fighter/link/model/boomerang/c01/metamon_model.numatb": [
             "fighter/link/model/boomerang/c09/metamon_model.numatb"
         ],
+        "fighter/link/model/boomerang/c01/model.nuanmb": [
+            "fighter/link/model/boomerang/c09/model.nuanmb"
+        ],
         "fighter/link/model/boomerang/c01/model.nuhlpb": [
             "fighter/link/model/boomerang/c09/model.nuhlpb"
         ],
@@ -733,6 +707,9 @@
         "fighter/link/model/bow/c01/metamon_model.numatb": [
             "fighter/link/model/bow/c09/metamon_model.numatb"
         ],
+        "fighter/link/model/bow/c01/model.nuanmb": [
+            "fighter/link/model/bow/c09/model.nuanmb"
+        ],
         "fighter/link/model/bow/c01/model.nuhlpb": [
             "fighter/link/model/bow/c09/model.nuhlpb"
         ],
@@ -756,6 +733,9 @@
         ],
         "fighter/link/model/bowarrow/c01/metamon_model.numatb": [
             "fighter/link/model/bowarrow/c09/metamon_model.numatb"
+        ],
+        "fighter/link/model/bowarrow/c01/model.nuanmb": [
+            "fighter/link/model/bowarrow/c09/model.nuanmb"
         ],
         "fighter/link/model/bowarrow/c01/model.nuhlpb": [
             "fighter/link/model/bowarrow/c09/model.nuhlpb"
@@ -853,54 +833,6 @@
         "fighter/link/model/parasail/c01/model.xmb": [
             "fighter/link/model/parasail/c09/model.xmb"
         ],
-        "fighter/link/motion/body/c01/flip.prc": [
-            "fighter/link/motion/body/c09/flip.prc"
-        ],
-        "fighter/link/motion/body/c01/ik.prc": [
-            "fighter/link/motion/body/c09/ik.prc"
-        ],
-        "fighter/link/motion/body/c01/scharge.prc": [
-            "fighter/link/motion/body/c09/scharge.prc"
-        ],
-        "fighter/link/motion/body/c01/swing.prc": [
-            "fighter/link/motion/body/c09/swing.prc"
-        ],
-        "fighter/link/motion/body/c01/swingblend.prc": [
-            "fighter/link/motion/body/c09/swingblend.prc"
-        ],
-        "fighter/link/motion/body/c01/update.prc": [
-            "fighter/link/motion/body/c09/update.prc"
-        ],
-        "fighter/link/motion/boomerang/c01/update.prc": [
-            "fighter/link/motion/boomerang/c09/update.prc"
-        ],
-        "fighter/link/motion/bow/c01/update.prc": [
-            "fighter/link/motion/bow/c09/update.prc"
-        ],
-        "fighter/link/motion/bowarrow/c01/update.prc": [
-            "fighter/link/motion/bowarrow/c09/update.prc"
-        ],
-        "fighter/link/motion/clawshot/c01/update.prc": [
-            "fighter/link/motion/clawshot/c09/update.prc"
-        ],
-        "fighter/link/motion/clawshotall/c01/update.prc": [
-            "fighter/link/motion/clawshotall/c09/update.prc"
-        ],
-        "fighter/link/motion/clawshothand/c01/update.prc": [
-            "fighter/link/motion/clawshothand/c09/update.prc"
-        ],
-        "fighter/link/motion/clawshothead/c01/update.prc": [
-            "fighter/link/motion/clawshothead/c09/update.prc"
-        ],
-        "fighter/link/motion/clawshotreverse/c01/update.prc": [
-            "fighter/link/motion/clawshotreverse/c09/update.prc"
-        ],
-        "fighter/link/motion/linkbomb/c01/update.prc": [
-            "fighter/link/motion/linkbomb/c09/update.prc"
-        ],
-        "fighter/link/motion/navy/c01/update.prc": [
-            "fighter/link/motion/navy/c09/update.prc"
-        ],
         "sound/bank/fighter/se_link_c01.nus3bank": [
             "sound/bank/fighter/se_link_c09.nus3bank"
         ],
@@ -940,6 +872,9 @@
         "fighter/kirby/model/copy_link_cap/c01/metamon_model.numatb": [
             "fighter/kirby/model/copy_link_cap/c09/metamon_model.numatb"
         ],
+        "fighter/kirby/model/copy_link_cap/c01/model.nuanmb": [
+            "fighter/kirby/model/copy_link_cap/c09/model.nuanmb"
+        ],
         "fighter/kirby/model/copy_link_cap/c01/model.nuhlpb": [
             "fighter/kirby/model/copy_link_cap/c09/model.nuhlpb"
         ],
@@ -963,6 +898,159 @@
         ],
         "fighter/kirby/model/copy_link_cap/c01/model.xmb": [
             "fighter/kirby/model/copy_link_cap/c09/model.xmb"
+        ],
+        "fighter/lucario/model/body/c00/dark_model.numatb": [
+            "fighter/lucario/model/body/c08/dark_model.numatb"
+        ],
+        "fighter/lucario/model/body/c00/light_model.numatb": [
+            "fighter/lucario/model/body/c08/light_model.numatb"
+        ],
+        "fighter/lucario/model/body/c00/metamon_model.numatb": [
+            "fighter/lucario/model/body/c08/metamon_model.numatb"
+        ],
+        "fighter/lucario/model/body/c00/model.nuanmb": [
+            "fighter/lucario/model/body/c08/model.nuanmb"
+        ],
+        "fighter/lucario/model/body/c00/model.nusrcmdlb": [
+            "fighter/lucario/model/body/c08/model.nusrcmdlb"
+        ],
+        "fighter/lucario/model/body/c00/model.xmb": [
+            "fighter/lucario/model/body/c08/model.xmb"
+        ],
+        "fighter/lucario/model/lucariom/c00/alp_lucariom_001_col.nutexb": [
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_col.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/alp_lucariom_001_nor.nutexb": [
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_nor.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/alp_lucariom_001_prm.nutexb": [
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_prm.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/dark_model.numatb": [
+            "fighter/lucario/model/lucariom/c08/dark_model.numatb"
+        ],
+        "fighter/lucario/model/lucariom/c00/eye_lucariom_b_col.nutexb": [
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_b_col.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/eye_lucariom_w_col.nutexb": [
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_col.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/eye_lucariom_w_nor.nutexb": [
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_nor.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/eye_lucariom_w_prm.nutexb": [
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_prm.nutexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/light_model.numatb": [
+            "fighter/lucario/model/lucariom/c08/light_model.numatb"
+        ],
+        "fighter/lucario/model/lucariom/c00/metamon_model.numatb": [
+            "fighter/lucario/model/lucariom/c08/metamon_model.numatb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.nuhlpb": [
+            "fighter/lucario/model/lucariom/c08/model.nuhlpb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.numatb": [
+            "fighter/lucario/model/lucariom/c08/model.numatb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.numdlb": [
+            "fighter/lucario/model/lucariom/c08/model.numdlb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.numshb": [
+            "fighter/lucario/model/lucariom/c08/model.numshb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.numshexb": [
+            "fighter/lucario/model/lucariom/c08/model.numshexb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.nusktb": [
+            "fighter/lucario/model/lucariom/c08/model.nusktb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.nusrcmdlb": [
+            "fighter/lucario/model/lucariom/c08/model.nusrcmdlb"
+        ],
+        "fighter/lucario/model/lucariom/c00/model.xmb": [
+            "fighter/lucario/model/lucariom/c08/model.xmb"
+        ],
+        "sound/bank/fighter/se_lucario_c00.nus3audio": [
+            "sound/bank/fighter/se_lucario_c08.nus3audio"
+        ],
+        "sound/bank/fighter/se_lucario_c00.nus3bank": [
+            "sound/bank/fighter/se_lucario_c08.nus3bank"
+        ],
+        "sound/bank/fighter/se_lucario_c00.tonelabel": [
+            "sound/bank/fighter/se_lucario_c08.tonelabel"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_c00.nus3audio": [
+            "sound/bank/fighter_voice/vc_lucario_c08.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_c00.nus3bank": [
+            "sound/bank/fighter_voice/vc_lucario_c08.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_c00.tonelabel": [
+            "sound/bank/fighter_voice/vc_lucario_c08.tonelabel"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_cheer_c00.nus3audio": [
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3audio"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_cheer_c00.nus3bank": [
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3bank"
+        ],
+        "sound/bank/fighter_voice/vc_lucario_cheer_c00.tonelabel": [
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.tonelabel"
+        ],
+        "fighter/lucario/model/body/c02/dark_model.numatb": [
+            "fighter/lucario/model/body/c08/dark_model.numatb"
+        ],
+        "fighter/lucario/model/body/c02/light_model.numatb": [
+            "fighter/lucario/model/body/c08/light_model.numatb"
+        ],
+        "fighter/lucario/model/body/c02/metamon_model.numatb": [
+            "fighter/lucario/model/body/c08/metamon_model.numatb"
+        ],
+        "fighter/lucario/model/body/c02/model.nuanmb": [
+            "fighter/lucario/model/body/c08/model.nuanmb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/dark_model.numatb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/dark_model.numatb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/kirby_lucario_001_col.nutexb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_col.nutexb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/kirby_lucario_001_nor.nutexb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_nor.nutexb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/kirby_lucario_001_prm.nutexb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_prm.nutexb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/light_model.numatb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/light_model.numatb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/metamon_model.numatb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/metamon_model.numatb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.nuhlpb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nuhlpb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.numatb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numatb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.numdlb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numdlb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.numshb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numshb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.numshexb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numshexb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.nusktb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nusktb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.nusrcmdlb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nusrcmdlb"
+        ],
+        "fighter/kirby/model/copy_lucario_cap/c00/model.xmb": [
+            "fighter/kirby/model/copy_lucario_cap/c08/model.xmb"
         ],
         "fighter/master/model/arrow1/c00/dark_model.numatb": [
             "fighter/master/model/arrow1/c08/dark_model.numatb"
@@ -1107,6 +1195,9 @@
         ],
         "fighter/master/model/background/c00/metamon_model.numatb": [
             "fighter/master/model/background/c08/metamon_model.numatb"
+        ],
+        "fighter/master/model/background/c00/model.nuanmb": [
+            "fighter/master/model/background/c08/model.nuanmb"
         ],
         "fighter/master/model/background/c00/model.nuhlpb": [
             "fighter/master/model/background/c08/model.nuhlpb"
@@ -1426,24 +1517,6 @@
         "fighter/master/model/swordflare/c00/model.xmb": [
             "fighter/master/model/swordflare/c08/model.xmb"
         ],
-        "fighter/master/motion/body/c00/flip.prc": [
-            "fighter/master/motion/body/c08/flip.prc"
-        ],
-        "fighter/master/motion/body/c00/ik.prc": [
-            "fighter/master/motion/body/c08/ik.prc"
-        ],
-        "fighter/master/motion/body/c00/scharge.prc": [
-            "fighter/master/motion/body/c08/scharge.prc"
-        ],
-        "fighter/master/motion/body/c00/swing.prc": [
-            "fighter/master/motion/body/c08/swing.prc"
-        ],
-        "fighter/master/motion/body/c00/swingblend.prc": [
-            "fighter/master/motion/body/c08/swingblend.prc"
-        ],
-        "fighter/master/motion/body/c00/update.prc": [
-            "fighter/master/motion/body/c08/update.prc"
-        ],
         "sound/bank/fighter/se_master_c00.nus3audio": [
             "sound/bank/fighter/se_master_c08.nus3audio"
         ],
@@ -1501,6 +1574,9 @@
         ],
         "fighter/kirby/model/copy_master_cap/c00/metamon_model.numatb": [
             "fighter/kirby/model/copy_master_cap/c08/metamon_model.numatb"
+        ],
+        "fighter/kirby/model/copy_master_cap/c00/model.nuanmb": [
+            "fighter/kirby/model/copy_master_cap/c08/model.nuanmb"
         ],
         "fighter/kirby/model/copy_master_cap/c00/model.nuhlpb": [
             "fighter/kirby/model/copy_master_cap/c08/model.nuhlpb"
@@ -1780,6 +1856,9 @@
         ],
         "fighter/master/model/background/c01/metamon_model.numatb": [
             "fighter/master/model/background/c09/metamon_model.numatb"
+        ],
+        "fighter/master/model/background/c01/model.nuanmb": [
+            "fighter/master/model/background/c09/model.nuanmb"
         ],
         "fighter/master/model/background/c01/model.nuhlpb": [
             "fighter/master/model/background/c09/model.nuhlpb"
@@ -2099,21 +2178,6 @@
         "fighter/master/model/swordflare/c01/model.xmb": [
             "fighter/master/model/swordflare/c09/model.xmb"
         ],
-        "fighter/master/motion/body/c01/flip.prc": [
-            "fighter/master/motion/body/c09/flip.prc"
-        ],
-        "fighter/master/motion/body/c01/ik.prc": [
-            "fighter/master/motion/body/c09/ik.prc"
-        ],
-        "fighter/master/motion/body/c01/scharge.prc": [
-            "fighter/master/motion/body/c09/scharge.prc"
-        ],
-        "fighter/master/motion/body/c01/swingblend.prc": [
-            "fighter/master/motion/body/c09/swingblend.prc"
-        ],
-        "fighter/master/motion/body/c01/update.prc": [
-            "fighter/master/motion/body/c09/update.prc"
-        ],
         "sound/bank/fighter/se_master_c01.nus3audio": [
             "sound/bank/fighter/se_master_c09.nus3audio"
         ],
@@ -2167,6 +2231,9 @@
         ],
         "fighter/kirby/model/copy_master_cap/c01/metamon_model.numatb": [
             "fighter/kirby/model/copy_master_cap/c09/metamon_model.numatb"
+        ],
+        "fighter/kirby/model/copy_master_cap/c01/model.nuanmb": [
+            "fighter/kirby/model/copy_master_cap/c09/model.nuanmb"
         ],
         "fighter/kirby/model/copy_master_cap/c01/model.nuhlpb": [
             "fighter/kirby/model/copy_master_cap/c09/model.nuhlpb"
@@ -2315,27 +2382,6 @@
         "fighter/trail/model/thunder/c00/model.xmb": [
             "fighter/trail/model/thunder/c08/model.xmb"
         ],
-        "fighter/trail/motion/body/c00/flip.prc": [
-            "fighter/trail/motion/body/c08/flip.prc"
-        ],
-        "fighter/trail/motion/body/c00/ik.prc": [
-            "fighter/trail/motion/body/c08/ik.prc"
-        ],
-        "fighter/trail/motion/body/c00/scharge.prc": [
-            "fighter/trail/motion/body/c08/scharge.prc"
-        ],
-        "fighter/trail/motion/body/c00/swing.prc": [
-            "fighter/trail/motion/body/c08/swing.prc"
-        ],
-        "fighter/trail/motion/body/c00/swingblend.prc": [
-            "fighter/trail/motion/body/c08/swingblend.prc"
-        ],
-        "fighter/trail/motion/body/c00/update.prc": [
-            "fighter/trail/motion/body/c08/update.prc"
-        ],
-        "fighter/trail/motion/box/c00/update.prc": [
-            "fighter/trail/motion/box/c08/update.prc"
-        ],
         "sound/bank/fighter/se_trail_c00.nus3bank": [
             "sound/bank/fighter/se_trail_c08.nus3bank"
         ],
@@ -2377,6 +2423,9 @@
         ],
         "fighter/kirby/model/copy_trail_cap/c00/metamon_model.numatb": [
             "fighter/kirby/model/copy_trail_cap/c08/metamon_model.numatb"
+        ],
+        "fighter/kirby/model/copy_trail_cap/c00/model.nuanmb": [
+            "fighter/kirby/model/copy_trail_cap/c08/model.nuanmb"
         ],
         "fighter/kirby/model/copy_trail_cap/c00/model.nuhlpb": [
             "fighter/kirby/model/copy_trail_cap/c08/model.nuhlpb"
@@ -2437,18 +2486,6 @@
         ]
     },
     "share-to-added": {
-        "fighter/link/model/body/c00/model.nuanmb": [
-            "fighter/link/model/body/c08/model.nuanmb"
-        ],
-        "fighter/link/model/boomerang/c00/model.nuanmb": [
-            "fighter/link/model/boomerang/c08/model.nuanmb"
-        ],
-        "fighter/link/model/bow/c00/model.nuanmb": [
-            "fighter/link/model/bow/c08/model.nuanmb"
-        ],
-        "fighter/link/model/bowarrow/c00/model.nuanmb": [
-            "fighter/link/model/bowarrow/c08/model.nuanmb"
-        ],
         "fighter/link/motion/ancientbow/c00/d04final.nuanmb": [
             "fighter/link/motion/ancientbow/c08/d04final.nuanmb"
         ],
@@ -3436,11 +3473,32 @@
         "fighter/link/motion/body/c00/l02share_sleep.nuanmb": [
             "fighter/link/motion/body/c08/l02share_sleep.nuanmb"
         ],
+        "fighter/link/motion/body/c00/flip.prc": [
+            "fighter/link/motion/body/c08/flip.prc"
+        ],
+        "fighter/link/motion/body/c00/ik.prc": [
+            "fighter/link/motion/body/c08/ik.prc"
+        ],
         "fighter/link/motion/body/c00/motion_list.bin": [
             "fighter/link/motion/body/c08/motion_list.bin"
         ],
+        "fighter/link/motion/body/c00/scharge.prc": [
+            "fighter/link/motion/body/c08/scharge.prc"
+        ],
+        "fighter/link/motion/body/c00/swing.prc": [
+            "fighter/link/motion/body/c08/swing.prc"
+        ],
+        "fighter/link/motion/body/c00/swingblend.prc": [
+            "fighter/link/motion/body/c08/swingblend.prc"
+        ],
+        "fighter/link/motion/body/c00/update.prc": [
+            "fighter/link/motion/body/c08/update.prc"
+        ],
         "fighter/link/motion/boomerang/c00/motion_list.bin": [
             "fighter/link/motion/boomerang/c08/motion_list.bin"
+        ],
+        "fighter/link/motion/boomerang/c00/update.prc": [
+            "fighter/link/motion/boomerang/c08/update.prc"
         ],
         "fighter/link/motion/bow/c00/d00specialairnend.nuanmb": [
             "fighter/link/motion/bow/c08/d00specialairnend.nuanmb"
@@ -3463,14 +3521,41 @@
         "fighter/link/motion/bow/c00/motion_list.bin": [
             "fighter/link/motion/bow/c08/motion_list.bin"
         ],
+        "fighter/link/motion/bow/c00/update.prc": [
+            "fighter/link/motion/bow/c08/update.prc"
+        ],
         "fighter/link/motion/bowarrow/c00/motion_list.bin": [
             "fighter/link/motion/bowarrow/c08/motion_list.bin"
+        ],
+        "fighter/link/motion/bowarrow/c00/update.prc": [
+            "fighter/link/motion/bowarrow/c08/update.prc"
+        ],
+        "fighter/link/motion/clawshot/c00/update.prc": [
+            "fighter/link/motion/clawshot/c08/update.prc"
+        ],
+        "fighter/link/motion/clawshotall/c00/update.prc": [
+            "fighter/link/motion/clawshotall/c08/update.prc"
+        ],
+        "fighter/link/motion/clawshothand/c00/update.prc": [
+            "fighter/link/motion/clawshothand/c08/update.prc"
+        ],
+        "fighter/link/motion/clawshothead/c00/update.prc": [
+            "fighter/link/motion/clawshothead/c08/update.prc"
+        ],
+        "fighter/link/motion/clawshotreverse/c00/update.prc": [
+            "fighter/link/motion/clawshotreverse/c08/update.prc"
+        ],
+        "fighter/link/motion/linkbomb/c00/update.prc": [
+            "fighter/link/motion/linkbomb/c08/update.prc"
         ],
         "fighter/link/motion/navy/c00/j01appeals.nuanmb": [
             "fighter/link/motion/navy/c08/j01appeals.nuanmb"
         ],
         "fighter/link/motion/navy/c00/motion_list.bin": [
             "fighter/link/motion/navy/c08/motion_list.bin"
+        ],
+        "fighter/link/motion/navy/c00/update.prc": [
+            "fighter/link/motion/navy/c08/update.prc"
         ],
         "fighter/link/motion/parasail/c00/j00entryr.nuanmb": [
             "fighter/link/motion/parasail/c08/j00entryr.nuanmb"
@@ -3480,6 +3565,18 @@
         ],
         "fighter/link/motion/swordbeam/c00/motion_list.bin": [
             "fighter/link/motion/swordbeam/c08/motion_list.bin"
+        ],
+        "fighter/kirby/motion/copy_link_cap/c00/flip.prc": [
+            "fighter/kirby/motion/copy_link_cap/c08/flip.prc"
+        ],
+        "fighter/kirby/motion/copy_link_cap/c00/motion_list.bin": [
+            "fighter/kirby/motion/copy_link_cap/c08/motion_list.bin"
+        ],
+        "fighter/kirby/motion/copy_link_cap/c00/swing.prc": [
+            "fighter/kirby/motion/copy_link_cap/c08/swing.prc"
+        ],
+        "fighter/kirby/motion/copy_link_cap/c00/update.prc": [
+            "fighter/kirby/motion/copy_link_cap/c08/update.prc"
         ],
         "camera/fighter/link/c00/d04final.nuanmb": [
             "camera/fighter/link/c08/d04final.nuanmb"
@@ -3493,23 +3590,23 @@
         "camera/fighter/link/c00/j02win3.nuanmb": [
             "camera/fighter/link/c08/j02win3.nuanmb"
         ],
-        "fighter/kirby/model/copy_link_cap/c00/model.nuanmb": [
-            "fighter/kirby/model/copy_link_cap/c08/model.nuanmb"
+        "fighter/link/motion/body/c01/flip.prc": [
+            "fighter/link/motion/body/c09/flip.prc"
         ],
-        "fighter/kirby/motion/copy_link_cap/c00/motion_list.bin": [
-            "fighter/kirby/motion/copy_link_cap/c08/motion_list.bin"
+        "fighter/link/motion/body/c01/ik.prc": [
+            "fighter/link/motion/body/c09/ik.prc"
         ],
-        "fighter/link/model/body/c01/model.nuanmb": [
-            "fighter/link/model/body/c09/model.nuanmb"
+        "fighter/link/motion/body/c01/scharge.prc": [
+            "fighter/link/motion/body/c09/scharge.prc"
         ],
-        "fighter/link/model/boomerang/c01/model.nuanmb": [
-            "fighter/link/model/boomerang/c09/model.nuanmb"
+        "fighter/link/motion/body/c01/swing.prc": [
+            "fighter/link/motion/body/c09/swing.prc"
         ],
-        "fighter/link/model/bow/c01/model.nuanmb": [
-            "fighter/link/model/bow/c09/model.nuanmb"
+        "fighter/link/motion/body/c01/swingblend.prc": [
+            "fighter/link/motion/body/c09/swingblend.prc"
         ],
-        "fighter/link/model/bowarrow/c01/model.nuanmb": [
-            "fighter/link/model/bowarrow/c09/model.nuanmb"
+        "fighter/link/motion/body/c01/update.prc": [
+            "fighter/link/motion/body/c09/update.prc"
         ],
         "fighter/link/motion/ancientbow/c01/d04final.nuanmb": [
             "fighter/link/motion/ancientbow/c09/d04final.nuanmb"
@@ -4504,6 +4601,9 @@
         "fighter/link/motion/boomerang/c01/motion_list.bin": [
             "fighter/link/motion/boomerang/c09/motion_list.bin"
         ],
+        "fighter/link/motion/boomerang/c01/update.prc": [
+            "fighter/link/motion/boomerang/c09/update.prc"
+        ],
         "fighter/link/motion/bow/c01/d00specialairnend.nuanmb": [
             "fighter/link/motion/bow/c09/d00specialairnend.nuanmb"
         ],
@@ -4525,14 +4625,41 @@
         "fighter/link/motion/bow/c01/motion_list.bin": [
             "fighter/link/motion/bow/c09/motion_list.bin"
         ],
+        "fighter/link/motion/bow/c01/update.prc": [
+            "fighter/link/motion/bow/c09/update.prc"
+        ],
         "fighter/link/motion/bowarrow/c01/motion_list.bin": [
             "fighter/link/motion/bowarrow/c09/motion_list.bin"
+        ],
+        "fighter/link/motion/bowarrow/c01/update.prc": [
+            "fighter/link/motion/bowarrow/c09/update.prc"
+        ],
+        "fighter/link/motion/clawshot/c01/update.prc": [
+            "fighter/link/motion/clawshot/c09/update.prc"
+        ],
+        "fighter/link/motion/clawshotall/c01/update.prc": [
+            "fighter/link/motion/clawshotall/c09/update.prc"
+        ],
+        "fighter/link/motion/clawshothand/c01/update.prc": [
+            "fighter/link/motion/clawshothand/c09/update.prc"
+        ],
+        "fighter/link/motion/clawshothead/c01/update.prc": [
+            "fighter/link/motion/clawshothead/c09/update.prc"
+        ],
+        "fighter/link/motion/clawshotreverse/c01/update.prc": [
+            "fighter/link/motion/clawshotreverse/c09/update.prc"
+        ],
+        "fighter/link/motion/linkbomb/c01/update.prc": [
+            "fighter/link/motion/linkbomb/c09/update.prc"
         ],
         "fighter/link/motion/navy/c01/j01appeals.nuanmb": [
             "fighter/link/motion/navy/c09/j01appeals.nuanmb"
         ],
         "fighter/link/motion/navy/c01/motion_list.bin": [
             "fighter/link/motion/navy/c09/motion_list.bin"
+        ],
+        "fighter/link/motion/navy/c01/update.prc": [
+            "fighter/link/motion/navy/c09/update.prc"
         ],
         "fighter/link/motion/parasail/c01/j00entryr.nuanmb": [
             "fighter/link/motion/parasail/c09/j00entryr.nuanmb"
@@ -4555,11 +4682,1109 @@
         "camera/fighter/link/c01/j02win3.nuanmb": [
             "camera/fighter/link/c09/j02win3.nuanmb"
         ],
-        "fighter/kirby/model/copy_link_cap/c01/model.nuanmb": [
-            "fighter/kirby/model/copy_link_cap/c09/model.nuanmb"
+        "fighter/lucario/motion/auraball/c00/motion_list.bin": [
+            "fighter/lucario/motion/auraball/c08/motion_list.bin"
         ],
-        "fighter/master/model/background/c00/model.nuanmb": [
-            "fighter/master/model/background/c08/model.nuanmb"
+        "fighter/lucario/motion/body/c00/a00defaulteyelid.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00defaulteyelid.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00itemhandgrip.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00itemhandgrip.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00itemhandhave.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00itemhandhave.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00itemhandpickup.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00itemhandpickup.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00itemhandsmash.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00itemhandsmash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00wait1.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00wait1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00wait2.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00wait2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00wait3.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00wait3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a00waititem.nuanmb": [
+            "fighter/lucario/motion/body/c08/a00waititem.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01turn.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01turn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01walkbrakel.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01walkbrakel.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01walkbraker.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01walkbraker.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01walkfast.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01walkfast.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01walkmiddle.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01walkmiddle.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a01walkslow.nuanmb": [
+            "fighter/lucario/motion/body/c08/a01walkslow.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02dash.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02dash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02run.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02run.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02runbrakel.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02runbrakel.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02runbraker.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02runbraker.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02turndash.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02turndash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02turnrun.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02turnrun.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a02turnrunbrake.nuanmb": [
+            "fighter/lucario/motion/body/c08/a02turnrunbrake.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a03jumpaerialb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a03jumpaerialb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a03jumpaerialf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a03jumpaerialf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a03jumpb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a03jumpb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a03jumpf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a03jumpf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a03jumpsquat.nuanmb": [
+            "fighter/lucario/motion/body/c08/a03jumpsquat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04damagefall.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04damagefall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fall.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallaerial.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallaerial.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallaerialb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallaerialb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallaerialf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallaerialf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallspecial.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallspecial.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallspecialb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallspecialb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04fallspecialf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04fallspecialf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04landingfallspecial.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04landingfallspecial.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04runfalll.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04runfalll.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04runfallr.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04runfallr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04walkfalll.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04walkfalll.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a04walkfallr.nuanmb": [
+            "fighter/lucario/motion/body/c08/a04walkfallr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05landingheavy.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05landingheavy.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05landinglight.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05landinglight.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squat.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squatb.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squatb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squatf.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squatf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squatrv.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squatrv.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squatwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squatwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a05squatwaititem.nuanmb": [
+            "fighter/lucario/motion/body/c08/a05squatwaititem.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a06stepairpose.nuanmb": [
+            "fighter/lucario/motion/body/c08/a06stepairpose.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a06stepback.nuanmb": [
+            "fighter/lucario/motion/body/c08/a06stepback.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a06stepfall.nuanmb": [
+            "fighter/lucario/motion/body/c08/a06stepfall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a06stepjump.nuanmb": [
+            "fighter/lucario/motion/body/c08/a06stepjump.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/a06steppose.nuanmb": [
+            "fighter/lucario/motion/body/c08/a06steppose.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b00guard.nuanmb": [
+            "fighter/lucario/motion/body/c08/b00guard.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b00guardoff.nuanmb": [
+            "fighter/lucario/motion/body/c08/b00guardoff.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b00guardon.nuanmb": [
+            "fighter/lucario/motion/body/c08/b00guardon.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b00justshieldoff.nuanmb": [
+            "fighter/lucario/motion/body/c08/b00justshieldoff.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b01guarddamage.nuanmb": [
+            "fighter/lucario/motion/body/c08/b01guarddamage.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b02escapeair.nuanmb": [
+            "fighter/lucario/motion/body/c08/b02escapeair.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b02escapeb.nuanmb": [
+            "fighter/lucario/motion/body/c08/b02escapeb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b02escapef.nuanmb": [
+            "fighter/lucario/motion/body/c08/b02escapef.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b02escapen.nuanmb": [
+            "fighter/lucario/motion/body/c08/b02escapen.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/b02rebound.nuanmb": [
+            "fighter/lucario/motion/body/c08/b02rebound.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c00attack11.nuanmb": [
+            "fighter/lucario/motion/body/c08/c00attack11.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c00attack12.nuanmb": [
+            "fighter/lucario/motion/body/c08/c00attack12.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c00attack13.nuanmb": [
+            "fighter/lucario/motion/body/c08/c00attack13.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c00attackdash.nuanmb": [
+            "fighter/lucario/motion/body/c08/c00attackdash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c01attacks3hi.nuanmb": [
+            "fighter/lucario/motion/body/c08/c01attacks3hi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c01attacks3lw.nuanmb": [
+            "fighter/lucario/motion/body/c08/c01attacks3lw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c01attacks3s.nuanmb": [
+            "fighter/lucario/motion/body/c08/c01attacks3s.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c02attackhi3.nuanmb": [
+            "fighter/lucario/motion/body/c08/c02attackhi3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c02attacklw3.nuanmb": [
+            "fighter/lucario/motion/body/c08/c02attacklw3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c03attacks4charge.nuanmb": [
+            "fighter/lucario/motion/body/c08/c03attacks4charge.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c03attacks4s.nuanmb": [
+            "fighter/lucario/motion/body/c08/c03attacks4s.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c04attackhi4.nuanmb": [
+            "fighter/lucario/motion/body/c08/c04attackhi4.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c04attackhi4charge.nuanmb": [
+            "fighter/lucario/motion/body/c08/c04attackhi4charge.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c04attacklw4.nuanmb": [
+            "fighter/lucario/motion/body/c08/c04attacklw4.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c04attacklw4charge.nuanmb": [
+            "fighter/lucario/motion/body/c08/c04attacklw4charge.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05attackairb.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05attackairb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05attackairf.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05attackairf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05attackairhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05attackairhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05attackairlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05attackairlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05attackairn.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05attackairn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05landingairb.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05landingairb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05landingairf.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05landingairf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05landingairhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05landingairhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05landingairlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05landingairlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/c05landingairn.nuanmb": [
+            "fighter/lucario/motion/body/c08/c05landingairn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairncancel.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairncancel.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairnhold.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairnhold.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairnjumpcancel.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairnjumpcancel.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairnmax.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairnmax.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairnshoot.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairnshoot.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialairnstart.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialairnstart.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialncancel.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialncancel.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialnhold.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialnhold.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialnmax.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialnmax.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialnshoot.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialnshoot.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d00specialnstart.nuanmb": [
+            "fighter/lucario/motion/body/c08/d00specialnstart.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d01specialairs.nuanmb": [
+            "fighter/lucario/motion/body/c08/d01specialairs.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d01specials.nuanmb": [
+            "fighter/lucario/motion/body/c08/d01specials.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d01specialsthrow.nuanmb": [
+            "fighter/lucario/motion/body/c08/d01specialsthrow.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialairhiend.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialairhiend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialairhistartl.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialairhistartl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialairhistartr.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialairhistartr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialhibound.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialhibound.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialhiend.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialhiend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialhimove.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialhimove.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialhistartl.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialhistartl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d02specialhistartr.nuanmb": [
+            "fighter/lucario/motion/body/c08/d02specialhistartr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03specialairappear.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03specialairappear.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03specialairlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03specialairlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03specialairlwend.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03specialairlwend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03speciallw.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03speciallw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03speciallwend.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03speciallwend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d03speciallwsplit.nuanmb": [
+            "fighter/lucario/motion/body/c08/d03speciallwsplit.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalairreturn.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalairreturn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalairreturnl.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalairreturnl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalairstartl.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalairstartl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalairstartr.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalairstartr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalstartl.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalstartl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/d04finalstartr.nuanmb": [
+            "fighter/lucario/motion/body/c08/d04finalstartr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catch.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catch.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchattack.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchattack.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchcut.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchcut.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchdash.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchdash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchpull.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchpull.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchturn.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchturn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e00catchwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/e00catchwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwb.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwf.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownb.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownbigb.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownbigb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownbigf.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownbigf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownbighi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownbighi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownbiglw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownbiglw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwndxb.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwndxb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwndxf.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwndxf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwndxhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwndxhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwndxlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwndxlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownf.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwngirlb.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwngirlb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwngirlf.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwngirlf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwngirlhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwngirlhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01throwngirllw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01throwngirllw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e01thrownlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e01thrownlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e02capturedamagehi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e02capturedamagehi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e02capturepulledhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e02capturepulledhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e02capturewaithi.nuanmb": [
+            "fighter/lucario/motion/body/c08/e02capturewaithi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e03capturecut.nuanmb": [
+            "fighter/lucario/motion/body/c08/e03capturecut.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e03capturedamagelw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e03capturedamagelw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e03capturejump.nuanmb": [
+            "fighter/lucario/motion/body/c08/e03capturejump.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e03capturepulledlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e03capturepulledlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/e03capturewaitlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/e03capturewaitlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagehi1.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagehi1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagehi2.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagehi2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagehi3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagehi3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagelw1.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagelw1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagelw2.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagelw2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagelw3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagelw3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagen1.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagen1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagen2.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagen2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f00damagen3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f00damagen3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageair1.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageair1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageair2.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageair2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageair3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageair3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflyhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflyhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflylw.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflylw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflymeteor.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflymeteor.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflyn.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflyn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflyroll.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflyroll.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflyrollend.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflyrollend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f01damageflytop.nuanmb": [
+            "fighter/lucario/motion/body/c08/f01damageflytop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f02damageelec.nuanmb": [
+            "fighter/lucario/motion/body/c08/f02damageelec.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downattacku.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downattacku.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downbacku.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downbacku.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downboundu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downboundu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downdamageu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downdamageu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downdamageu3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downdamageu3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downeatu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downeatu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downforwardu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downforwardu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downstandu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downstandu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f03downwaitu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f03downwaitu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downattackd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downattackd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downbackd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downbackd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downboundd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downboundd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downdamaged.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downdamaged.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downdamaged3.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downdamaged3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downeatd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downeatd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downforwardd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downforwardd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downspotd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downspotd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downstandd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downstandd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f04downwaitd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f04downwaitd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passive.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passive.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passiveceil.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passiveceil.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passivestandb.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passivestandb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passivestandf.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passivestandf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passivewall.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passivewall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f05passivewalljump.nuanmb": [
+            "fighter/lucario/motion/body/c08/f05passivewalljump.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f06furafura.nuanmb": [
+            "fighter/lucario/motion/body/c08/f06furafura.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f06furafuraend.nuanmb": [
+            "fighter/lucario/motion/body/c08/f06furafuraend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f06furafurastartd.nuanmb": [
+            "fighter/lucario/motion/body/c08/f06furafurastartd.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f06furafurastartu.nuanmb": [
+            "fighter/lucario/motion/body/c08/f06furafurastartu.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f07sleepend.nuanmb": [
+            "fighter/lucario/motion/body/c08/f07sleepend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f07sleeploop.nuanmb": [
+            "fighter/lucario/motion/body/c08/f07sleeploop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f07sleepstart.nuanmb": [
+            "fighter/lucario/motion/body/c08/f07sleepstart.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f08swallowed.nuanmb": [
+            "fighter/lucario/motion/body/c08/f08swallowed.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/f09camerahit.nuanmb": [
+            "fighter/lucario/motion/body/c08/f09camerahit.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00ceildamage.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00ceildamage.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00missfoot.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00missfoot.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00ottotto.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00ottotto.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00ottottowait.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00ottottowait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00pass.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00pass.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00stopceil.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00stopceil.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00stopwall.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00stopwall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g00walldamage.nuanmb": [
+            "fighter/lucario/motion/body/c08/g00walldamage.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g01cliffcatch.nuanmb": [
+            "fighter/lucario/motion/body/c08/g01cliffcatch.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g01cliffwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/g01cliffwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g02cliffattack.nuanmb": [
+            "fighter/lucario/motion/body/c08/g02cliffattack.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g02cliffclimb.nuanmb": [
+            "fighter/lucario/motion/body/c08/g02cliffclimb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g02cliffescape.nuanmb": [
+            "fighter/lucario/motion/body/c08/g02cliffescape.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g02cliffjump1.nuanmb": [
+            "fighter/lucario/motion/body/c08/g02cliffjump1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g02cliffjump2.nuanmb": [
+            "fighter/lucario/motion/body/c08/g02cliffjump2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slip.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slip.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipattack.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipattack.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipdown.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipdown.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipescapeb.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipescapeb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipescapef.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipescapef.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipstand.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipstand.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/g03slipwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/g03slipwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h00lighteat.nuanmb": [
+            "fighter/lucario/motion/body/c08/h00lighteat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h00lightget.nuanmb": [
+            "fighter/lucario/motion/body/c08/h00lightget.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h00lightwalkeat.nuanmb": [
+            "fighter/lucario/motion/body/c08/h00lightwalkeat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h00lightwalkget.nuanmb": [
+            "fighter/lucario/motion/body/c08/h00lightwalkget.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowb.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowdash.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowdash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowdrop.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowdrop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowf.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h01lightthrowlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/h01lightthrowlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h02lightthrowairb.nuanmb": [
+            "fighter/lucario/motion/body/c08/h02lightthrowairb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h02lightthrowairf.nuanmb": [
+            "fighter/lucario/motion/body/c08/h02lightthrowairf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h02lightthrowairhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/h02lightthrowairhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h02lightthrowairlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/h02lightthrowairlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavyget.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavyget.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavythrowb.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavythrowb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavythrowf.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavythrowf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavythrowhi.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavythrowhi.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavythrowlw.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavythrowlw.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h03heavywalk.nuanmb": [
+            "fighter/lucario/motion/body/c08/h03heavywalk.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h04swing1.nuanmb": [
+            "fighter/lucario/motion/body/c08/h04swing1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h04swing3.nuanmb": [
+            "fighter/lucario/motion/body/c08/h04swing3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h04swing4.nuanmb": [
+            "fighter/lucario/motion/body/c08/h04swing4.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h04swing4charge.nuanmb": [
+            "fighter/lucario/motion/body/c08/h04swing4charge.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h04swingdash.nuanmb": [
+            "fighter/lucario/motion/body/c08/h04swingdash.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h05itemhammerair.nuanmb": [
+            "fighter/lucario/motion/body/c08/h05itemhammerair.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h05itemhammermove.nuanmb": [
+            "fighter/lucario/motion/body/c08/h05itemhammermove.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h05itemhammerwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/h05itemhammerwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h06swing4bat.nuanmb": [
+            "fighter/lucario/motion/body/c08/h06swing4bat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h07itemscrew.nuanmb": [
+            "fighter/lucario/motion/body/c08/h07itemscrew.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h07itemscrewfall.nuanmb": [
+            "fighter/lucario/motion/body/c08/h07itemscrewfall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h08itemdragoonget.nuanmb": [
+            "fighter/lucario/motion/body/c08/h08itemdragoonget.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h08itemdragoonride.nuanmb": [
+            "fighter/lucario/motion/body/c08/h08itemdragoonride.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h10itemlegsjumpsquat.nuanmb": [
+            "fighter/lucario/motion/body/c08/h10itemlegsjumpsquat.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h10itemlegslanding.nuanmb": [
+            "fighter/lucario/motion/body/c08/h10itemlegslanding.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h10itemlegswalkb.nuanmb": [
+            "fighter/lucario/motion/body/c08/h10itemlegswalkb.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h10itemlegswalkf.nuanmb": [
+            "fighter/lucario/motion/body/c08/h10itemlegswalkf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshoot.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshoot.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshootair.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshootair.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshootairloop.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshootairloop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshootloop.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshootloop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshootloopupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshootloopupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h11itemshootupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h11itemshootupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeairend.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeairend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeairfire.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeairfire.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeairrapid.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeairrapid.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeairstart.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeairstart.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeend.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopeendupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopeendupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopefall.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopefall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopefire.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopefire.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopefireupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopefireupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscoperapid.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscoperapid.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscoperapidupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscoperapidupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopestart.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopestart.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopestartupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopestartupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopewait.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopewait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h12itemscopewaitupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h12itemscopewaitupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h13itemassist.nuanmb": [
+            "fighter/lucario/motion/body/c08/h13itemassist.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h14gekikarawait.nuanmb": [
+            "fighter/lucario/motion/body/c08/h14gekikarawait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h14gekikarawaitface.nuanmb": [
+            "fighter/lucario/motion/body/c08/h14gekikarawaitface.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h15itemgrasspull.nuanmb": [
+            "fighter/lucario/motion/body/c08/h15itemgrasspull.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisairend.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisairend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisairfire.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisairfire.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisairloop.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisairloop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisend.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisfall.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisfall.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisfire.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisfire.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisloop.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisloop.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesisturn.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesisturn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesiswait.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesiswait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/h16itemgenesiswaitupper.nuanmb": [
+            "fighter/lucario/motion/body/c08/h16itemgenesiswaitupper.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swim.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swim.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimend.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimend.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimf.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimf.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimrise.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimrise.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimturn.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimturn.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimup.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimup.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i00swimupdamage.nuanmb": [
+            "fighter/lucario/motion/body/c08/i00swimupdamage.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i01swimdrown.nuanmb": [
+            "fighter/lucario/motion/body/c08/i01swimdrown.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/i01swimdrownout.nuanmb": [
+            "fighter/lucario/motion/body/c08/i01swimdrownout.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j00entryl.nuanmb": [
+            "fighter/lucario/motion/body/c08/j00entryl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j00entryr.nuanmb": [
+            "fighter/lucario/motion/body/c08/j00entryr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j01appealhir.nuanmb": [
+            "fighter/lucario/motion/body/c08/j01appealhir.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j01appeallwr.nuanmb": [
+            "fighter/lucario/motion/body/c08/j01appeallwr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j01appealsr.nuanmb": [
+            "fighter/lucario/motion/body/c08/j01appealsr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02lose.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02lose.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win1.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win1.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win1wait.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win1wait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win2.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win2.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win2wait.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win2wait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win3.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win3.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/j02win3wait.nuanmb": [
+            "fighter/lucario/motion/body/c08/j02win3wait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchairl.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchairl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchairr.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchairr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchendl.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchendl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchendr.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchendr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchl.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchl.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00laddercatchr.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00laddercatchr.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00ladderdown.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00ladderdown.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00ladderup.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00ladderup.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/k00ladderwait.nuanmb": [
+            "fighter/lucario/motion/body/c08/k00ladderwait.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/l00share.nuanmb": [
+            "fighter/lucario/motion/body/c08/l00share.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/l02share_cliff.nuanmb": [
+            "fighter/lucario/motion/body/c08/l02share_cliff.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/l02share_finish.nuanmb": [
+            "fighter/lucario/motion/body/c08/l02share_finish.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/l02share_fistdown.nuanmb": [
+            "fighter/lucario/motion/body/c08/l02share_fistdown.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/l02share_sleep.nuanmb": [
+            "fighter/lucario/motion/body/c08/l02share_sleep.nuanmb"
+        ],
+        "fighter/lucario/motion/body/c00/flip.prc": [
+            "fighter/lucario/motion/body/c08/flip.prc"
+        ],
+        "fighter/lucario/motion/body/c00/ik.prc": [
+            "fighter/lucario/motion/body/c08/ik.prc"
+        ],
+        "fighter/lucario/motion/body/c00/motion_list.bin": [
+            "fighter/lucario/motion/body/c08/motion_list.bin"
+        ],
+        "fighter/lucario/motion/body/c00/scharge.prc": [
+            "fighter/lucario/motion/body/c08/scharge.prc"
+        ],
+        "fighter/lucario/motion/body/c00/swingblend.prc": [
+            "fighter/lucario/motion/body/c08/swingblend.prc"
+        ],
+        "fighter/lucario/motion/body/c00/update.prc": [
+            "fighter/lucario/motion/body/c08/update.prc"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalairstart.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalairstart.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalairstartturn.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalairstartturn.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalattack.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalattack.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalend.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalend.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalhold.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalhold.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finaljump.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finaljump.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalstart.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalstart.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/d04finalstartturn.nuanmb": [
+            "fighter/lucario/motion/lucariom/c08/d04finalstartturn.nuanmb"
+        ],
+        "fighter/lucario/motion/lucariom/c00/flip.prc": [
+            "fighter/lucario/motion/lucariom/c08/flip.prc"
+        ],
+        "fighter/lucario/motion/lucariom/c00/motion_list.bin": [
+            "fighter/lucario/motion/lucariom/c08/motion_list.bin"
+        ],
+        "fighter/lucario/motion/lucariom/c00/update.prc": [
+            "fighter/lucario/motion/lucariom/c08/update.prc"
+        ],
+        "fighter/lucario/motion/qigong/c00/motion_list.bin": [
+            "fighter/lucario/motion/qigong/c08/motion_list.bin"
+        ],
+        "fighter/kirby/motion/copy_lucario_cap/c00/flip.prc": [
+            "fighter/kirby/motion/copy_lucario_cap/c08/flip.prc"
+        ],
+        "fighter/kirby/motion/copy_lucario_cap/c00/motion_list.bin": [
+            "fighter/kirby/motion/copy_lucario_cap/c08/motion_list.bin"
+        ],
+        "fighter/kirby/motion/copy_lucario_cap/c00/update.prc": [
+            "fighter/kirby/motion/copy_lucario_cap/c08/update.prc"
+        ],
+        "camera/fighter/lucario/c00/d04finalstart.nuanmb": [
+            "camera/fighter/lucario/c08/d04finalstart.nuanmb"
+        ],
+        "camera/fighter/lucario/c00/j02win1.nuanmb": [
+            "camera/fighter/lucario/c08/j02win1.nuanmb"
+        ],
+        "camera/fighter/lucario/c00/j02win2.nuanmb": [
+            "camera/fighter/lucario/c08/j02win2.nuanmb"
+        ],
+        "camera/fighter/lucario/c00/j02win3.nuanmb": [
+            "camera/fighter/lucario/c08/j02win3.nuanmb"
         ],
         "fighter/master/motion/arrow1/c00/motion_list.bin": [
             "fighter/master/motion/arrow1/c08/motion_list.bin"
@@ -5710,8 +6935,26 @@
         "fighter/master/motion/body/c00/l02share_sleep.nuanmb": [
             "fighter/master/motion/body/c08/l02share_sleep.nuanmb"
         ],
+        "fighter/master/motion/body/c00/flip.prc": [
+            "fighter/master/motion/body/c08/flip.prc"
+        ],
+        "fighter/master/motion/body/c00/ik.prc": [
+            "fighter/master/motion/body/c08/ik.prc"
+        ],
         "fighter/master/motion/body/c00/motion_list.bin": [
             "fighter/master/motion/body/c08/motion_list.bin"
+        ],
+        "fighter/master/motion/body/c00/scharge.prc": [
+            "fighter/master/motion/body/c08/scharge.prc"
+        ],
+        "fighter/master/motion/body/c00/swing.prc": [
+            "fighter/master/motion/body/c08/swing.prc"
+        ],
+        "fighter/master/motion/body/c00/swingblend.prc": [
+            "fighter/master/motion/body/c08/swingblend.prc"
+        ],
+        "fighter/master/motion/body/c00/update.prc": [
+            "fighter/master/motion/body/c08/update.prc"
         ],
         "fighter/master/motion/bow/c00/d00specialn.nuanmb": [
             "fighter/master/motion/bow/c08/d00specialn.nuanmb"
@@ -5874,12 +7117,6 @@
         ],
         "camera/fighter/master/c00/j02win3.nuanmb": [
             "camera/fighter/master/c08/j02win3.nuanmb"
-        ],
-        "fighter/kirby/model/copy_master_cap/c00/model.nuanmb": [
-            "fighter/kirby/model/copy_master_cap/c08/model.nuanmb"
-        ],
-        "fighter/master/model/background/c01/model.nuanmb": [
-            "fighter/master/model/background/c09/model.nuanmb"
         ],
         "fighter/master/motion/arrow/c01/d00specialairncancel.nuanmb": [
             "fighter/master/motion/arrow/c09/d00specialairncancel.nuanmb"
@@ -6976,8 +8213,23 @@
         "fighter/master/motion/body/c01/l02share_sleep.nuanmb": [
             "fighter/master/motion/body/c09/l02share_sleep.nuanmb"
         ],
+        "fighter/master/motion/body/c01/flip.prc": [
+            "fighter/master/motion/body/c09/flip.prc"
+        ],
+        "fighter/master/motion/body/c01/ik.prc": [
+            "fighter/master/motion/body/c09/ik.prc"
+        ],
         "fighter/master/motion/body/c01/motion_list.bin": [
             "fighter/master/motion/body/c09/motion_list.bin"
+        ],
+        "fighter/master/motion/body/c01/scharge.prc": [
+            "fighter/master/motion/body/c09/scharge.prc"
+        ],
+        "fighter/master/motion/body/c01/swingblend.prc": [
+            "fighter/master/motion/body/c09/swingblend.prc"
+        ],
+        "fighter/master/motion/body/c01/update.prc": [
+            "fighter/master/motion/body/c09/update.prc"
         ],
         "fighter/master/motion/bow/c01/d00specialairncancel.nuanmb": [
             "fighter/master/motion/bow/c09/d00specialairncancel.nuanmb"
@@ -7215,9 +8467,6 @@
         ],
         "camera/fighter/master/c01/d04visualscene03.nuanmb": [
             "camera/fighter/master/c09/d04visualscene03.nuanmb"
-        ],
-        "fighter/kirby/model/copy_master_cap/c01/model.nuanmb": [
-            "fighter/kirby/model/copy_master_cap/c09/model.nuanmb"
         ],
         "fighter/trail/motion/beam/c00/motion_list.bin": [
             "fighter/trail/motion/beam/c08/motion_list.bin"
@@ -8329,8 +9578,26 @@
         "fighter/trail/motion/body/c00/l02share_sleep.nuanmb": [
             "fighter/trail/motion/body/c08/l02share_sleep.nuanmb"
         ],
+        "fighter/trail/motion/body/c00/flip.prc": [
+            "fighter/trail/motion/body/c08/flip.prc"
+        ],
+        "fighter/trail/motion/body/c00/ik.prc": [
+            "fighter/trail/motion/body/c08/ik.prc"
+        ],
         "fighter/trail/motion/body/c00/motion_list.bin": [
             "fighter/trail/motion/body/c08/motion_list.bin"
+        ],
+        "fighter/trail/motion/body/c00/scharge.prc": [
+            "fighter/trail/motion/body/c08/scharge.prc"
+        ],
+        "fighter/trail/motion/body/c00/swing.prc": [
+            "fighter/trail/motion/body/c08/swing.prc"
+        ],
+        "fighter/trail/motion/body/c00/swingblend.prc": [
+            "fighter/trail/motion/body/c08/swingblend.prc"
+        ],
+        "fighter/trail/motion/body/c00/update.prc": [
+            "fighter/trail/motion/body/c08/update.prc"
         ],
         "fighter/trail/motion/box/c00/d04visualscene01.nuanmb": [
             "fighter/trail/motion/box/c08/d04visualscene01.nuanmb"
@@ -8346,6 +9613,9 @@
         ],
         "fighter/trail/motion/box/c00/motion_list.bin": [
             "fighter/trail/motion/box/c08/motion_list.bin"
+        ],
+        "fighter/trail/motion/box/c00/update.prc": [
+            "fighter/trail/motion/box/c08/update.prc"
         ],
         "fighter/trail/motion/cloud/c00/motion_list.bin": [
             "fighter/trail/motion/cloud/c08/motion_list.bin"
@@ -8397,9 +9667,6 @@
         ],
         "camera/fighter/trail/c00/j02win3.nuanmb": [
             "camera/fighter/trail/c08/j02win3.nuanmb"
-        ],
-        "fighter/kirby/model/copy_trail_cap/c00/model.nuanmb": [
-            "fighter/kirby/model/copy_trail_cap/c08/model.nuanmb"
         ]
     },
     "new-dir-files": {
@@ -9489,6 +10756,448 @@
             "fighter/kirby/model/copy_link_cap/c09/model.nusrcmdlb",
             "fighter/kirby/model/copy_link_cap/c09/model.xmb"
         ],
+        "fighter/lucario/c08": [
+            "fighter/lucario/model/body/c08/alp_lucario_001_col.nutexb",
+            "fighter/lucario/model/body/c08/alp_lucario_001_nor.nutexb",
+            "fighter/lucario/model/body/c08/alp_lucario_001_prm.nutexb",
+            "fighter/lucario/model/body/c08/dark_model.numatb",
+            "fighter/lucario/model/body/c08/deyes_eye_lucario_d_col.nutexb",
+            "fighter/lucario/model/body/c08/deyes_eye_lucario_wd_col.nutexb",
+            "fighter/lucario/model/body/c08/eye_lucario_b_col.nutexb",
+            "fighter/lucario/model/body/c08/eye_lucario_g_col.nutexb",
+            "fighter/lucario/model/body/c08/eye_lucario_w_col.nutexb",
+            "fighter/lucario/model/body/c08/eye_lucario_w_nor.nutexb",
+            "fighter/lucario/model/body/c08/eye_lucario_w_prm.nutexb",
+            "fighter/lucario/model/body/c08/eye_mario_w_nor.nutexb",
+            "fighter/lucario/model/body/c08/leyes_eye_lucario_l_col.nutexb",
+            "fighter/lucario/model/body/c08/light_model.numatb",
+            "fighter/lucario/model/body/c08/metamon_model.numatb",
+            "fighter/lucario/model/body/c08/model.nuanmb",
+            "fighter/lucario/model/body/c08/model.nuhlpb",
+            "fighter/lucario/model/body/c08/model.numatb",
+            "fighter/lucario/model/body/c08/model.numdlb",
+            "fighter/lucario/model/body/c08/model.numshb",
+            "fighter/lucario/model/body/c08/model.numshexb",
+            "fighter/lucario/model/body/c08/model.nusktb",
+            "fighter/lucario/model/body/c08/model.nusrcmdlb",
+            "fighter/lucario/model/body/c08/model.xmb",
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_col.nutexb",
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_nor.nutexb",
+            "fighter/lucario/model/lucariom/c08/alp_lucariom_001_prm.nutexb",
+            "fighter/lucario/model/lucariom/c08/dark_model.numatb",
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_b_col.nutexb",
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_col.nutexb",
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_nor.nutexb",
+            "fighter/lucario/model/lucariom/c08/eye_lucariom_w_prm.nutexb",
+            "fighter/lucario/model/lucariom/c08/light_model.numatb",
+            "fighter/lucario/model/lucariom/c08/metamon_model.numatb",
+            "fighter/lucario/model/lucariom/c08/model.nuhlpb",
+            "fighter/lucario/model/lucariom/c08/model.numatb",
+            "fighter/lucario/model/lucariom/c08/model.numdlb",
+            "fighter/lucario/model/lucariom/c08/model.numshb",
+            "fighter/lucario/model/lucariom/c08/model.numshexb",
+            "fighter/lucario/model/lucariom/c08/model.nusktb",
+            "fighter/lucario/model/lucariom/c08/model.nusrcmdlb",
+            "fighter/lucario/model/lucariom/c08/model.xmb",
+            "fighter/lucario/motion/auraball/c08/motion_list.bin",
+            "fighter/lucario/motion/body/c08/a00defaulteyelid.nuanmb",
+            "fighter/lucario/motion/body/c08/a00itemhandgrip.nuanmb",
+            "fighter/lucario/motion/body/c08/a00itemhandhave.nuanmb",
+            "fighter/lucario/motion/body/c08/a00itemhandpickup.nuanmb",
+            "fighter/lucario/motion/body/c08/a00itemhandsmash.nuanmb",
+            "fighter/lucario/motion/body/c08/a00wait1.nuanmb",
+            "fighter/lucario/motion/body/c08/a00wait2.nuanmb",
+            "fighter/lucario/motion/body/c08/a00wait3.nuanmb",
+            "fighter/lucario/motion/body/c08/a00waititem.nuanmb",
+            "fighter/lucario/motion/body/c08/a01turn.nuanmb",
+            "fighter/lucario/motion/body/c08/a01walkbrakel.nuanmb",
+            "fighter/lucario/motion/body/c08/a01walkbraker.nuanmb",
+            "fighter/lucario/motion/body/c08/a01walkfast.nuanmb",
+            "fighter/lucario/motion/body/c08/a01walkmiddle.nuanmb",
+            "fighter/lucario/motion/body/c08/a01walkslow.nuanmb",
+            "fighter/lucario/motion/body/c08/a02dash.nuanmb",
+            "fighter/lucario/motion/body/c08/a02run.nuanmb",
+            "fighter/lucario/motion/body/c08/a02runbrakel.nuanmb",
+            "fighter/lucario/motion/body/c08/a02runbraker.nuanmb",
+            "fighter/lucario/motion/body/c08/a02turndash.nuanmb",
+            "fighter/lucario/motion/body/c08/a02turnrun.nuanmb",
+            "fighter/lucario/motion/body/c08/a02turnrunbrake.nuanmb",
+            "fighter/lucario/motion/body/c08/a03jumpaerialb.nuanmb",
+            "fighter/lucario/motion/body/c08/a03jumpaerialf.nuanmb",
+            "fighter/lucario/motion/body/c08/a03jumpb.nuanmb",
+            "fighter/lucario/motion/body/c08/a03jumpf.nuanmb",
+            "fighter/lucario/motion/body/c08/a03jumpsquat.nuanmb",
+            "fighter/lucario/motion/body/c08/a04damagefall.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fall.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallaerial.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallaerialb.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallaerialf.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallb.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallf.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallspecial.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallspecialb.nuanmb",
+            "fighter/lucario/motion/body/c08/a04fallspecialf.nuanmb",
+            "fighter/lucario/motion/body/c08/a04landingfallspecial.nuanmb",
+            "fighter/lucario/motion/body/c08/a04runfalll.nuanmb",
+            "fighter/lucario/motion/body/c08/a04runfallr.nuanmb",
+            "fighter/lucario/motion/body/c08/a04walkfalll.nuanmb",
+            "fighter/lucario/motion/body/c08/a04walkfallr.nuanmb",
+            "fighter/lucario/motion/body/c08/a05landingheavy.nuanmb",
+            "fighter/lucario/motion/body/c08/a05landinglight.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squat.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squatb.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squatf.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squatrv.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squatwait.nuanmb",
+            "fighter/lucario/motion/body/c08/a05squatwaititem.nuanmb",
+            "fighter/lucario/motion/body/c08/a06stepairpose.nuanmb",
+            "fighter/lucario/motion/body/c08/a06stepback.nuanmb",
+            "fighter/lucario/motion/body/c08/a06stepfall.nuanmb",
+            "fighter/lucario/motion/body/c08/a06stepjump.nuanmb",
+            "fighter/lucario/motion/body/c08/a06steppose.nuanmb",
+            "fighter/lucario/motion/body/c08/b00guard.nuanmb",
+            "fighter/lucario/motion/body/c08/b00guardoff.nuanmb",
+            "fighter/lucario/motion/body/c08/b00guardon.nuanmb",
+            "fighter/lucario/motion/body/c08/b00justshieldoff.nuanmb",
+            "fighter/lucario/motion/body/c08/b01guarddamage.nuanmb",
+            "fighter/lucario/motion/body/c08/b02escapeair.nuanmb",
+            "fighter/lucario/motion/body/c08/b02escapeb.nuanmb",
+            "fighter/lucario/motion/body/c08/b02escapef.nuanmb",
+            "fighter/lucario/motion/body/c08/b02escapen.nuanmb",
+            "fighter/lucario/motion/body/c08/b02rebound.nuanmb",
+            "fighter/lucario/motion/body/c08/c00attack11.nuanmb",
+            "fighter/lucario/motion/body/c08/c00attack12.nuanmb",
+            "fighter/lucario/motion/body/c08/c00attack13.nuanmb",
+            "fighter/lucario/motion/body/c08/c00attackdash.nuanmb",
+            "fighter/lucario/motion/body/c08/c01attacks3hi.nuanmb",
+            "fighter/lucario/motion/body/c08/c01attacks3lw.nuanmb",
+            "fighter/lucario/motion/body/c08/c01attacks3s.nuanmb",
+            "fighter/lucario/motion/body/c08/c02attackhi3.nuanmb",
+            "fighter/lucario/motion/body/c08/c02attacklw3.nuanmb",
+            "fighter/lucario/motion/body/c08/c03attacks4charge.nuanmb",
+            "fighter/lucario/motion/body/c08/c03attacks4s.nuanmb",
+            "fighter/lucario/motion/body/c08/c04attackhi4.nuanmb",
+            "fighter/lucario/motion/body/c08/c04attackhi4charge.nuanmb",
+            "fighter/lucario/motion/body/c08/c04attacklw4.nuanmb",
+            "fighter/lucario/motion/body/c08/c04attacklw4charge.nuanmb",
+            "fighter/lucario/motion/body/c08/c05attackairb.nuanmb",
+            "fighter/lucario/motion/body/c08/c05attackairf.nuanmb",
+            "fighter/lucario/motion/body/c08/c05attackairhi.nuanmb",
+            "fighter/lucario/motion/body/c08/c05attackairlw.nuanmb",
+            "fighter/lucario/motion/body/c08/c05attackairn.nuanmb",
+            "fighter/lucario/motion/body/c08/c05landingairb.nuanmb",
+            "fighter/lucario/motion/body/c08/c05landingairf.nuanmb",
+            "fighter/lucario/motion/body/c08/c05landingairhi.nuanmb",
+            "fighter/lucario/motion/body/c08/c05landingairlw.nuanmb",
+            "fighter/lucario/motion/body/c08/c05landingairn.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairncancel.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairnhold.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairnjumpcancel.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairnmax.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairnshoot.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialairnstart.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialncancel.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialnhold.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialnmax.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialnshoot.nuanmb",
+            "fighter/lucario/motion/body/c08/d00specialnstart.nuanmb",
+            "fighter/lucario/motion/body/c08/d01specialairs.nuanmb",
+            "fighter/lucario/motion/body/c08/d01specials.nuanmb",
+            "fighter/lucario/motion/body/c08/d01specialsthrow.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialairhiend.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialairhistartl.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialairhistartr.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialhibound.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialhiend.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialhimove.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialhistartl.nuanmb",
+            "fighter/lucario/motion/body/c08/d02specialhistartr.nuanmb",
+            "fighter/lucario/motion/body/c08/d03specialairappear.nuanmb",
+            "fighter/lucario/motion/body/c08/d03specialairlw.nuanmb",
+            "fighter/lucario/motion/body/c08/d03specialairlwend.nuanmb",
+            "fighter/lucario/motion/body/c08/d03speciallw.nuanmb",
+            "fighter/lucario/motion/body/c08/d03speciallwend.nuanmb",
+            "fighter/lucario/motion/body/c08/d03speciallwsplit.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalairreturn.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalairreturnl.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalairstartl.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalairstartr.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalstartl.nuanmb",
+            "fighter/lucario/motion/body/c08/d04finalstartr.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catch.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchattack.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchcut.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchdash.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchpull.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchturn.nuanmb",
+            "fighter/lucario/motion/body/c08/e00catchwait.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwb.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwf.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwhi.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwlw.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownb.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownbigb.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownbigf.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownbighi.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownbiglw.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwndxb.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwndxf.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwndxhi.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwndxlw.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownf.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwngirlb.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwngirlf.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwngirlhi.nuanmb",
+            "fighter/lucario/motion/body/c08/e01throwngirllw.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownhi.nuanmb",
+            "fighter/lucario/motion/body/c08/e01thrownlw.nuanmb",
+            "fighter/lucario/motion/body/c08/e02capturedamagehi.nuanmb",
+            "fighter/lucario/motion/body/c08/e02capturepulledhi.nuanmb",
+            "fighter/lucario/motion/body/c08/e02capturewaithi.nuanmb",
+            "fighter/lucario/motion/body/c08/e03capturecut.nuanmb",
+            "fighter/lucario/motion/body/c08/e03capturedamagelw.nuanmb",
+            "fighter/lucario/motion/body/c08/e03capturejump.nuanmb",
+            "fighter/lucario/motion/body/c08/e03capturepulledlw.nuanmb",
+            "fighter/lucario/motion/body/c08/e03capturewaitlw.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagehi1.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagehi2.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagehi3.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagelw1.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagelw2.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagelw3.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagen1.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagen2.nuanmb",
+            "fighter/lucario/motion/body/c08/f00damagen3.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageair1.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageair2.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageair3.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflyhi.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflylw.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflymeteor.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflyn.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflyroll.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflyrollend.nuanmb",
+            "fighter/lucario/motion/body/c08/f01damageflytop.nuanmb",
+            "fighter/lucario/motion/body/c08/f02damageelec.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downattacku.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downbacku.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downboundu.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downdamageu.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downdamageu3.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downeatu.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downforwardu.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downstandu.nuanmb",
+            "fighter/lucario/motion/body/c08/f03downwaitu.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downattackd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downbackd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downboundd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downdamaged.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downdamaged3.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downeatd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downforwardd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downspotd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downstandd.nuanmb",
+            "fighter/lucario/motion/body/c08/f04downwaitd.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passive.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passiveceil.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passivestandb.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passivestandf.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passivewall.nuanmb",
+            "fighter/lucario/motion/body/c08/f05passivewalljump.nuanmb",
+            "fighter/lucario/motion/body/c08/f06furafura.nuanmb",
+            "fighter/lucario/motion/body/c08/f06furafuraend.nuanmb",
+            "fighter/lucario/motion/body/c08/f06furafurastartd.nuanmb",
+            "fighter/lucario/motion/body/c08/f06furafurastartu.nuanmb",
+            "fighter/lucario/motion/body/c08/f07sleepend.nuanmb",
+            "fighter/lucario/motion/body/c08/f07sleeploop.nuanmb",
+            "fighter/lucario/motion/body/c08/f07sleepstart.nuanmb",
+            "fighter/lucario/motion/body/c08/f08swallowed.nuanmb",
+            "fighter/lucario/motion/body/c08/f09camerahit.nuanmb",
+            "fighter/lucario/motion/body/c08/g00ceildamage.nuanmb",
+            "fighter/lucario/motion/body/c08/g00missfoot.nuanmb",
+            "fighter/lucario/motion/body/c08/g00ottotto.nuanmb",
+            "fighter/lucario/motion/body/c08/g00ottottowait.nuanmb",
+            "fighter/lucario/motion/body/c08/g00pass.nuanmb",
+            "fighter/lucario/motion/body/c08/g00stopceil.nuanmb",
+            "fighter/lucario/motion/body/c08/g00stopwall.nuanmb",
+            "fighter/lucario/motion/body/c08/g00walldamage.nuanmb",
+            "fighter/lucario/motion/body/c08/g01cliffcatch.nuanmb",
+            "fighter/lucario/motion/body/c08/g01cliffwait.nuanmb",
+            "fighter/lucario/motion/body/c08/g02cliffattack.nuanmb",
+            "fighter/lucario/motion/body/c08/g02cliffclimb.nuanmb",
+            "fighter/lucario/motion/body/c08/g02cliffescape.nuanmb",
+            "fighter/lucario/motion/body/c08/g02cliffjump1.nuanmb",
+            "fighter/lucario/motion/body/c08/g02cliffjump2.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slip.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipattack.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipdown.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipescapeb.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipescapef.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipstand.nuanmb",
+            "fighter/lucario/motion/body/c08/g03slipwait.nuanmb",
+            "fighter/lucario/motion/body/c08/h00lighteat.nuanmb",
+            "fighter/lucario/motion/body/c08/h00lightget.nuanmb",
+            "fighter/lucario/motion/body/c08/h00lightwalkeat.nuanmb",
+            "fighter/lucario/motion/body/c08/h00lightwalkget.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowb.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowdash.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowdrop.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowf.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowhi.nuanmb",
+            "fighter/lucario/motion/body/c08/h01lightthrowlw.nuanmb",
+            "fighter/lucario/motion/body/c08/h02lightthrowairb.nuanmb",
+            "fighter/lucario/motion/body/c08/h02lightthrowairf.nuanmb",
+            "fighter/lucario/motion/body/c08/h02lightthrowairhi.nuanmb",
+            "fighter/lucario/motion/body/c08/h02lightthrowairlw.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavyget.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavythrowb.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavythrowf.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavythrowhi.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavythrowlw.nuanmb",
+            "fighter/lucario/motion/body/c08/h03heavywalk.nuanmb",
+            "fighter/lucario/motion/body/c08/h04swing1.nuanmb",
+            "fighter/lucario/motion/body/c08/h04swing3.nuanmb",
+            "fighter/lucario/motion/body/c08/h04swing4.nuanmb",
+            "fighter/lucario/motion/body/c08/h04swing4charge.nuanmb",
+            "fighter/lucario/motion/body/c08/h04swingdash.nuanmb",
+            "fighter/lucario/motion/body/c08/h05itemhammerair.nuanmb",
+            "fighter/lucario/motion/body/c08/h05itemhammermove.nuanmb",
+            "fighter/lucario/motion/body/c08/h05itemhammerwait.nuanmb",
+            "fighter/lucario/motion/body/c08/h06swing4bat.nuanmb",
+            "fighter/lucario/motion/body/c08/h07itemscrew.nuanmb",
+            "fighter/lucario/motion/body/c08/h07itemscrewfall.nuanmb",
+            "fighter/lucario/motion/body/c08/h08itemdragoonget.nuanmb",
+            "fighter/lucario/motion/body/c08/h08itemdragoonride.nuanmb",
+            "fighter/lucario/motion/body/c08/h10itemlegsjumpsquat.nuanmb",
+            "fighter/lucario/motion/body/c08/h10itemlegslanding.nuanmb",
+            "fighter/lucario/motion/body/c08/h10itemlegswalkb.nuanmb",
+            "fighter/lucario/motion/body/c08/h10itemlegswalkf.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshoot.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshootair.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshootairloop.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshootloop.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshootloopupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h11itemshootupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeairend.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeairfire.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeairrapid.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeairstart.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeend.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopeendupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopefall.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopefire.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopefireupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscoperapid.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscoperapidupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopestart.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopestartupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopewait.nuanmb",
+            "fighter/lucario/motion/body/c08/h12itemscopewaitupper.nuanmb",
+            "fighter/lucario/motion/body/c08/h13itemassist.nuanmb",
+            "fighter/lucario/motion/body/c08/h14gekikarawait.nuanmb",
+            "fighter/lucario/motion/body/c08/h14gekikarawaitface.nuanmb",
+            "fighter/lucario/motion/body/c08/h15itemgrasspull.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisairend.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisairfire.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisairloop.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisend.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisfall.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisfire.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisloop.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesisturn.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesiswait.nuanmb",
+            "fighter/lucario/motion/body/c08/h16itemgenesiswaitupper.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swim.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimend.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimf.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimrise.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimturn.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimup.nuanmb",
+            "fighter/lucario/motion/body/c08/i00swimupdamage.nuanmb",
+            "fighter/lucario/motion/body/c08/i01swimdrown.nuanmb",
+            "fighter/lucario/motion/body/c08/i01swimdrownout.nuanmb",
+            "fighter/lucario/motion/body/c08/j00entryl.nuanmb",
+            "fighter/lucario/motion/body/c08/j00entryr.nuanmb",
+            "fighter/lucario/motion/body/c08/j01appealhir.nuanmb",
+            "fighter/lucario/motion/body/c08/j01appeallwr.nuanmb",
+            "fighter/lucario/motion/body/c08/j01appealsr.nuanmb",
+            "fighter/lucario/motion/body/c08/j02lose.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win1.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win1wait.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win2.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win2wait.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win3.nuanmb",
+            "fighter/lucario/motion/body/c08/j02win3wait.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchairl.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchairr.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchendl.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchendr.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchl.nuanmb",
+            "fighter/lucario/motion/body/c08/k00laddercatchr.nuanmb",
+            "fighter/lucario/motion/body/c08/k00ladderdown.nuanmb",
+            "fighter/lucario/motion/body/c08/k00ladderup.nuanmb",
+            "fighter/lucario/motion/body/c08/k00ladderwait.nuanmb",
+            "fighter/lucario/motion/body/c08/l00share.nuanmb",
+            "fighter/lucario/motion/body/c08/l02share_cliff.nuanmb",
+            "fighter/lucario/motion/body/c08/l02share_finish.nuanmb",
+            "fighter/lucario/motion/body/c08/l02share_fistdown.nuanmb",
+            "fighter/lucario/motion/body/c08/l02share_sleep.nuanmb",
+            "fighter/lucario/motion/body/c08/flip.prc",
+            "fighter/lucario/motion/body/c08/ik.prc",
+            "fighter/lucario/motion/body/c08/motion_list.bin",
+            "fighter/lucario/motion/body/c08/scharge.prc",
+            "fighter/lucario/motion/body/c08/swing.prc",
+            "fighter/lucario/motion/body/c08/swingblend.prc",
+            "fighter/lucario/motion/body/c08/update.prc",
+            "fighter/lucario/motion/lucariom/c08/d04finalairstart.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalairstartturn.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalattack.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalend.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalhold.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finaljump.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalstart.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/d04finalstartturn.nuanmb",
+            "fighter/lucario/motion/lucariom/c08/flip.prc",
+            "fighter/lucario/motion/lucariom/c08/motion_list.bin",
+            "fighter/lucario/motion/lucariom/c08/update.prc",
+            "fighter/lucario/motion/qigong/c08/motion_list.bin",
+            "sound/bank/fighter/se_lucario_c08.nus3audio",
+            "sound/bank/fighter/se_lucario_c08.nus3bank",
+            "sound/bank/fighter/se_lucario_c08.tonelabel",
+            "sound/bank/fighter_voice/vc_lucario_c08.nus3audio",
+            "sound/bank/fighter_voice/vc_lucario_c08.nus3bank",
+            "sound/bank/fighter_voice/vc_lucario_c08.tonelabel",
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3audio",
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3bank",
+            "sound/bank/fighter_voice/vc_lucario_cheer_c08.tonelabel"
+        ],
+        "fighter/lucario/result/c08": [],
+        "fighter/lucario/kirbycopy/c08": [
+            "fighter/kirby/model/copy_lucario_cap/c08/dark_model.numatb",
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_col.nutexb",
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_nor.nutexb",
+            "fighter/kirby/model/copy_lucario_cap/c08/kirby_lucario_001_prm.nutexb",
+            "fighter/kirby/model/copy_lucario_cap/c08/light_model.numatb",
+            "fighter/kirby/model/copy_lucario_cap/c08/metamon_model.numatb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nuhlpb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numatb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numdlb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numshb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.numshexb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nusktb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.nusrcmdlb",
+            "fighter/kirby/model/copy_lucario_cap/c08/model.xmb",
+            "fighter/kirby/motion/copy_lucario_cap/c08/flip.prc",
+            "fighter/kirby/motion/copy_lucario_cap/c08/motion_list.bin",
+            "fighter/kirby/motion/copy_lucario_cap/c08/update.prc"
+        ],
+        "fighter/lucario/camera/c08": [
+            "camera/fighter/lucario/c08/d04finalstart.nuanmb",
+            "camera/fighter/lucario/c08/j02win1.nuanmb",
+            "camera/fighter/lucario/c08/j02win2.nuanmb",
+            "camera/fighter/lucario/c08/j02win3.nuanmb"
+        ],
+        "fighter/lucario/movie/c08": [],
         "fighter/master/c08": [
             "effect/fighter/master/trail_c08/tex_master_sword1.nutexb",
             "effect/fighter/master/trail_c08/tex_master_sword2.nutexb",
