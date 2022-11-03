@@ -127,11 +127,31 @@
     <hash40 index="111">dummy</hash40>
     <hash40 index="112">dummy</hash40>
     <hash40 index="113">dummy</hash40>
-    <hash40 index="114">dummy</hash40>
-    <hash40 index="115">dummy</hash40>
-    <hash40 index="116">dummy</hash40>
-    <hash40 index="117">dummy</hash40>
-    <hash40 index="118">dummy</hash40>
+    <struct index="114">
+      <byte hash="color_num">13</byte>
+	  <byte hash="c12_index">1</byte>
+	  <byte hash="n12_index">1</byte>
+    </struct>
+    <struct index="115">
+      <byte hash="color_num">13</byte>
+	  <byte hash="c12_index">1</byte>
+	  <byte hash="n12_index">1</byte>
+    </struct>
+    <struct index="116">
+      <byte hash="color_num">13</byte>
+	  <byte hash="c12_index">1</byte>
+	  <byte hash="n12_index">1</byte>
+    </struct>
+    <struct index="117">
+      <byte hash="color_num">13</byte>
+	  <byte hash="c12_index">1</byte>
+	  <byte hash="n12_index">1</byte>
+    </struct>
+    <struct index="118">
+      <byte hash="color_num">13</byte>
+	  <byte hash="c12_index">1</byte>
+	  <byte hash="n12_index">1</byte>
+    </struct>
     <hash40 index="119">dummy</hash40>
     <struct index="120">
       <byte hash="color_num">9</byte>
