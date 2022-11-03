@@ -129,27 +129,22 @@
     <hash40 index="113">dummy</hash40>
     <struct index="114">
       <byte hash="color_num">13</byte>
-	  <byte hash="c12_index">1</byte>
 	  <byte hash="n12_index">1</byte>
     </struct>
     <struct index="115">
       <byte hash="color_num">13</byte>
-	  <byte hash="c12_index">1</byte>
 	  <byte hash="n12_index">1</byte>
     </struct>
     <struct index="116">
       <byte hash="color_num">13</byte>
-	  <byte hash="c12_index">1</byte>
 	  <byte hash="n12_index">1</byte>
     </struct>
     <struct index="117">
       <byte hash="color_num">13</byte>
-	  <byte hash="c12_index">1</byte>
 	  <byte hash="n12_index">1</byte>
     </struct>
     <struct index="118">
       <byte hash="color_num">13</byte>
-	  <byte hash="c12_index">1</byte>
 	  <byte hash="n12_index">1</byte>
     </struct>
     <hash40 index="119">dummy</hash40>
