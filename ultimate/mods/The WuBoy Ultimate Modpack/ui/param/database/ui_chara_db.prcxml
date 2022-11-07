@@ -62,7 +62,11 @@
     <hash40 index="54">dummy</hash40>
     <hash40 index="55">dummy</hash40>
     <hash40 index="56">dummy</hash40>
-    <hash40 index="57">dummy</hash40>
+    <struct index="57">
+      <byte hash="color_num">11</byte>
+      <byte hash="n09_index">1</byte>
+      <byte hash="n10_index">1</byte>
+    </struct>
     <hash40 index="58">dummy</hash40>
     <hash40 index="59">dummy</hash40>
     <hash40 index="60">dummy</hash40>
