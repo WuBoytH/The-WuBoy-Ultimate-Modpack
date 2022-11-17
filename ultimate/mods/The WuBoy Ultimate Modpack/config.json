@@ -513,7 +513,6 @@
         ],
         "fighter/eflame/model/body/c00/model.nuhlpb": [
             "fighter/eflame/model/body/c08/model.nuhlpb",
-            "fighter/eflame/model/body/c09/model.nuhlpb",
             "fighter/eflame/model/body/c10/model.nuhlpb",
             "fighter/eflame/model/body/c11/model.nuhlpb",
             "fighter/eflame/model/body/c12/model.nuhlpb"
@@ -1480,7 +1479,6 @@
         ],
         "fighter/elight/model/body/c00/model.nuhlpb": [
             "fighter/elight/model/body/c08/model.nuhlpb",
-            "fighter/elight/model/body/c09/model.nuhlpb",
             "fighter/elight/model/body/c10/model.nuhlpb",
             "fighter/elight/model/body/c11/model.nuhlpb",
             "fighter/elight/model/body/c12/model.nuhlpb"
@@ -1983,7 +1981,6 @@
         ],
         "fighter/elight/model/body/c03/model.nuhlpb": [
             "fighter/elight/model/body/c08/model.nuhlpb",
-            "fighter/elight/model/body/c09/model.nuhlpb",
             "fighter/elight/model/body/c10/model.nuhlpb",
             "fighter/elight/model/body/c11/model.nuhlpb",
             "fighter/elight/model/body/c12/model.nuhlpb"
@@ -22056,6 +22053,7 @@
             "fighter/eflame/model/body/c09/def_flame_002_col.nutexb",
             "fighter/eflame/model/body/c09/def_flame_002_nor.nutexb",
             "fighter/eflame/model/body/c09/def_flame_002_prm.nutexb",
+            "fighter/eflame/model/body/c09/model.nuhlpb",
             "fighter/eflame/model/body/c09/model.numatb",
             "fighter/eflame/model/body/c09/model.numdlb",
             "fighter/eflame/model/body/c09/model.numshb",
@@ -25979,6 +25977,7 @@
             "fighter/elight/model/body/c09/def_light_003_col.nutexb",
             "fighter/elight/model/body/c09/def_light_003_emi.nutexb",
             "fighter/elight/model/body/c09/def_light_003_nor.nutexb",
+            "fighter/elight/model/body/c09/model.nuhlpb",
             "fighter/elight/model/body/c09/model.numatb",
             "fighter/elight/model/body/c09/model.numdlb",
             "fighter/elight/model/body/c09/model.numshb",
