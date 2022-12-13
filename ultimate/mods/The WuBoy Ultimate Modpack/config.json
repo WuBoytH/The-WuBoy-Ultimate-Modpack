@@ -1871,181 +1871,6 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c12.tonelabel",
             "sound/bank/fighter_voice/vc_elight_cheer_c13.tonelabel"
         ],
-        "fighter/elight/model/body/c03/alp_light_001_nor.nutexb": [
-            "fighter/elight/model/body/c08/alp_light_001_nor.nutexb",
-            "fighter/elight/model/body/c09/alp_light_001_nor.nutexb",
-            "fighter/elight/model/body/c10/alp_light_001_nor.nutexb",
-            "fighter/elight/model/body/c11/alp_light_001_nor.nutexb",
-            "fighter/elight/model/body/c12/alp_light_001_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/alp_light_001_prm.nutexb": [
-            "fighter/elight/model/body/c08/alp_light_001_prm.nutexb",
-            "fighter/elight/model/body/c09/alp_light_001_prm.nutexb",
-            "fighter/elight/model/body/c10/alp_light_001_prm.nutexb",
-            "fighter/elight/model/body/c11/alp_light_001_prm.nutexb",
-            "fighter/elight/model/body/c12/alp_light_001_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/dark_model.numatb": [
-            "fighter/elight/model/body/c08/dark_model.numatb",
-            "fighter/elight/model/body/c09/dark_model.numatb",
-            "fighter/elight/model/body/c10/dark_model.numatb",
-            "fighter/elight/model/body/c11/dark_model.numatb",
-            "fighter/elight/model/body/c12/dark_model.numatb"
-        ],
-        "fighter/elight/model/body/c03/def_light_001_nor.nutexb": [
-            "fighter/elight/model/body/c08/def_light_001_nor.nutexb",
-            "fighter/elight/model/body/c11/def_light_001_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/def_light_002_nor.nutexb": [
-            "fighter/elight/model/body/c08/def_light_002_nor.nutexb",
-            "fighter/elight/model/body/c09/def_light_002_nor.nutexb",
-            "fighter/elight/model/body/c11/def_light_002_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/def_light_002_prm.nutexb": [
-            "fighter/elight/model/body/c08/def_light_002_prm.nutexb",
-            "fighter/elight/model/body/c09/def_light_002_prm.nutexb",
-            "fighter/elight/model/body/c10/def_light_002_prm.nutexb",
-            "fighter/elight/model/body/c11/def_light_002_prm.nutexb",
-            "fighter/elight/model/body/c12/def_light_002_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/def_light_004_prm.nutexb": [
-            "fighter/elight/model/body/c08/def_light_004_prm.nutexb",
-            "fighter/elight/model/body/c09/def_light_004_prm.nutexb",
-            "fighter/elight/model/body/c10/def_light_004_prm.nutexb",
-            "fighter/elight/model/body/c11/def_light_004_prm.nutexb",
-            "fighter/elight/model/body/c12/def_light_004_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_b_col.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_b_col.nutexb",
-            "fighter/elight/model/body/c09/eye_light_b_col.nutexb",
-            "fighter/elight/model/body/c11/eye_light_b_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_b_r_col.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_b_r_col.nutexb",
-            "fighter/elight/model/body/c09/eye_light_b_r_col.nutexb",
-            "fighter/elight/model/body/c11/eye_light_b_r_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_g_col.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_g_col.nutexb",
-            "fighter/elight/model/body/c09/eye_light_g_col.nutexb",
-            "fighter/elight/model/body/c10/eye_light_g_col.nutexb",
-            "fighter/elight/model/body/c11/eye_light_g_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_g_r_col.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c09/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c10/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c11/eye_light_g_r_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_w_col.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_w_col.nutexb",
-            "fighter/elight/model/body/c09/eye_light_w_col.nutexb",
-            "fighter/elight/model/body/c10/eye_light_w_col.nutexb",
-            "fighter/elight/model/body/c11/eye_light_w_col.nutexb",
-            "fighter/elight/model/body/c12/eye_light_w_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_w_nor.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_w_nor.nutexb",
-            "fighter/elight/model/body/c09/eye_light_w_nor.nutexb",
-            "fighter/elight/model/body/c10/eye_light_w_nor.nutexb",
-            "fighter/elight/model/body/c11/eye_light_w_nor.nutexb",
-            "fighter/elight/model/body/c12/eye_light_w_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/eye_light_w_prm.nutexb": [
-            "fighter/elight/model/body/c08/eye_light_w_prm.nutexb",
-            "fighter/elight/model/body/c09/eye_light_w_prm.nutexb",
-            "fighter/elight/model/body/c10/eye_light_w_prm.nutexb",
-            "fighter/elight/model/body/c11/eye_light_w_prm.nutexb",
-            "fighter/elight/model/body/c12/eye_light_w_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/light_model.numatb": [
-            "fighter/elight/model/body/c08/light_model.numatb",
-            "fighter/elight/model/body/c09/light_model.numatb",
-            "fighter/elight/model/body/c10/light_model.numatb",
-            "fighter/elight/model/body/c11/light_model.numatb",
-            "fighter/elight/model/body/c12/light_model.numatb"
-        ],
-        "fighter/elight/model/body/c03/lod.xmb": [
-            "fighter/elight/model/body/c08/lod.xmb",
-            "fighter/elight/model/body/c09/lod.xmb",
-            "fighter/elight/model/body/c10/lod.xmb",
-            "fighter/elight/model/body/c11/lod.xmb",
-            "fighter/elight/model/body/c12/lod.xmb"
-        ],
-        "fighter/elight/model/body/c03/metamon_model.numatb": [
-            "fighter/elight/model/body/c08/metamon_model.numatb",
-            "fighter/elight/model/body/c09/metamon_model.numatb",
-            "fighter/elight/model/body/c10/metamon_model.numatb",
-            "fighter/elight/model/body/c11/metamon_model.numatb",
-            "fighter/elight/model/body/c12/metamon_model.numatb"
-        ],
-        "fighter/elight/model/body/c03/model.nuhlpb": [
-            "fighter/elight/model/body/c08/model.nuhlpb",
-            "fighter/elight/model/body/c10/model.nuhlpb",
-            "fighter/elight/model/body/c11/model.nuhlpb",
-            "fighter/elight/model/body/c12/model.nuhlpb"
-        ],
-        "fighter/elight/model/body/c03/model.nusktb": [
-            "fighter/elight/model/body/c08/model.nusktb",
-            "fighter/elight/model/body/c10/model.nusktb",
-            "fighter/elight/model/body/c11/model.nusktb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_002_col.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_002_col.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_002_col.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_002_col.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_002_col.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_002_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_002_nor.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_002_nor.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_002_nor.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_002_nor.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_002_nor.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_002_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_002_prm.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_002_prm.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_002_prm.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_002_prm.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_002_prm.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_002_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_003_col.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_003_col.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_003_col.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_003_col.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_003_col.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_003_col.nutexb",
-            "fighter/elight/model/body/c13/skin_flame_003_col.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_003_nor.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_003_nor.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_003_nor.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_003_nor.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_003_nor.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_003_nor.nutexb",
-            "fighter/elight/model/body/c13/skin_flame_003_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_flame_003_prm.nutexb": [
-            "fighter/elight/model/body/c08/skin_flame_003_prm.nutexb",
-            "fighter/elight/model/body/c09/skin_flame_003_prm.nutexb",
-            "fighter/elight/model/body/c10/skin_flame_003_prm.nutexb",
-            "fighter/elight/model/body/c11/skin_flame_003_prm.nutexb",
-            "fighter/elight/model/body/c12/skin_flame_003_prm.nutexb",
-            "fighter/elight/model/body/c13/skin_flame_003_prm.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_light_001_nor.nutexb": [
-            "fighter/elight/model/body/c08/skin_light_001_nor.nutexb",
-            "fighter/elight/model/body/c09/skin_light_001_nor.nutexb",
-            "fighter/elight/model/body/c10/skin_light_001_nor.nutexb",
-            "fighter/elight/model/body/c12/skin_light_001_nor.nutexb"
-        ],
-        "fighter/elight/model/body/c03/skin_light_001_prm.nutexb": [
-            "fighter/elight/model/body/c08/skin_light_001_prm.nutexb",
-            "fighter/elight/model/body/c10/skin_light_001_prm.nutexb",
-            "fighter/elight/model/body/c12/skin_light_001_prm.nutexb"
-        ],
         "fighter/kirby/model/copy_elight_cap/c00/alp_light_002_col.nutexb": [
             "fighter/kirby/model/copy_elight_cap/c08/alp_light_002_col.nutexb",
             "fighter/kirby/model/copy_elight_cap/c09/alp_light_002_col.nutexb",
@@ -2260,12 +2085,6 @@
             "fighter/elight/model/body/c11/def_light_003_prm.nutexb",
             "fighter/elight/model/body/c13/def_light_003_prm.nutexb"
         ],
-        "fighter/elight/model/body/c03/def_light_003_prm.nutexb": [
-            "fighter/elight/model/body/c09/def_light_003_prm.nutexb",
-            "fighter/elight/model/body/c10/def_light_003_prm.nutexb",
-            "fighter/elight/model/body/c11/def_light_003_prm.nutexb",
-            "fighter/elight/model/body/c13/def_light_003_prm.nutexb"
-        ],
         "fighter/elight/model/body/c00/def_light_003_col.nutexb": [
             "fighter/elight/model/body/c10/def_light_003_col.nutexb",
             "fighter/elight/model/body/c13/def_light_003_col.nutexb"
@@ -2279,11 +2098,6 @@
             "fighter/elight/model/body/c11/def_light_003_nor.nutexb",
             "fighter/elight/model/body/c13/def_light_003_nor.nutexb"
         ],
-        "fighter/elight/model/body/c03/def_light_003_nor.nutexb": [
-            "fighter/elight/model/body/c10/def_light_003_nor.nutexb",
-            "fighter/elight/model/body/c11/def_light_003_nor.nutexb",
-            "fighter/elight/model/body/c13/def_light_003_nor.nutexb"
-        ],
         "fighter/elight/model/body/c00/alp_light_001_col.nutexb": [
             "fighter/elight/model/body/c11/alp_light_001_col.nutexb"
         ],
@@ -2291,12 +2105,10 @@
             "fighter/link/model/body/c09/alp_link_001_col.nutexb"
         ],
         "fighter/link/model/body/c01/alp_link_001_nor.nutexb": [
-            "fighter/link/model/body/c09/alp_link_001_nor.nutexb",
-            "fighter/link/model/body/c08/alp_link_001_nor.nutexb"
+            "fighter/link/model/body/c09/alp_link_001_nor.nutexb"
         ],
         "fighter/link/model/body/c01/alp_link_001_prm.nutexb": [
-            "fighter/link/model/body/c09/alp_link_001_prm.nutexb",
-            "fighter/link/model/body/c08/alp_link_001_prm.nutexb"
+            "fighter/link/model/body/c09/alp_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c01/dark_model.numatb": [
             "fighter/link/model/body/c09/dark_model.numatb"
@@ -2305,8 +2117,7 @@
             "fighter/link/model/body/c09/def_link_001_col.nutexb"
         ],
         "fighter/link/model/body/c01/def_link_001_emi.nutexb": [
-            "fighter/link/model/body/c09/def_link_001_emi.nutexb",
-            "fighter/link/model/body/c08/def_link_001_emi.nutexb"
+            "fighter/link/model/body/c09/def_link_001_emi.nutexb"
         ],
         "fighter/link/model/body/c01/def_link_001_nor.nutexb": [
             "fighter/link/model/body/c09/def_link_001_nor.nutexb"
@@ -2315,12 +2126,10 @@
             "fighter/link/model/body/c09/def_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c01/deyes_eye_link_d_col.nutexb": [
-            "fighter/link/model/body/c09/deyes_eye_link_d_col.nutexb",
-            "fighter/link/model/body/c08/deyes_eye_link_d_col.nutexb"
+            "fighter/link/model/body/c09/deyes_eye_link_d_col.nutexb"
         ],
         "fighter/link/model/body/c01/deyes_eye_link_wd_col.nutexb": [
-            "fighter/link/model/body/c09/deyes_eye_link_wd_col.nutexb",
-            "fighter/link/model/body/c08/deyes_eye_link_wd_col.nutexb"
+            "fighter/link/model/body/c09/deyes_eye_link_wd_col.nutexb"
         ],
         "fighter/link/model/body/c01/eye_link_b_col.nutexb": [
             "fighter/link/model/body/c09/eye_link_b_col.nutexb"
@@ -2332,8 +2141,7 @@
             "fighter/link/model/body/c09/eye_link_w_col.nutexb"
         ],
         "fighter/link/model/body/c01/eye_link_w_nor.nutexb": [
-            "fighter/link/model/body/c09/eye_link_w_nor.nutexb",
-            "fighter/link/model/body/c08/eye_link_w_nor.nutexb"
+            "fighter/link/model/body/c09/eye_link_w_nor.nutexb"
         ],
         "fighter/link/model/body/c01/eye_link_w_prm.nutexb": [
             "fighter/link/model/body/c09/eye_link_w_prm.nutexb"
@@ -2360,16 +2168,13 @@
             "fighter/link/model/body/c09/model.numatb"
         ],
         "fighter/link/model/body/c01/model.nusktb": [
-            "fighter/link/model/body/c09/model.nusktb",
-            "fighter/link/model/body/c08/model.nusktb"
+            "fighter/link/model/body/c09/model.nusktb"
         ],
         "fighter/link/model/body/c01/model.nusrcmdlb": [
-            "fighter/link/model/body/c09/model.nusrcmdlb",
-            "fighter/link/model/body/c08/model.nusrcmdlb"
+            "fighter/link/model/body/c09/model.nusrcmdlb"
         ],
         "fighter/link/model/body/c01/model.xmb": [
-            "fighter/link/model/body/c09/model.xmb",
-            "fighter/link/model/body/c08/model.xmb"
+            "fighter/link/model/body/c09/model.xmb"
         ],
         "fighter/link/model/ancientbow/c01/dark_model.numatb": [
             "fighter/link/model/ancientbow/c09/dark_model.numatb"
@@ -2631,10 +2436,6 @@
         ],
         "sound/bank/fighter_voice/vc_link_cheer_c01.tonelabel": [
             "sound/bank/fighter_voice/vc_link_cheer_c09.tonelabel"
-        ],
-        "fighter/link/model/body/c04/model.nusrcmdlb": [
-            "fighter/link/model/body/c09/model.nusrcmdlb",
-            "fighter/link/model/body/c08/model.nusrcmdlb"
         ],
         "fighter/kirby/model/copy_link_cap/c01/dark_model.numatb": [
             "fighter/kirby/model/copy_link_cap/c09/dark_model.numatb"
@@ -3074,9 +2875,6 @@
         "sound/bank/fighter_voice/vc_link_cheer_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_link_cheer_c08.tonelabel"
         ],
-        "fighter/link/model/body/c01/alp_link_002_prm.nutexb": [
-            "fighter/link/model/body/c08/alp_link_002_prm.nutexb"
-        ],
         "fighter/kirby/model/copy_link_cap/c00/dark_model.numatb": [
             "fighter/kirby/model/copy_link_cap/c08/dark_model.numatb"
         ],
@@ -3220,18 +3018,6 @@
         ],
         "sound/bank/fighter_voice/vc_lucario_cheer_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_lucario_cheer_c08.tonelabel"
-        ],
-        "fighter/lucario/model/body/c02/dark_model.numatb": [
-            "fighter/lucario/model/body/c08/dark_model.numatb"
-        ],
-        "fighter/lucario/model/body/c02/light_model.numatb": [
-            "fighter/lucario/model/body/c08/light_model.numatb"
-        ],
-        "fighter/lucario/model/body/c02/metamon_model.numatb": [
-            "fighter/lucario/model/body/c08/metamon_model.numatb"
-        ],
-        "fighter/lucario/model/body/c02/model.nuanmb": [
-            "fighter/lucario/model/body/c08/model.nuanmb"
         ],
         "fighter/kirby/model/copy_lucario_cap/c00/dark_model.numatb": [
             "fighter/kirby/model/copy_lucario_cap/c08/dark_model.numatb"
@@ -3766,10 +3552,6 @@
         ],
         "sound/bank/fighter_voice/vc_master_cheer_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_master_cheer_c08.tonelabel"
-        ],
-        "fighter/master/model/body/c06/model.nusrcmdlb": [
-            "fighter/master/model/body/c08/model.nusrcmdlb",
-            "fighter/master/model/body/c09/model.nusrcmdlb"
         ],
         "fighter/kirby/model/copy_master_cap/c00/dark_model.numatb": [
             "fighter/kirby/model/copy_master_cap/c08/dark_model.numatb"
@@ -4774,102 +4556,6 @@
             "sound/bank/fighter_voice/vc_palutena_cheer_c08.tonelabel",
             "sound/bank/fighter_voice/vc_palutena_cheer_c09.tonelabel",
             "sound/bank/fighter_voice/vc_palutena_cheer_c10.tonelabel"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_001_nor.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_001_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_001_prm.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_001_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_002_nor.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_002_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_002_prm.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_002_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_003_nor.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_003_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/alp_palutena_003_prm.nutexb": [
-            "fighter/palutena/model/body/c08/alp_palutena_003_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/dark_model.numatb": [
-            "fighter/palutena/model/body/c08/dark_model.numatb",
-            "fighter/palutena/model/body/c09/dark_model.numatb",
-            "fighter/palutena/model/body/c10/dark_model.numatb"
-        ],
-        "fighter/palutena/model/body/c05/deyes_eye_palutena_d_col.nutexb": [
-            "fighter/palutena/model/body/c08/deyes_eye_palutena_d_col.nutexb",
-            "fighter/palutena/model/body/c09/deyes_eye_palutena_d_col.nutexb",
-            "fighter/palutena/model/body/c10/deyes_eye_palutena_d_col.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/deyes_eye_palutena_wd_col.nutexb": [
-            "fighter/palutena/model/body/c08/deyes_eye_palutena_wd_col.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/eye_palutena_g_col.nutexb": [
-            "fighter/palutena/model/body/c08/eye_palutena_g_col.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/eye_palutena_w_col.nutexb": [
-            "fighter/palutena/model/body/c08/eye_palutena_w_col.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/eye_palutena_w_nor.nutexb": [
-            "fighter/palutena/model/body/c08/eye_palutena_w_nor.nutexb",
-            "fighter/palutena/model/body/c09/eye_palutena_w_nor.nutexb",
-            "fighter/palutena/model/body/c10/eye_palutena_w_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/eye_palutena_w_prm.nutexb": [
-            "fighter/palutena/model/body/c08/eye_palutena_w_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/leyes_eye_palutena_l_col.nutexb": [
-            "fighter/palutena/model/body/c08/leyes_eye_palutena_l_col.nutexb",
-            "fighter/palutena/model/body/c09/leyes_eye_palutena_l_col.nutexb",
-            "fighter/palutena/model/body/c10/leyes_eye_palutena_l_col.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/light_model.numatb": [
-            "fighter/palutena/model/body/c08/light_model.numatb",
-            "fighter/palutena/model/body/c09/light_model.numatb",
-            "fighter/palutena/model/body/c10/light_model.numatb"
-        ],
-        "fighter/palutena/model/body/c05/lod.xmb": [
-            "fighter/palutena/model/body/c08/lod.xmb",
-            "fighter/palutena/model/body/c09/lod.xmb",
-            "fighter/palutena/model/body/c10/lod.xmb"
-        ],
-        "fighter/palutena/model/body/c05/metal_palutena_001_nor.nutexb": [
-            "fighter/palutena/model/body/c08/metal_palutena_001_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/metal_palutena_001_prm.nutexb": [
-            "fighter/palutena/model/body/c08/metal_palutena_001_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/metal_palutena_002_nor.nutexb": [
-            "fighter/palutena/model/body/c08/metal_palutena_002_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/metal_palutena_002_prm.nutexb": [
-            "fighter/palutena/model/body/c08/metal_palutena_002_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/metamon_model.numatb": [
-            "fighter/palutena/model/body/c08/metamon_model.numatb",
-            "fighter/palutena/model/body/c09/metamon_model.numatb",
-            "fighter/palutena/model/body/c10/metamon_model.numatb"
-        ],
-        "fighter/palutena/model/body/c05/model.nuhlpb": [
-            "fighter/palutena/model/body/c08/model.nuhlpb",
-            "fighter/palutena/model/body/c09/model.nuhlpb"
-        ],
-        "fighter/palutena/model/body/c05/model.nusktb": [
-            "fighter/palutena/model/body/c08/model.nusktb"
-        ],
-        "fighter/palutena/model/body/c05/skin_palutena_001_nor.nutexb": [
-            "fighter/palutena/model/body/c08/skin_palutena_001_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/skin_palutena_001_prm.nutexb": [
-            "fighter/palutena/model/body/c08/skin_palutena_001_prm.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/skin_palutena_002_nor.nutexb": [
-            "fighter/palutena/model/body/c08/skin_palutena_002_nor.nutexb"
-        ],
-        "fighter/palutena/model/body/c05/skin_palutena_002_prm.nutexb": [
-            "fighter/palutena/model/body/c08/skin_palutena_002_prm.nutexb"
         ],
         "fighter/kirby/model/copy_palutena_cap/c00/alp_palutena_002_col.nutexb": [
             "fighter/kirby/model/copy_palutena_cap/c08/alp_palutena_002_col.nutexb",
@@ -21517,18 +21203,7 @@
             "sound/bank/fighter_voice/vc_eflame_c08.tonelabel",
             "sound/bank/fighter_voice/vc_eflame_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_eflame_cheer_c08.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_cheer_c08.tonelabel",
-            "fighter/eflame/model/body/c08/alp_flame_001_col.nutexb",
-            "fighter/eflame/model/body/c08/alp_flame_001_emi.nutexb",
-            "fighter/eflame/model/body/c08/alp_flame_001_nor.nutexb",
-            "fighter/eflame/model/body/c08/alp_flame_001_prm.nutexb",
-            "fighter/eflame/model/body/c08/alp_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c08/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c08/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c08/model.numatb",
-            "fighter/eflame/model/body/c08/model.numdlb",
-            "fighter/eflame/model/body/c08/model.numshb",
-            "fighter/eflame/model/body/c08/model.numshexb"
+            "sound/bank/fighter_voice/vc_eflame_cheer_c08.tonelabel"
         ],
         "fighter/eflame/camera/c08": [
             "camera/fighter/eflame/c08/d04finalstart.nuanmb",
@@ -22040,26 +21715,7 @@
             "sound/bank/fighter_voice/vc_eflame_c09.tonelabel",
             "sound/bank/fighter_voice/vc_eflame_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_eflame_cheer_c09.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_cheer_c09.tonelabel",
-            "fighter/eflame/model/body/c09/alp_flame_001_col.nutexb",
-            "fighter/eflame/model/body/c09/alp_flame_001_nor.nutexb",
-            "fighter/eflame/model/body/c09/alp_flame_001_prm.nutexb",
-            "fighter/eflame/model/body/c09/alp_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c09/alp_flame_003_col.nutexb",
-            "fighter/eflame/model/body/c09/alp_flame_003_nor.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_001b_nor.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c09/def_flame_002_prm.nutexb",
-            "fighter/eflame/model/body/c09/model.nuhlpb",
-            "fighter/eflame/model/body/c09/model.numatb",
-            "fighter/eflame/model/body/c09/model.numdlb",
-            "fighter/eflame/model/body/c09/model.numshb",
-            "fighter/eflame/model/body/c09/model.numshexb",
-            "fighter/eflame/model/body/c09/model.nusktb",
-            "fighter/eflame/motion/body/c09/swing.prc"
+            "sound/bank/fighter_voice/vc_eflame_cheer_c09.tonelabel"
         ],
         "fighter/eflame/camera/c09": [
             "camera/fighter/eflame/c09/d04finalstart.nuanmb",
@@ -22571,25 +22227,7 @@
             "sound/bank/fighter_voice/vc_eflame_c10.tonelabel",
             "sound/bank/fighter_voice/vc_eflame_cheer_c10.nus3audio",
             "sound/bank/fighter_voice/vc_eflame_cheer_c10.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_cheer_c10.tonelabel",
-            "fighter/eflame/model/body/c10/alp_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_001b_nor.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_001b_prm.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c10/def_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c10/eye_flame_b_col.nutexb",
-            "fighter/eflame/model/body/c10/eye_flame_b_r_col.nutexb",
-            "fighter/eflame/model/body/c10/model.numatb",
-            "fighter/eflame/model/body/c10/model.numdlb",
-            "fighter/eflame/model/body/c10/model.numshb",
-            "fighter/eflame/model/body/c10/model.numshexb",
-            "fighter/eflame/model/esword/c10/alp_flame_005_col.nutexb",
-            "fighter/eflame/model/esword/c10/def_flame_003_col.nutexb",
-            "fighter/eflame/model/esword/c10/def_flame_003_emi.nutexb",
-            "fighter/eflame/model/esword/c10/def_flame_004_col.nutexb",
-            "fighter/eflame/model/esword/c10/def_flame_004_emi.nutexb"
+            "sound/bank/fighter_voice/vc_eflame_cheer_c10.tonelabel"
         ],
         "fighter/eflame/camera/c10": [
             "camera/fighter/eflame/c10/d04finalstart.nuanmb",
@@ -23101,30 +22739,7 @@
             "sound/bank/fighter_voice/vc_eflame_c11.tonelabel",
             "sound/bank/fighter_voice/vc_eflame_cheer_c11.nus3audio",
             "sound/bank/fighter_voice/vc_eflame_cheer_c11.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_cheer_c11.tonelabel",
-            "fighter/eflame/model/body/c11/alp_flame_001_col.nutexb",
-            "fighter/eflame/model/body/c11/alp_flame_001_emi.nutexb",
-            "fighter/eflame/model/body/c11/alp_flame_005_col.nutexb",
-            "fighter/eflame/model/body/c11/alp_flame_005_nor.nutexb",
-            "fighter/eflame/model/body/c11/alp_flame_005_prm.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_001b_prm.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_004_col.nutexb",
-            "fighter/eflame/model/body/c11/def_flame_004_emi.nutexb",
-            "fighter/eflame/model/body/c11/eye_flame_b_col.nutexb",
-            "fighter/eflame/model/body/c11/eye_flame_b_r_col.nutexb",
-            "fighter/eflame/model/body/c11/model.numatb",
-            "fighter/eflame/model/body/c11/model.numdlb",
-            "fighter/eflame/model/body/c11/model.numshb",
-            "fighter/eflame/model/body/c11/skin_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c11/skin_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c11/skin_flame_001b_prm.nutexb",
-            "fighter/eflame/model/esword/c11/alp_flame_005_col.nutexb",
-            "fighter/eflame/model/esword/c11/def_flame_003_col.nutexb",
-            "fighter/eflame/model/esword/c11/def_flame_004_col.nutexb",
-            "fighter/eflame/model/esword/c11/def_flame_004_emi.nutexb"
+            "sound/bank/fighter_voice/vc_eflame_cheer_c11.tonelabel"
         ],
         "fighter/eflame/camera/c11": [
             "camera/fighter/eflame/c11/d04finalstart.nuanmb",
@@ -23636,37 +23251,7 @@
             "sound/bank/fighter_voice/vc_eflame_c12.tonelabel",
             "sound/bank/fighter_voice/vc_eflame_cheer_c12.nus3audio",
             "sound/bank/fighter_voice/vc_eflame_cheer_c12.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_cheer_c12.tonelabel",
-            "fighter/eflame/model/body/c12/alp_flame_001_col.nutexb",
-            "fighter/eflame/model/body/c12/alp_flame_001_emi.nutexb",
-            "fighter/eflame/model/body/c12/alp_flame_001_nor.nutexb",
-            "fighter/eflame/model/body/c12/alp_flame_001_prm.nutexb",
-            "fighter/eflame/model/body/c12/alp_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_001b_nor.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_001b_prm.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_002_prm.nutexb",
-            "fighter/eflame/model/body/c12/def_flame_004_col.nutexb",
-            "fighter/eflame/model/body/c12/eye_flame_b_col.nutexb",
-            "fighter/eflame/model/body/c12/eye_flame_b_r_col.nutexb",
-            "fighter/eflame/model/body/c12/eye_flame_g_col.nutexb",
-            "fighter/eflame/model/body/c12/eye_flame_g_r_col.nutexb",
-            "fighter/eflame/model/body/c12/model.numatb",
-            "fighter/eflame/model/body/c12/model.numdlb",
-            "fighter/eflame/model/body/c12/model.numshb",
-            "fighter/eflame/model/body/c12/model.numshexb",
-            "fighter/eflame/model/body/c12/model.nusktb",
-            "fighter/eflame/model/esword/c12/def_flame_003_col.nutexb",
-            "fighter/eflame/model/esword/c12/def_flame_003_emi.nutexb",
-            "fighter/eflame/model/esword/c12/def_flame_003_nor.nutexb",
-            "fighter/eflame/model/esword/c12/def_flame_003_prm.nutexb",
-            "fighter/eflame/model/esword/c12/model.numdlb",
-            "fighter/eflame/model/esword/c12/model.numshb",
-            "fighter/eflame/model/esword/c12/model.numshexb",
-            "fighter/eflame/motion/body/c12/swing.prc"
+            "sound/bank/fighter_voice/vc_eflame_cheer_c12.tonelabel"
         ],
         "fighter/eflame/camera/c12": [
             "camera/fighter/eflame/c12/d04finalstart.nuanmb",
@@ -24182,68 +23767,7 @@
             "effect/fighter/eflame/ef_eflame_c13.eff",
             "effect/fighter/eflame/trail_c13/tex_eflame_sword1.nutexb",
             "effect/fighter/eflame/trail_c13/tex_eflame_sword2.nutexb",
-            "effect/fighter/eflame/trail_c13/tex_eflame_sword3.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_001_col.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_001_emi.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_001_nor.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_001_prm.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_002_prm.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_003_col.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_003_nor.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_003_prm.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_005_col.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_005_nor.nutexb",
-            "fighter/eflame/model/body/c13/alp_flame_005_prm.nutexb",
-            "fighter/eflame/model/body/c13/dark_model.numatb",
-            "fighter/eflame/model/body/c13/def_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_001b_nor.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_001b_prm.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_002_prm.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_004_col.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_004_emi.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_004_nor.nutexb",
-            "fighter/eflame/model/body/c13/def_flame_004_prm.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_b_col.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_b_r_col.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_g_col.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_g_r_col.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_w_col.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_w_nor.nutexb",
-            "fighter/eflame/model/body/c13/eye_flame_w_prm.nutexb",
-            "fighter/eflame/model/body/c13/light_model.numatb",
-            "fighter/eflame/model/body/c13/lod.xmb",
-            "fighter/eflame/model/body/c13/metamon_model.numatb",
-            "fighter/eflame/model/body/c13/model.nuhlpb",
-            "fighter/eflame/model/body/c13/model.numatb",
-            "fighter/eflame/model/body/c13/model.numdlb",
-            "fighter/eflame/model/body/c13/model.numshb",
-            "fighter/eflame/model/body/c13/model.numshexb",
-            "fighter/eflame/model/body/c13/model.nusktb",
-            "fighter/eflame/model/body/c13/model.xmb",
-            "fighter/eflame/model/body/c13/skin_flame_001b_col.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_001b_emi.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_001b_nor.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_001b_prm.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_002_col.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_002_nor.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_002_prm.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_003_col.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_003_nor.nutexb",
-            "fighter/eflame/model/body/c13/skin_flame_003_prm.nutexb",
-            "fighter/eflame/model/esword/c13/def_flame_003_col.nutexb",
-            "fighter/eflame/model/esword/c13/def_flame_003_emi.nutexb",
-            "fighter/eflame/model/esword/c13/def_flame_003_nor.nutexb",
-            "fighter/eflame/model/esword/c13/def_flame_003_prm.nutexb",
-            "fighter/eflame/model/esword/c13/model.numatb",
-            "fighter/eflame/model/esword/c13/model.numdlb",
-            "fighter/eflame/model/esword/c13/model.numshb",
-            "fighter/eflame/motion/body/c13/swing.prc",
-            "sound/bank/fighter_voice/vc_eflame_c13.nus3audio"
+            "effect/fighter/eflame/trail_c13/tex_eflame_sword3.nutexb"
         ],
         "fighter/eflame/camera/c13": [
             "camera/fighter/eflame/c13/d04finalstart.nuanmb",
@@ -24381,36 +23905,7 @@
             "sound/bank/fighter_voice/vc_element_c08.tonelabel",
             "sound/bank/fighter_voice/vc_element_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_element_cheer_c08.nus3bank",
-            "sound/bank/fighter_voice/vc_element_cheer_c08.tonelabel",
-            "fighter/element/model/diver/c08/alp_diver_001_col.nutexb",
-            "fighter/element/model/diver/c08/alp_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c08/alp_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c08/alp_rex_002_col.nutexb",
-            "fighter/element/model/diver/c08/alp_rex_002_emi.nutexb",
-            "fighter/element/model/diver/c08/alp_rex_002_nor.nutexb",
-            "fighter/element/model/diver/c08/alp_rex_002_prm.nutexb",
-            "fighter/element/model/diver/c08/def_diver_001_col.nutexb",
-            "fighter/element/model/diver/c08/def_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c08/def_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c08/def_rex_002_col.nutexb",
-            "fighter/element/model/diver/c08/def_rex_002_nor.nutexb",
-            "fighter/element/model/diver/c08/def_rex_002_prm.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_b_col.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_b_r_col.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_g_col.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_g_r_col.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_w_col.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_w_nor.nutexb",
-            "fighter/element/model/diver/c08/eye_diver_w_prm.nutexb",
-            "fighter/element/model/diver/c08/model.numdlb",
-            "fighter/element/model/diver/c08/model.numshb",
-            "fighter/element/model/diver/c08/model.numshexb",
-            "fighter/element/model/diver/c08/skin_diver_001_col.nutexb",
-            "fighter/element/model/diver/c08/skin_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c08/skin_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c08/skin_diver_002_col.nutexb",
-            "fighter/element/model/diver/c08/skin_diver_002_nor.nutexb",
-            "fighter/element/model/diver/c08/skin_diver_002_prm.nutexb"
+            "sound/bank/fighter_voice/vc_element_cheer_c08.tonelabel"
         ],
         "fighter/element/movie/c08": [],
         "fighter/element/camera/c08": [],
@@ -24501,18 +23996,7 @@
             "sound/bank/fighter_voice/vc_element_c09.tonelabel",
             "sound/bank/fighter_voice/vc_element_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_element_cheer_c09.nus3bank",
-            "sound/bank/fighter_voice/vc_element_cheer_c09.tonelabel",
-            "fighter/element/model/diver/c09/alp_rex_002_col.nutexb",
-            "fighter/element/model/diver/c09/alp_rex_002_nor.nutexb",
-            "fighter/element/model/diver/c09/alp_rex_002_prm.nutexb",
-            "fighter/element/model/diver/c09/def_diver_001_col.nutexb",
-            "fighter/element/model/diver/c09/def_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c09/def_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c09/model.numatb",
-            "fighter/element/model/diver/c09/model.numdlb",
-            "fighter/element/model/diver/c09/model.numshb",
-            "fighter/element/model/diver/c09/model.numshexb",
-            "fighter/element/model/diver/c09/model.nusktb"
+            "sound/bank/fighter_voice/vc_element_cheer_c09.tonelabel"
         ],
         "fighter/element/movie/c09": [],
         "fighter/element/camera/c09": [],
@@ -24603,15 +24087,7 @@
             "sound/bank/fighter_voice/vc_element_c10.tonelabel",
             "sound/bank/fighter_voice/vc_element_cheer_c10.nus3audio",
             "sound/bank/fighter_voice/vc_element_cheer_c10.nus3bank",
-            "sound/bank/fighter_voice/vc_element_cheer_c10.tonelabel",
-            "fighter/element/model/diver/c10/def_diver_001_col.nutexb",
-            "fighter/element/model/diver/c10/def_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c10/def_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c10/eye_diver_b_col.nutexb",
-            "fighter/element/model/diver/c10/eye_diver_b_r_col.nutexb",
-            "fighter/element/model/diver/c10/model.numdlb",
-            "fighter/element/model/diver/c10/model.numshb",
-            "fighter/element/model/diver/c10/model.numshexb"
+            "sound/bank/fighter_voice/vc_element_cheer_c10.tonelabel"
         ],
         "fighter/element/movie/c10": [],
         "fighter/element/camera/c10": [],
@@ -24793,36 +24269,7 @@
             "sound/bank/fighter_voice/vc_element_c12.tonelabel",
             "sound/bank/fighter_voice/vc_element_cheer_c12.nus3audio",
             "sound/bank/fighter_voice/vc_element_cheer_c12.nus3bank",
-            "sound/bank/fighter_voice/vc_element_cheer_c12.tonelabel",
-            "fighter/element/model/diver/c12/alp_diver_001_col.nutexb",
-            "fighter/element/model/diver/c12/alp_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c12/alp_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c12/alp_rex_002_col.nutexb",
-            "fighter/element/model/diver/c12/alp_rex_002_emi.nutexb",
-            "fighter/element/model/diver/c12/alp_rex_002_nor.nutexb",
-            "fighter/element/model/diver/c12/alp_rex_002_prm.nutexb",
-            "fighter/element/model/diver/c12/def_diver_001_col.nutexb",
-            "fighter/element/model/diver/c12/def_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c12/def_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c12/def_rex_002_col.nutexb",
-            "fighter/element/model/diver/c12/def_rex_002_nor.nutexb",
-            "fighter/element/model/diver/c12/def_rex_002_prm.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_b_col.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_b_r_col.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_g_col.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_g_r_col.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_w_col.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_w_nor.nutexb",
-            "fighter/element/model/diver/c12/eye_diver_w_prm.nutexb",
-            "fighter/element/model/diver/c12/model.numdlb",
-            "fighter/element/model/diver/c12/model.numshb",
-            "fighter/element/model/diver/c12/model.numshexb",
-            "fighter/element/model/diver/c12/skin_diver_001_col.nutexb",
-            "fighter/element/model/diver/c12/skin_diver_001_nor.nutexb",
-            "fighter/element/model/diver/c12/skin_diver_001_prm.nutexb",
-            "fighter/element/model/diver/c12/skin_diver_002_col.nutexb",
-            "fighter/element/model/diver/c12/skin_diver_002_nor.nutexb",
-            "fighter/element/model/diver/c12/skin_diver_002_prm.nutexb"
+            "sound/bank/fighter_voice/vc_element_cheer_c12.tonelabel"
         ],
         "fighter/element/movie/c12": [],
         "fighter/element/camera/c12": [],
@@ -25410,18 +24857,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c08.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c08.tonelabel",
-            "fighter/elight/model/body/c08/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c08/alp_light_001_col.nutexb",
-            "fighter/elight/model/body/c08/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c08/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c08/def_light_003_col.nutexb",
-            "fighter/elight/model/body/c08/def_light_003_emi.nutexb",
-            "fighter/elight/model/body/c08/def_light_003_nor.nutexb",
-            "fighter/elight/model/body/c08/def_light_003_prm.nutexb",
-            "fighter/elight/model/body/c08/model.numatb",
-            "fighter/elight/model/body/c08/model.numdlb",
-            "fighter/elight/model/body/c08/model.numshb",
-            "fighter/elight/model/body/c08/model.numshexb"
+            "fighter/elight/model/body/c08/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c08": [
             "fighter/elight/motion/windummy/c08/motion_list.bin",
@@ -25967,26 +25403,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c09.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c09.tonelabel",
-            "fighter/elight/model/body/c09/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c09/alp_light_001_col.nutexb",
-            "fighter/elight/model/body/c09/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c09/def_light_001_emi.nutexb",
-            "fighter/elight/model/body/c09/def_light_001_nor.nutexb",
-            "fighter/elight/model/body/c09/def_light_001_prm.nutexb",
-            "fighter/elight/model/body/c09/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c09/def_light_003_col.nutexb",
-            "fighter/elight/model/body/c09/def_light_003_emi.nutexb",
-            "fighter/elight/model/body/c09/def_light_003_nor.nutexb",
-            "fighter/elight/model/body/c09/model.nuhlpb",
-            "fighter/elight/model/body/c09/model.numatb",
-            "fighter/elight/model/body/c09/model.numdlb",
-            "fighter/elight/model/body/c09/model.numshb",
-            "fighter/elight/model/body/c09/model.numshexb",
-            "fighter/elight/model/body/c09/model.nusktb",
-            "fighter/elight/model/body/c09/skin_light_001_col.nutexb",
-            "fighter/elight/model/body/c09/skin_light_001_emi.nutexb",
-            "fighter/elight/model/body/c09/skin_light_001_prm.nutexb",
-            "fighter/elight/motion/body/c09/swing.prc"
+            "fighter/elight/model/body/c09/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c09": [
             "fighter/elight/motion/windummy/c09/motion_list.bin",
@@ -26532,25 +25949,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c10.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c10.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c10.tonelabel",
-            "fighter/elight/model/body/c10/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c10/alp_light_001_col.nutexb",
-            "fighter/elight/model/body/c10/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c10/def_light_001_emi.nutexb",
-            "fighter/elight/model/body/c10/def_light_001_nor.nutexb",
-            "fighter/elight/model/body/c10/def_light_001_prm.nutexb",
-            "fighter/elight/model/body/c10/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c10/def_light_002_nor.nutexb",
-            "fighter/elight/model/body/c10/eye_light_b_col.nutexb",
-            "fighter/elight/model/body/c10/eye_light_b_r_col.nutexb",
-            "fighter/elight/model/body/c10/model.numatb",
-            "fighter/elight/model/body/c10/model.numdlb",
-            "fighter/elight/model/body/c10/model.numshb",
-            "fighter/elight/model/body/c10/model.numshexb",
-            "fighter/elight/model/esword/c10/alp_light_002_col.nutexb",
-            "fighter/elight/model/esword/c10/def_light_004_col.nutexb",
-            "fighter/elight/model/esword/c10/def_light_004_emi.nutexb",
-            "fighter/elight/model/esword/c10/def_light_005_col.nutexb",
-            "fighter/elight/model/esword/c10/def_light_005_emi.nutexb"
+            "fighter/elight/model/body/c10/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c10": [
             "fighter/elight/motion/windummy/c10/motion_list.bin",
@@ -27096,32 +26495,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c11.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c11.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c11.tonelabel",
-            "fighter/elight/model/body/c11/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c11/alp_light_002_col.nutexb",
-            "fighter/elight/model/body/c11/alp_light_002_nor.nutexb",
-            "fighter/elight/model/body/c11/alp_light_002_prm.nutexb",
-            "fighter/elight/model/body/c11/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c11/def_light_001_emi.nutexb",
-            "fighter/elight/model/body/c11/def_light_001_prm.nutexb",
-            "fighter/elight/model/body/c11/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c11/def_light_003_col.nutexb",
-            "fighter/elight/model/body/c11/def_light_003_emi.nutexb",
-            "fighter/elight/model/body/c11/def_light_004_col.nutexb",
-            "fighter/elight/model/body/c11/def_light_004_emi.nutexb",
-            "fighter/elight/model/body/c11/model.numatb",
-            "fighter/elight/model/body/c11/model.numdlb",
-            "fighter/elight/model/body/c11/model.numshb",
-            "fighter/elight/model/body/c11/model.numshexb",
-            "fighter/elight/model/body/c11/skin_light_001_col.nutexb",
-            "fighter/elight/model/body/c11/skin_light_001_emi.nutexb",
-            "fighter/elight/model/body/c11/skin_light_001_nor.nutexb",
-            "fighter/elight/model/body/c11/skin_light_001_prm.nutexb",
-            "fighter/elight/model/esword/c11/alp_light_002_col.nutexb",
-            "fighter/elight/model/esword/c11/def_light_004_col.nutexb",
-            "fighter/elight/model/esword/c11/def_light_004_emi.nutexb",
-            "fighter/elight/model/esword/c11/def_light_005_col.nutexb",
-            "fighter/elight/model/esword/c11/def_light_005_emi.nutexb",
-            "fighter/elight/model/esword/c11/model.numatb"
+            "fighter/elight/model/body/c11/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c11": [
             "fighter/elight/motion/windummy/c11/motion_list.bin",
@@ -27667,34 +27041,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c12.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c12.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c12.tonelabel",
-            "fighter/elight/model/body/c12/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c12/alp_light_001_col.nutexb",
-            "fighter/elight/model/body/c12/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c12/def_light_001_emi.nutexb",
-            "fighter/elight/model/body/c12/def_light_001_nor.nutexb",
-            "fighter/elight/model/body/c12/def_light_001_prm.nutexb",
-            "fighter/elight/model/body/c12/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c12/def_light_002_nor.nutexb",
-            "fighter/elight/model/body/c12/def_light_003_col.nutexb",
-            "fighter/elight/model/body/c12/def_light_003_emi.nutexb",
-            "fighter/elight/model/body/c12/def_light_003_nor.nutexb",
-            "fighter/elight/model/body/c12/def_light_003_prm.nutexb",
-            "fighter/elight/model/body/c12/eye_light_b_col.nutexb",
-            "fighter/elight/model/body/c12/eye_light_b_r_col.nutexb",
-            "fighter/elight/model/body/c12/eye_light_g_col.nutexb",
-            "fighter/elight/model/body/c12/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c12/model.numatb",
-            "fighter/elight/model/body/c12/model.numdlb",
-            "fighter/elight/model/body/c12/model.numshb",
-            "fighter/elight/model/body/c12/model.numshexb",
-            "fighter/elight/model/body/c12/model.nusktb",
-            "fighter/elight/model/esword/c12/def_light_005_col.nutexb",
-            "fighter/elight/model/esword/c12/def_light_005_emi.nutexb",
-            "fighter/elight/model/esword/c12/def_light_005_nor.nutexb",
-            "fighter/elight/model/esword/c12/def_light_005_prm.nutexb",
-            "fighter/elight/model/esword/c12/model.numdlb",
-            "fighter/elight/model/esword/c12/model.numshb",
-            "fighter/elight/model/esword/c12/model.numshexb"
+            "fighter/elight/model/body/c12/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c12": [
             "fighter/elight/motion/windummy/c12/motion_list.bin",
@@ -28240,58 +27587,7 @@
             "sound/bank/fighter_voice/vc_elight_cheer_c13.nus3audio",
             "sound/bank/fighter_voice/vc_elight_cheer_c13.nus3bank",
             "sound/bank/fighter_voice/vc_elight_cheer_c13.tonelabel",
-            "fighter/elight/model/body/c13/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c13/alp_light_001_col.nutexb",
-            "fighter/elight/model/body/c13/alp_light_001_nor.nutexb",
-            "fighter/elight/model/body/c13/alp_light_001_prm.nutexb",
-            "fighter/elight/model/body/c13/alp_light_002_col.nutexb",
-            "fighter/elight/model/body/c13/alp_light_002_nor.nutexb",
-            "fighter/elight/model/body/c13/alp_light_002_prm.nutexb",
-            "fighter/elight/model/body/c13/dark_model.numatb",
-            "fighter/elight/model/body/c13/def_light_001_col.nutexb",
-            "fighter/elight/model/body/c13/def_light_001_emi.nutexb",
-            "fighter/elight/model/body/c13/def_light_001_nor.nutexb",
-            "fighter/elight/model/body/c13/def_light_001_prm.nutexb",
-            "fighter/elight/model/body/c13/def_light_002_col.nutexb",
-            "fighter/elight/model/body/c13/def_light_002_nor.nutexb",
-            "fighter/elight/model/body/c13/def_light_002_prm.nutexb",
-            "fighter/elight/model/body/c13/def_light_004_col.nutexb",
-            "fighter/elight/model/body/c13/def_light_004_emi.nutexb",
-            "fighter/elight/model/body/c13/def_light_004_nor.nutexb",
-            "fighter/elight/model/body/c13/def_light_004_prm.nutexb",
-            "fighter/elight/model/body/c13/eye_light_b_col.nutexb",
-            "fighter/elight/model/body/c13/eye_light_b_r_col.nutexb",
-            "fighter/elight/model/body/c13/eye_light_g_col.nutexb",
-            "fighter/elight/model/body/c13/eye_light_g_r_col.nutexb",
-            "fighter/elight/model/body/c13/eye_light_w_col.nutexb",
-            "fighter/elight/model/body/c13/eye_light_w_nor.nutexb",
-            "fighter/elight/model/body/c13/eye_light_w_prm.nutexb",
-            "fighter/elight/model/body/c13/light_model.numatb",
-            "fighter/elight/model/body/c13/lod.xmb",
-            "fighter/elight/model/body/c13/metamon_model.numatb",
-            "fighter/elight/model/body/c13/model.nuhlpb",
-            "fighter/elight/model/body/c13/model.numatb",
-            "fighter/elight/model/body/c13/model.numdlb",
-            "fighter/elight/model/body/c13/model.numshb",
-            "fighter/elight/model/body/c13/model.numshexb",
-            "fighter/elight/model/body/c13/model.nusktb",
-            "fighter/elight/model/body/c13/model.xmb",
-            "fighter/elight/model/body/c13/skin_flame_002_col.nutexb",
-            "fighter/elight/model/body/c13/skin_flame_002_nor.nutexb",
-            "fighter/elight/model/body/c13/skin_flame_002_prm.nutexb",
-            "fighter/elight/model/body/c13/skin_light_001_col.nutexb",
-            "fighter/elight/model/body/c13/skin_light_001_emi.nutexb",
-            "fighter/elight/model/body/c13/skin_light_001_nor.nutexb",
-            "fighter/elight/model/body/c13/skin_light_001_prm.nutexb",
-            "fighter/elight/model/esword/c13/def_light_004_col.nutexb",
-            "fighter/elight/model/esword/c13/def_light_004_emi.nutexb",
-            "fighter/elight/model/esword/c13/def_light_004_nor.nutexb",
-            "fighter/elight/model/esword/c13/def_light_004_prm.nutexb",
-            "fighter/elight/model/esword/c13/model.numatb",
-            "fighter/elight/model/esword/c13/model.numdlb",
-            "fighter/elight/model/esword/c13/model.numshb",
-            "fighter/elight/motion/body/c13/j02lose.nuanmb",
-            "sound/bank/fighter_voice/vc_elight_c13.nus3audio"
+            "fighter/elight/model/body/c13/eye_light_g_r_col.nutexb"
         ],
         "fighter/elight/result/c13": [
             "fighter/elight/motion/windummy/c13/motion_list.bin",
@@ -28863,49 +28159,7 @@
             "sound/bank/fighter_voice/vc_link_c09.tonelabel",
             "sound/bank/fighter_voice/vc_link_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_link_cheer_c09.nus3bank",
-            "sound/bank/fighter_voice/vc_link_cheer_c09.tonelabel",
-            "fighter/link/model/ancientbowarrow/c09/def_ancientbowarrow_001_col.nutexb",
-            "fighter/link/model/ancientbowarrow/c09/def_ancientbowarrow_001_emi.nutexb",
-            "fighter/link/model/ancientbowarrow/c09/def_ancientbowarrow_001_nor.nutexb",
-            "fighter/link/model/ancientbowarrow/c09/def_ancientbowarrow_001_prm.nutexb",
-            "fighter/link/model/ancientbowarrow/c09/model.numdlb",
-            "fighter/link/model/ancientbowarrow/c09/model.numshb",
-            "fighter/link/model/ancientbowarrow/c09/model.numshexb",
-            "fighter/link/model/body/c09/alp_link_002_col.nutexb",
-            "fighter/link/model/body/c09/alp_link_002_nor.nutexb",
-            "fighter/link/model/body/c09/alp_link_002_prm.nutexb",
-            "fighter/link/model/body/c09/def_link_002_col.nutexb",
-            "fighter/link/model/body/c09/def_link_002_nor.nutexb",
-            "fighter/link/model/body/c09/def_link_002_prm.nutexb",
-            "fighter/link/model/body/c09/metal_link_001_col.nutexb",
-            "fighter/link/model/body/c09/metal_link_001_nor.nutexb",
-            "fighter/link/model/body/c09/metal_link_001_prm.nutexb",
-            "fighter/link/model/body/c09/model.numdlb",
-            "fighter/link/model/body/c09/model.numshb",
-            "fighter/link/model/body/c09/model.numshexb",
-            "fighter/link/model/body/c09/skin_link_001_col.nutexb",
-            "fighter/link/model/body/c09/skin_link_001_nor.nutexb",
-            "fighter/link/model/body/c09/skin_link_001_prm.nutexb",
-            "fighter/link/model/boomerang/c09/metal_boomerang_001_col.nutexb",
-            "fighter/link/model/boomerang/c09/metal_boomerang_001_nor.nutexb",
-            "fighter/link/model/boomerang/c09/metal_boomerang_001_prm.nutexb",
-            "fighter/link/model/boomerang/c09/model.numdlb",
-            "fighter/link/model/boomerang/c09/model.numshb",
-            "fighter/link/model/boomerang/c09/model.numshexb",
-            "fighter/link/model/bow/c09/def_bow_001_col.nutexb",
-            "fighter/link/model/bow/c09/def_bow_001_nor.nutexb",
-            "fighter/link/model/bow/c09/def_bow_001_prm.nutexb",
-            "fighter/link/model/bow/c09/model.numdlb",
-            "fighter/link/model/bow/c09/model.numshb",
-            "fighter/link/model/bow/c09/model.numshexb",
-            "fighter/link/model/bowarrow/c09/alp_bow_001_col.nutexb",
-            "fighter/link/model/bowarrow/c09/alp_bow_001_nor.nutexb",
-            "fighter/link/model/bowarrow/c09/alp_bow_001_prm.nutexb",
-            "fighter/link/model/bowarrow/c09/model.numdlb",
-            "fighter/link/model/bowarrow/c09/model.numshb",
-            "fighter/link/model/bowarrow/c09/model.numshexb",
-            "sound/bank/fighter/se_link_c09.nus3audio",
-            "sound/bank/fighter_voice/vc_link_c09.nus3audio"
+            "sound/bank/fighter_voice/vc_link_cheer_c09.tonelabel"
         ],
         "fighter/link/result/c09": [],
         "fighter/link/movie/c09": [],
@@ -29452,30 +28706,7 @@
             "sound/bank/fighter_voice/vc_link_c08.tonelabel",
             "sound/bank/fighter_voice/vc_link_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_link_cheer_c08.nus3bank",
-            "sound/bank/fighter_voice/vc_link_cheer_c08.tonelabel",
-            "fighter/link/model/body/c08/alp_link_002_col.nutexb",
-            "fighter/link/model/body/c08/alp_link_002_nor.nutexb",
-            "fighter/link/model/body/c08/def_link_001_col.nutexb",
-            "fighter/link/model/body/c08/def_link_001_nor.nutexb",
-            "fighter/link/model/body/c08/def_link_001_prm.nutexb",
-            "fighter/link/model/body/c08/def_link_002_col.nutexb",
-            "fighter/link/model/body/c08/def_link_002_nor.nutexb",
-            "fighter/link/model/body/c08/def_link_002_prm.nutexb",
-            "fighter/link/model/body/c08/leyes_eye_link_l_col.nutexb",
-            "fighter/link/model/body/c08/light_model.numatb",
-            "fighter/link/model/body/c08/metal_link_001_col.nutexb",
-            "fighter/link/model/body/c08/metal_link_001_nor.nutexb",
-            "fighter/link/model/body/c08/metal_link_001_prm.nutexb",
-            "fighter/link/model/body/c08/model.nuhlpb",
-            "fighter/link/model/body/c08/model.numatb",
-            "fighter/link/model/body/c08/model.numdlb",
-            "fighter/link/model/body/c08/model.numshb",
-            "fighter/link/model/body/c08/model.numshexb",
-            "fighter/link/model/body/c08/skin_link_001_col.nutexb",
-            "fighter/link/model/body/c08/skin_link_001_nor.nutexb",
-            "fighter/link/model/body/c08/skin_link_001_prm.nutexb",
-            "sound/bank/fighter/se_link_c08.nus3audio",
-            "sound/bank/fighter_voice/vc_link_c08.nus3audio"
+            "sound/bank/fighter_voice/vc_link_cheer_c08.tonelabel"
         ],
         "fighter/link/result/c08": [],
         "fighter/link/movie/c08": [],
@@ -29920,28 +29151,9 @@
             "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_lucario_cheer_c08.nus3bank",
             "sound/bank/fighter_voice/vc_lucario_cheer_c08.tonelabel",
-            "fighter/lucario/model/body/c08/alp_lucario_001_col.nutexb",
-            "fighter/lucario/model/body/c08/alp_lucario_001_nor.nutexb",
-            "fighter/lucario/model/body/c08/alp_lucario_001_prm.nutexb",
             "fighter/lucario/model/body/c08/def_lucario_001_col.nutexb",
             "fighter/lucario/model/body/c08/def_lucario_001_nor.nutexb",
-            "fighter/lucario/model/body/c08/def_lucario_001_prm.nutexb",
-            "fighter/lucario/model/body/c08/deyes_eye_lucario_d_col.nutexb",
-            "fighter/lucario/model/body/c08/deyes_eye_lucario_wd_col.nutexb",
-            "fighter/lucario/model/body/c08/eye_lucario_b_col.nutexb",
-            "fighter/lucario/model/body/c08/eye_lucario_g_col.nutexb",
-            "fighter/lucario/model/body/c08/eye_lucario_w_col.nutexb",
-            "fighter/lucario/model/body/c08/eye_lucario_w_nor.nutexb",
-            "fighter/lucario/model/body/c08/eye_lucario_w_prm.nutexb",
-            "fighter/lucario/model/body/c08/eye_mario_w_nor.nutexb",
-            "fighter/lucario/model/body/c08/leyes_eye_lucario_l_col.nutexb",
-            "fighter/lucario/model/body/c08/model.nuhlpb",
-            "fighter/lucario/model/body/c08/model.numatb",
-            "fighter/lucario/model/body/c08/model.numdlb",
-            "fighter/lucario/model/body/c08/model.numshb",
-            "fighter/lucario/model/body/c08/model.numshexb",
-            "fighter/lucario/model/body/c08/model.nusktb",
-            "fighter/lucario/motion/body/c08/swing.prc"
+            "fighter/lucario/model/body/c08/def_lucario_001_prm.nutexb"
         ],
         "fighter/lucario/result/c08": [],
         "fighter/lucario/kirbycopy/c08": [
@@ -30627,58 +29839,7 @@
             "effect/fighter/master/trail_c08/tex_master_sword2.nutexb",
             "effect/fighter/master/trail_c08/tex_master_wire1.nutexb",
             "effect/fighter/master/trail_c08/tex_master_wire2.nutexb",
-            "fighter/master/model/arrow1/c08/def_arrow_001_col.nutexb",
-            "fighter/master/model/arrow2/c08/def_arrow_001_col.nutexb",
-            "fighter/master/model/axe/c08/def_axe_001_col.nutexb",
-            "fighter/master/model/baton/c08/def_sword_001_col.nutexb",
-            "fighter/master/model/body/c08/alp_master_001_col.nutexb",
-            "fighter/master/model/body/c08/alp_master_001_nor.nutexb",
-            "fighter/master/model/body/c08/alp_master_001_prm.nutexb",
-            "fighter/master/model/body/c08/alp_master_002_col.nutexb",
-            "fighter/master/model/body/c08/alp_master_002_nor.nutexb",
-            "fighter/master/model/body/c08/alp_master_002_prm.nutexb",
-            "fighter/master/model/body/c08/alp_master_003_col.nutexb",
-            "fighter/master/model/body/c08/alp_master_003_nor.nutexb",
-            "fighter/master/model/body/c08/alp_master_003_prm.nutexb",
-            "fighter/master/model/body/c08/dark_model.numatb",
-            "fighter/master/model/body/c08/def_master_001_col.nutexb",
-            "fighter/master/model/body/c08/def_master_001_emi.nutexb",
-            "fighter/master/model/body/c08/def_master_001_nor.nutexb",
-            "fighter/master/model/body/c08/def_master_001_prm.nutexb",
-            "fighter/master/model/body/c08/def_master_002_c06_col.nutexb",
-            "fighter/master/model/body/c08/def_master_002_col.nutexb",
-            "fighter/master/model/body/c08/def_master_002_nor.nutexb",
-            "fighter/master/model/body/c08/def_master_002_prm.nutexb",
-            "fighter/master/model/body/c08/def_sword_001_col.nutexb",
-            "fighter/master/model/body/c08/def_sword_001_nor.nutexb",
-            "fighter/master/model/body/c08/def_sword_001_prm.nutexb",
-            "fighter/master/model/body/c08/eye_master_b_l_col.nutexb",
-            "fighter/master/model/body/c08/eye_master_b_r_col.nutexb",
-            "fighter/master/model/body/c08/eye_master_g_l_col.nutexb",
-            "fighter/master/model/body/c08/eye_master_g_r_col.nutexb",
-            "fighter/master/model/body/c08/eye_master_w_col.nutexb",
-            "fighter/master/model/body/c08/eye_master_w_nor.nutexb",
-            "fighter/master/model/body/c08/eye_master_w_prm.nutexb",
-            "fighter/master/model/body/c08/light_model.numatb",
-            "fighter/master/model/body/c08/lod.xmb",
-            "fighter/master/model/body/c08/metamon_model.numatb",
-            "fighter/master/model/body/c08/model.nuhlpb",
-            "fighter/master/model/body/c08/model.numatb",
-            "fighter/master/model/body/c08/model.numdlb",
-            "fighter/master/model/body/c08/model.numshb",
-            "fighter/master/model/body/c08/model.numshexb",
-            "fighter/master/model/body/c08/model.nusktb",
-            "fighter/master/model/body/c08/model.xmb",
-            "fighter/master/model/body/c08/skin_master_001_col.nutexb",
-            "fighter/master/model/body/c08/skin_master_001_nor.nutexb",
-            "fighter/master/model/body/c08/skin_master_001_prm.nutexb",
-            "fighter/master/model/body/c08/skin_master_002_col.nutexb",
-            "fighter/master/model/body/c08/skin_master_002_nor.nutexb",
-            "fighter/master/model/body/c08/skin_master_002_prm.nutexb",
-            "fighter/master/model/bow/c08/def_bow_001_col.nutexb",
-            "fighter/master/model/spear/c08/def_spear_001_col.nutexb",
-            "fighter/master/model/sword/c08/def_sword_001_col.nutexb",
-            "fighter/master/model/sword2/c08/def_sword_001_col.nutexb"
+            "fighter/master/model/body/c08/def_master_001_emi.nutexb"
         ],
         "fighter/master/camera/c08": [
             "camera/fighter/master/c08/d04finalstart.nuanmb",
@@ -31382,35 +30543,9 @@
             "sound/bank/fighter_voice/vc_master_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_master_cheer_c09.nus3bank",
             "sound/bank/fighter_voice/vc_master_cheer_c09.tonelabel",
-            "fighter/master/model/background/c09/def_background_001b_col.nutexb",
-            "fighter/master/model/background/c09/def_background_001b_emi.nutexb",
-            "fighter/master/model/background/c09/model.numdlb",
-            "fighter/master/model/background/c09/model.numshb",
-            "fighter/master/model/background/c09/model.numshexb",
-            "fighter/master/model/body/c09/def_master_female_001_col.nutexb",
-            "fighter/master/model/body/c09/def_master_female_001_nor.nutexb",
-            "fighter/master/model/body/c09/def_master_female_001_prm.nutexb",
-            "fighter/master/model/body/c09/def_master_female_002_col.nutexb",
-            "fighter/master/model/body/c09/def_master_female_002_nor.nutexb",
-            "fighter/master/model/body/c09/def_master_female_002_prm.nutexb",
-            "fighter/master/model/body/c09/def_master_female_003_col.nutexb",
-            "fighter/master/model/body/c09/def_master_female_004_col.nutexb",
             "fighter/master/model/body/c09/def_nakoruru_001_col.nutexb",
             "fighter/master/model/body/c09/def_nakoruru_001_nor.nutexb",
-            "fighter/master/model/body/c09/def_nakoruru_001_prm.nutexb",
-            "fighter/master/model/body/c09/def_sword_001_col.nutexb",
-            "fighter/master/model/body/c09/eye_master_female_b_l_col.nutexb",
-            "fighter/master/model/body/c09/eye_master_female_b_r_col.nutexb",
-            "fighter/master/model/body/c09/model.numatb",
-            "fighter/master/model/body/c09/model.numdlb",
-            "fighter/master/model/body/c09/model.numshb",
-            "fighter/master/model/body/c09/model.numshexb",
-            "fighter/master/model/body/c09/model.nusktb",
-            "fighter/master/model/body/c09/skin_master_female_002_col.nutexb",
-            "fighter/master/model/body/c09/skin_master_female_002_nor.nutexb",
-            "fighter/master/model/body/c09/skin_master_female_002_prm.nutexb",
-            "fighter/master/model/sword/c09/def_sword_001_col.nutexb",
-            "fighter/master/motion/body/c09/swing.prc"
+            "fighter/master/model/body/c09/def_nakoruru_001_prm.nutexb"
         ],
         "fighter/master/camera/c09": [
             "camera/fighter/master/c09/j02win1.nuanmb",
@@ -31900,23 +31035,7 @@
             "sound/bank/fighter_voice/vc_palutena_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_palutena_cheer_c08.nus3bank",
             "sound/bank/fighter_voice/vc_palutena_cheer_c08.tonelabel",
-            "fighter/palutena/model/body/c08/alp_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c08/alp_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c08/alp_palutena_003_col.nutexb",
-            "fighter/palutena/model/body/c08/def_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c08/def_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c08/def_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c08/def_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c08/eyel_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c08/eyer_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c08/metal_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c08/metal_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c08/model.numatb",
-            "fighter/palutena/model/body/c08/model.numdlb",
-            "fighter/palutena/model/body/c08/model.numshb",
-            "fighter/palutena/model/body/c08/model.numshexb",
-            "fighter/palutena/model/body/c08/skin_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c08/skin_palutena_002_col.nutexb"
+            "fighter/palutena/model/body/c08/def_palutena_002_col.nutexb"
         ],
         "fighter/palutena/camera/c08": [
             "camera/fighter/palutena/c08/d04final.nuanmb",
@@ -32417,52 +31536,7 @@
             "sound/bank/fighter_voice/vc_palutena_c09.tonelabel",
             "sound/bank/fighter_voice/vc_palutena_cheer_c09.nus3audio",
             "sound/bank/fighter_voice/vc_palutena_cheer_c09.nus3bank",
-            "sound/bank/fighter_voice/vc_palutena_cheer_c09.tonelabel",
-            "fighter/palutena/model/body/c09/alp_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_002_prm.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_003_col.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_003_nor.nutexb",
-            "fighter/palutena/model/body/c09/alp_palutena_003_prm.nutexb",
-            "fighter/palutena/model/body/c09/def_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c09/def_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c09/def_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c09/deyes_eye_palutena_wd_col.nutexb",
-            "fighter/palutena/model/body/c09/eyel_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c09/eyer_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c09/eye_palutena_g_col.nutexb",
-            "fighter/palutena/model/body/c09/eye_palutena_w_col.nutexb",
-            "fighter/palutena/model/body/c09/eye_palutena_w_prm.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c09/metal_palutena_002_prm.nutexb",
-            "fighter/palutena/model/body/c09/model.numatb",
-            "fighter/palutena/model/body/c09/model.numdlb",
-            "fighter/palutena/model/body/c09/model.numshb",
-            "fighter/palutena/model/body/c09/model.numshexb",
-            "fighter/palutena/model/body/c09/model.nusktb",
-            "fighter/palutena/model/body/c09/skin_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c09/skin_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c09/skin_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c09/skin_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c09/skin_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c09/skin_palutena_002_prm.nutexb",
-            "fighter/palutena/model/godwing/c09/alp_godwing_001_col.nutexb",
-            "fighter/palutena/model/godwing/c09/alp_godwing_001_emi.nutexb",
-            "fighter/palutena/model/godwing/c09/alp_godwing_001_nor.nutexb",
-            "fighter/palutena/model/godwing/c09/alp_godwing_001_prm.nutexb",
-            "fighter/palutena/model/godwing/c09/model.numatb",
-            "fighter/palutena/model/godwing/c09/model.numdlb",
-            "fighter/palutena/model/godwing/c09/model.numshb",
-            "fighter/palutena/model/godwing/c09/model.numshexb",
-            "fighter/palutena/motion/body/c09/swing.prc",
-            "sound/bank/fighter_voice/vc_palutena_c09.nus3audio"
+            "sound/bank/fighter_voice/vc_palutena_cheer_c09.tonelabel"
         ],
         "fighter/palutena/camera/c09": [
             "camera/fighter/palutena/c09/d04final.nuanmb",
@@ -32963,53 +32037,7 @@
             "sound/bank/fighter_voice/vc_palutena_c10.tonelabel",
             "sound/bank/fighter_voice/vc_palutena_cheer_c10.nus3audio",
             "sound/bank/fighter_voice/vc_palutena_cheer_c10.nus3bank",
-            "sound/bank/fighter_voice/vc_palutena_cheer_c10.tonelabel",
-            "fighter/palutena/model/body/c10/alp_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_002_prm.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_003_col.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_003_nor.nutexb",
-            "fighter/palutena/model/body/c10/alp_palutena_003_prm.nutexb",
-            "fighter/palutena/model/body/c10/def_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c10/def_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c10/def_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c10/deyes_eye_palutena_wd_col.nutexb",
-            "fighter/palutena/model/body/c10/eyel_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c10/eyer_palutena_b_col.nutexb",
-            "fighter/palutena/model/body/c10/eye_palutena_g_col.nutexb",
-            "fighter/palutena/model/body/c10/eye_palutena_w_col.nutexb",
-            "fighter/palutena/model/body/c10/eye_palutena_w_prm.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c10/metal_palutena_002_prm.nutexb",
-            "fighter/palutena/model/body/c10/model.nuhlpb",
-            "fighter/palutena/model/body/c10/model.numatb",
-            "fighter/palutena/model/body/c10/model.numdlb",
-            "fighter/palutena/model/body/c10/model.numshb",
-            "fighter/palutena/model/body/c10/model.numshexb",
-            "fighter/palutena/model/body/c10/model.nusktb",
-            "fighter/palutena/model/body/c10/skin_palutena_001_col.nutexb",
-            "fighter/palutena/model/body/c10/skin_palutena_001_nor.nutexb",
-            "fighter/palutena/model/body/c10/skin_palutena_001_prm.nutexb",
-            "fighter/palutena/model/body/c10/skin_palutena_002_col.nutexb",
-            "fighter/palutena/model/body/c10/skin_palutena_002_nor.nutexb",
-            "fighter/palutena/model/body/c10/skin_palutena_002_prm.nutexb",
-            "fighter/palutena/model/godwing/c10/alp_godwing_001_col.nutexb",
-            "fighter/palutena/model/godwing/c10/alp_godwing_001_emi.nutexb",
-            "fighter/palutena/model/godwing/c10/alp_godwing_001_nor.nutexb",
-            "fighter/palutena/model/godwing/c10/alp_godwing_001_prm.nutexb",
-            "fighter/palutena/model/godwing/c10/model.numatb",
-            "fighter/palutena/model/godwing/c10/model.numdlb",
-            "fighter/palutena/model/godwing/c10/model.numshb",
-            "fighter/palutena/model/godwing/c10/model.numshexb",
-            "fighter/palutena/motion/body/c10/swing.prc",
-            "sound/bank/fighter_voice/vc_palutena_c10.nus3audio"
+            "sound/bank/fighter_voice/vc_palutena_cheer_c10.tonelabel"
         ],
         "fighter/palutena/camera/c10": [
             "camera/fighter/palutena/c10/d04final.nuanmb",
@@ -33540,48 +32568,7 @@
             "sound/bank/fighter_voice/vc_trail_c08.tonelabel",
             "sound/bank/fighter_voice/vc_trail_cheer_c08.nus3audio",
             "sound/bank/fighter_voice/vc_trail_cheer_c08.nus3bank",
-            "sound/bank/fighter_voice/vc_trail_cheer_c08.tonelabel",
-            "fighter/trail/model/body/c08/alp_trail_001_col.nutexb",
-            "fighter/trail/model/body/c08/alp_trail_001_nor.nutexb",
-            "fighter/trail/model/body/c08/alp_trail_001_prm.nutexb",
-            "fighter/trail/model/body/c08/alp_trail_003_col.nutexb",
-            "fighter/trail/model/body/c08/alp_trail_003_nor.nutexb",
-            "fighter/trail/model/body/c08/alp_trail_003_prm.nutexb",
-            "fighter/trail/model/body/c08/dark_model.numatb",
-            "fighter/trail/model/body/c08/def_trail_001_col.nutexb",
-            "fighter/trail/model/body/c08/def_trail_001_nor.nutexb",
-            "fighter/trail/model/body/c08/def_trail_001_prm.nutexb",
-            "fighter/trail/model/body/c08/def_trail_002_col.nutexb",
-            "fighter/trail/model/body/c08/def_trail_002_nor.nutexb",
-            "fighter/trail/model/body/c08/def_trail_002_prm.nutexb",
-            "fighter/trail/model/body/c08/def_trail_003_col.nutexb",
-            "fighter/trail/model/body/c08/def_trail_003_nor.nutexb",
-            "fighter/trail/model/body/c08/def_trail_003_prm.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_b_col.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_b_r_col.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_g_col.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_w_col.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_w_nor.nutexb",
-            "fighter/trail/model/body/c08/eye_trail_w_prm.nutexb",
-            "fighter/trail/model/body/c08/light_model.numatb",
-            "fighter/trail/model/body/c08/lod.xmb",
-            "fighter/trail/model/body/c08/metamon_model.numatb",
-            "fighter/trail/model/body/c08/model.nuhlpb",
-            "fighter/trail/model/body/c08/model.numatb",
-            "fighter/trail/model/body/c08/model.numdlb",
-            "fighter/trail/model/body/c08/model.numshb",
-            "fighter/trail/model/body/c08/model.numshexb",
-            "fighter/trail/model/body/c08/model.xmb",
-            "fighter/trail/model/body/c08/skin_trail_001_col.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_001_nor.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_001_prm.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_003_col.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_003_nor.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_003_prm.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_004_col.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_004_nor.nutexb",
-            "fighter/trail/model/body/c08/skin_trail_004_prm.nutexb",
-            "sound/bank/fighter/se_trail_c08.nus3audio"
+            "sound/bank/fighter_voice/vc_trail_cheer_c08.tonelabel"
         ],
         "fighter/trail/camera/c08": [
             "camera/fighter/trail/c08/d04final.nuanmb",
