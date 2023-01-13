@@ -1,0 +1,89 @@
+{
+  "data": {
+    "Hlpb": {
+      "major_version": 1,
+      "minor_version": 1,
+      "aim_entries": [],
+      "interpolation_entries": [
+        {
+          "name": "nuHelperBoneRotateInterp1",
+          "bone_name": "ArmL",
+          "root_bone_name": "ArmL",
+          "parent_bone_name": "HandL",
+          "driver_bone_name": "H_ArmtwistL",
+          "unk_type": 1,
+          "aoi": {
+            "x": 0.6,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "quat1": {
+            "x": 0.707107,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.707107
+          },
+          "quat2": {
+            "x": 0.707107,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.707107
+          },
+          "range_min": {
+            "x": -180.0,
+            "y": -180.0,
+            "z": -180.0
+          },
+          "range_max": {
+            "x": 180.0,
+            "y": 180.0,
+            "z": 180.0
+          }
+        },
+        {
+          "name": "nuHelperBoneRotateInterp2",
+          "bone_name": "ArmR",
+          "root_bone_name": "ArmR",
+          "parent_bone_name": "HandR",
+          "driver_bone_name": "H_ArmtwistR",
+          "unk_type": 1,
+          "aoi": {
+            "x": 0.6,
+            "y": 0.0,
+            "z": 0.0
+          },
+          "quat1": {
+            "x": -0.707107,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.707107
+          },
+          "quat2": {
+            "x": -0.707107,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 0.707107
+          },
+          "range_min": {
+            "x": -180.0,
+            "y": -180.0,
+            "z": -180.0
+          },
+          "range_max": {
+            "x": 180.0,
+            "y": 180.0,
+            "z": 180.0
+          }
+        }
+      ],
+      "list1": [
+        0,
+        1
+      ],
+      "list2": [
+        1,
+        1
+      ]
+    }
+  }
+}
