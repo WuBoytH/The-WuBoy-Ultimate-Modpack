@@ -136,7 +136,13 @@
     </struct>
     <hash40 index="111">dummy</hash40>
     <hash40 index="112">dummy</hash40>
-    <hash40 index="113">dummy</hash40>
+    <struct index="113">
+      <byte hash="color_num">15</byte>
+	  <byte hash="c14_index">6</byte>
+	  <byte hash="n13_index">1</byte>
+	  <byte hash="n14_index">2</byte>
+      <hash40 hash="characall_label_c02">vc_narration_characall_donkey</hash40>
+    </struct>
     <struct index="114">
       <byte hash="color_num">14</byte>
 	  <byte hash="n13_index">1</byte>

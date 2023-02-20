@@ -1,5 +1,38 @@
 {
     "share-to-added": {
+        "fighter/edge/motion/body/c00/j01appeallwloop.nuanmb": [
+            "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c09/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c10/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c11/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c12/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c13/j01appeallwloop.nuanmb"
+        ],
+        "fighter/edge/motion/body/c06/j01appeallwloop.nuanmb": [
+            "fighter/edge/motion/body/c14/j01appeallwloop.nuanmb"
+        ],
+        "fighter/edge/motion/body/c00/j01appealsattack.nuanmb": [
+            "fighter/edge/motion/body/c08/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/motion/body/c06/j01appealsattack.nuanmb": [
+            "fighter/edge/motion/body/c14/j01appealsattack.nuanmb"
+        ],
+        "fighter/edge/motion/body/c00/j01appealsloop.nuanmb": [
+            "fighter/edge/motion/body/c08/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsloop.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/motion/body/c06/j01appealsloop.nuanmb": [
+            "fighter/edge/motion/body/c14/j01appealsloop.nuanmb"
+        ],
         "fighter/eflame/motion/body/c00/c05attackairneflame.nuanmb": [
             "fighter/eflame/motion/body/c08/c05attackairneflame.nuanmb",
             "fighter/eflame/motion/body/c09/c05attackairneflame.nuanmb",
@@ -151,6 +184,41 @@
         ]
     },
     "new-dir-files": {
+        "fighter/edge/c08": [
+            "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c08/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c08/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c09": [
+            "fighter/edge/motion/body/c09/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c09/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c10": [
+            "fighter/edge/motion/body/c10/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c10/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c11": [
+            "fighter/edge/motion/body/c11/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c11/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c12": [
+            "fighter/edge/motion/body/c12/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c12/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c13": [
+            "fighter/edge/motion/body/c13/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c13/j01appealsloop.nuanmb"
+        ],
+        "fighter/edge/c14": [
+            "fighter/edge/motion/body/c14/j01appeallwloop.nuanmb",
+            "fighter/edge/motion/body/c14/j01appealsattack.nuanmb",
+            "fighter/edge/motion/body/c14/j01appealsloop.nuanmb"
+        ],
         "fighter/eflame/c08": [
             "fighter/eflame/motion/body/c08/c05attackairneflame.nuanmb",
             "fighter/eflame/motion/body/c08/c05landingairneflame.nuanmb",
