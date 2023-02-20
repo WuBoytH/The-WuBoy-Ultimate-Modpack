@@ -833,8 +833,7 @@
             "sound/bank/fighter_voice/vc_eflame_c09.nus3bank",
             "sound/bank/fighter_voice/vc_eflame_c10.nus3bank",
             "sound/bank/fighter_voice/vc_eflame_c11.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_c12.nus3bank",
-            "sound/bank/fighter_voice/vc_eflame_c13.nus3bank"
+            "sound/bank/fighter_voice/vc_eflame_c12.nus3bank"
         ],
         "sound/bank/fighter_voice/vc_eflame_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_eflame_c08.tonelabel",
@@ -1895,8 +1894,7 @@
             "sound/bank/fighter_voice/vc_elight_c09.nus3bank",
             "sound/bank/fighter_voice/vc_elight_c10.nus3bank",
             "sound/bank/fighter_voice/vc_elight_c11.nus3bank",
-            "sound/bank/fighter_voice/vc_elight_c12.nus3bank",
-            "sound/bank/fighter_voice/vc_elight_c13.nus3bank"
+            "sound/bank/fighter_voice/vc_elight_c12.nus3bank"
         ],
         "sound/bank/fighter_voice/vc_elight_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_elight_c08.tonelabel",
@@ -2476,14 +2474,8 @@
         "fighter/link/model/parasail/c01/model.xmb": [
             "fighter/link/model/parasail/c09/model.xmb"
         ],
-        "sound/bank/fighter/se_link_c01.nus3bank": [
-            "sound/bank/fighter/se_link_c09.nus3bank"
-        ],
         "sound/bank/fighter/se_link_c01.tonelabel": [
             "sound/bank/fighter/se_link_c09.tonelabel"
-        ],
-        "sound/bank/fighter_voice/vc_link_c01.nus3bank": [
-            "sound/bank/fighter_voice/vc_link_c09.nus3bank"
         ],
         "sound/bank/fighter_voice/vc_link_c01.tonelabel": [
             "sound/bank/fighter_voice/vc_link_c09.tonelabel"
@@ -2914,14 +2906,8 @@
         "fighter/link/model/parasail/c00/model.xmb": [
             "fighter/link/model/parasail/c08/model.xmb"
         ],
-        "sound/bank/fighter/se_link_c00.nus3bank": [
-            "sound/bank/fighter/se_link_c08.nus3bank"
-        ],
         "sound/bank/fighter/se_link_c00.tonelabel": [
             "sound/bank/fighter/se_link_c08.tonelabel"
-        ],
-        "sound/bank/fighter_voice/vc_link_c00.nus3bank": [
-            "sound/bank/fighter_voice/vc_link_c08.nus3bank"
         ],
         "sound/bank/fighter_voice/vc_link_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_link_c08.tonelabel"
@@ -5114,9 +5100,7 @@
             "sound/bank/fighter_voice/vc_palutena_c08.nus3audio"
         ],
         "sound/bank/fighter_voice/vc_palutena_c00.nus3bank": [
-            "sound/bank/fighter_voice/vc_palutena_c08.nus3bank",
-            "sound/bank/fighter_voice/vc_palutena_c09.nus3bank",
-            "sound/bank/fighter_voice/vc_palutena_c10.nus3bank"
+            "sound/bank/fighter_voice/vc_palutena_c08.nus3bank"
         ],
         "sound/bank/fighter_voice/vc_palutena_c00.tonelabel": [
             "sound/bank/fighter_voice/vc_palutena_c08.tonelabel",
@@ -5420,9 +5404,6 @@
         ],
         "fighter/trail/model/thunder/c00/model.xmb": [
             "fighter/trail/model/thunder/c08/model.xmb"
-        ],
-        "sound/bank/fighter/se_trail_c00.nus3bank": [
-            "sound/bank/fighter/se_trail_c08.nus3bank"
         ],
         "sound/bank/fighter/se_trail_c00.tonelabel": [
             "sound/bank/fighter/se_trail_c08.tonelabel"
