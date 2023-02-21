@@ -24,7 +24,9 @@
     <hash40 index="18">dummy</hash40>
     <hash40 index="19">dummy</hash40>
     <hash40 index="20">dummy</hash40>
-    <hash40 index="21">dummy</hash40>
+    <struct index="21">
+      <byte hash="color_num">9</byte>
+    </struct>
     <hash40 index="22">dummy</hash40>
     <hash40 index="23">dummy</hash40>
     <hash40 index="24">dummy</hash40>
