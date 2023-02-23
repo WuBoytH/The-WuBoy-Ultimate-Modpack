@@ -5,7 +5,7 @@
     <hash40 index="1">dummy</hash40>
     <hash40 index="2">dummy</hash40>
     <struct index="3">
-      <byte hash="color_num">10</byte>
+      <byte hash="color_num">15</byte>
     </struct>
     <hash40 index="4">dummy</hash40>
     <hash40 index="5">dummy</hash40>
@@ -126,19 +126,25 @@
     <hash40 index="108">dummy</hash40>
     <hash40 index="109">dummy</hash40>
     <struct index="110">
-      <byte hash="color_num">12</byte>
+      <byte hash="color_num">14</byte>
       <byte hash="c08_index">0</byte>
       <byte hash="c09_index">1</byte>
       <byte hash="c10_index">0</byte>
       <byte hash="c11_index">1</byte>
+      <byte hash="c12_index">0</byte>
+      <byte hash="c13_index">1</byte>
       <byte hash="n08_index">0</byte>
       <byte hash="n09_index">1</byte>
 	  <byte hash="n10_index">0</byte>
       <byte hash="n11_index">1</byte>
+	  <byte hash="n12_index">0</byte>
+      <byte hash="n13_index">1</byte>
       <byte hash="c08_group">0</byte>
       <byte hash="c09_group">1</byte>
 	  <byte hash="c10_group">0</byte>
       <byte hash="c11_group">1</byte>
+	  <byte hash="c12_group">0</byte>
+      <byte hash="c13_group">1</byte>
     </struct>
     <hash40 index="111">dummy</hash40>
     <hash40 index="112">dummy</hash40>
@@ -150,24 +156,24 @@
       <hash40 hash="characall_label_c02">vc_narration_characall_donkey</hash40>
     </struct>
     <struct index="114">
-      <byte hash="color_num">14</byte>
-	  <byte hash="n13_index">1</byte>
+      <byte hash="color_num">17</byte>
+	  <byte hash="n16_index">1</byte>
     </struct>
     <struct index="115">
-      <byte hash="color_num">14</byte>
-	  <byte hash="n13_index">1</byte>
+      <byte hash="color_num">17</byte>
+	  <byte hash="n16_index">1</byte>
     </struct>
     <struct index="116">
-      <byte hash="color_num">14</byte>
-	  <byte hash="n13_index">1</byte>
+      <byte hash="color_num">17</byte>
+	  <byte hash="n16_index">1</byte>
     </struct>
     <struct index="117">
-      <byte hash="color_num">14</byte>
-	  <byte hash="n13_index">1</byte>
+      <byte hash="color_num">17</byte>
+	  <byte hash="n16_index">1</byte>
     </struct>
     <struct index="118">
-      <byte hash="color_num">14</byte>
-	  <byte hash="n13_index">1</byte>
+      <byte hash="color_num">17</byte>
+	  <byte hash="n16_index">1</byte>
     </struct>
     <hash40 index="119">dummy</hash40>
     <struct index="120">
