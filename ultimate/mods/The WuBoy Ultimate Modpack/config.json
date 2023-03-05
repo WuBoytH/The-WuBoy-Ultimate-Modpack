@@ -4904,14 +4904,17 @@
         ],
         "fighter/link/model/body/c00/alp_link_001_nor.nutexb": [
             "fighter/link/model/body/c14/alp_link_001_nor.nutexb",
+            "fighter/link/model/body/c08/alp_link_001_nor.nutexb",
             "fighter/link/model/body/c12/alp_link_001_nor.nutexb"
         ],
         "fighter/link/model/body/c00/alp_link_001_prm.nutexb": [
             "fighter/link/model/body/c14/alp_link_001_prm.nutexb",
+            "fighter/link/model/body/c08/alp_link_001_prm.nutexb",
             "fighter/link/model/body/c12/alp_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c00/dark_model.numatb": [
             "fighter/link/model/body/c14/dark_model.numatb",
+            "fighter/link/model/body/c08/dark_model.numatb",
             "fighter/link/model/body/c10/dark_model.numatb",
             "fighter/link/model/body/c12/dark_model.numatb"
         ],
@@ -4920,24 +4923,29 @@
         ],
         "fighter/link/model/body/c00/def_link_001_emi.nutexb": [
             "fighter/link/model/body/c14/def_link_001_emi.nutexb",
+            "fighter/link/model/body/c08/def_link_001_emi.nutexb",
             "fighter/link/model/body/c10/def_link_001_emi.nutexb",
             "fighter/link/model/body/c12/def_link_001_emi.nutexb"
         ],
         "fighter/link/model/body/c00/def_link_001_nor.nutexb": [
             "fighter/link/model/body/c14/def_link_001_nor.nutexb",
+            "fighter/link/model/body/c08/def_link_001_nor.nutexb",
             "fighter/link/model/body/c10/def_link_001_nor.nutexb"
         ],
         "fighter/link/model/body/c00/def_link_001_prm.nutexb": [
             "fighter/link/model/body/c14/def_link_001_prm.nutexb",
+            "fighter/link/model/body/c08/def_link_001_prm.nutexb",
             "fighter/link/model/body/c10/def_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c00/deyes_eye_link_d_col.nutexb": [
             "fighter/link/model/body/c14/deyes_eye_link_d_col.nutexb",
+            "fighter/link/model/body/c08/deyes_eye_link_d_col.nutexb",
             "fighter/link/model/body/c10/deyes_eye_link_d_col.nutexb",
             "fighter/link/model/body/c12/deyes_eye_link_d_col.nutexb"
         ],
         "fighter/link/model/body/c00/deyes_eye_link_wd_col.nutexb": [
             "fighter/link/model/body/c14/deyes_eye_link_wd_col.nutexb",
+            "fighter/link/model/body/c08/deyes_eye_link_wd_col.nutexb",
             "fighter/link/model/body/c10/deyes_eye_link_wd_col.nutexb",
             "fighter/link/model/body/c12/deyes_eye_link_wd_col.nutexb"
         ],
@@ -4948,41 +4956,49 @@
         ],
         "fighter/link/model/body/c00/eye_link_g_col.nutexb": [
             "fighter/link/model/body/c14/eye_link_g_col.nutexb",
+            "fighter/link/model/body/c08/eye_link_g_col.nutexb",
             "fighter/link/model/body/c10/eye_link_g_col.nutexb",
             "fighter/link/model/body/c12/eye_link_g_col.nutexb"
         ],
         "fighter/link/model/body/c00/eye_link_w_col.nutexb": [
             "fighter/link/model/body/c14/eye_link_w_col.nutexb",
+            "fighter/link/model/body/c08/eye_link_w_col.nutexb",
             "fighter/link/model/body/c10/eye_link_w_col.nutexb",
             "fighter/link/model/body/c12/eye_link_w_col.nutexb"
         ],
         "fighter/link/model/body/c00/eye_link_w_nor.nutexb": [
             "fighter/link/model/body/c14/eye_link_w_nor.nutexb",
+            "fighter/link/model/body/c08/eye_link_w_nor.nutexb",
             "fighter/link/model/body/c10/eye_link_w_nor.nutexb",
             "fighter/link/model/body/c12/eye_link_w_nor.nutexb"
         ],
         "fighter/link/model/body/c00/eye_link_w_prm.nutexb": [
             "fighter/link/model/body/c14/eye_link_w_prm.nutexb",
+            "fighter/link/model/body/c08/eye_link_w_prm.nutexb",
             "fighter/link/model/body/c10/eye_link_w_prm.nutexb",
             "fighter/link/model/body/c12/eye_link_w_prm.nutexb"
         ],
         "fighter/link/model/body/c00/leyes_eye_link_l_col.nutexb": [
             "fighter/link/model/body/c14/leyes_eye_link_l_col.nutexb",
+            "fighter/link/model/body/c08/leyes_eye_link_l_col.nutexb",
             "fighter/link/model/body/c10/leyes_eye_link_l_col.nutexb",
             "fighter/link/model/body/c12/leyes_eye_link_l_col.nutexb"
         ],
         "fighter/link/model/body/c00/light_model.numatb": [
             "fighter/link/model/body/c14/light_model.numatb",
+            "fighter/link/model/body/c08/light_model.numatb",
             "fighter/link/model/body/c10/light_model.numatb",
             "fighter/link/model/body/c12/light_model.numatb"
         ],
         "fighter/link/model/body/c00/lod.xmb": [
             "fighter/link/model/body/c14/lod.xmb",
+            "fighter/link/model/body/c08/lod.xmb",
             "fighter/link/model/body/c10/lod.xmb",
             "fighter/link/model/body/c12/lod.xmb"
         ],
         "fighter/link/model/body/c00/metamon_model.numatb": [
             "fighter/link/model/body/c14/metamon_model.numatb",
+            "fighter/link/model/body/c08/metamon_model.numatb",
             "fighter/link/model/body/c10/metamon_model.numatb",
             "fighter/link/model/body/c12/metamon_model.numatb"
         ],
@@ -4994,15 +5010,18 @@
         ],
         "fighter/link/model/body/c00/model.nuhlpb": [
             "fighter/link/model/body/c14/model.nuhlpb",
+            "fighter/link/model/body/c08/model.nuhlpb",
             "fighter/link/model/body/c10/model.nuhlpb",
             "fighter/link/model/body/c12/model.nuhlpb"
         ],
         "fighter/link/model/body/c00/model.numatb": [
             "fighter/link/model/body/c14/model.numatb",
+            "fighter/link/model/body/c08/model.numatb",
             "fighter/link/model/body/c12/model.numatb"
         ],
         "fighter/link/model/body/c00/model.nusktb": [
             "fighter/link/model/body/c14/model.nusktb",
+            "fighter/link/model/body/c08/model.nusktb",
             "fighter/link/model/body/c10/model.nusktb",
             "fighter/link/model/body/c12/model.nusktb"
         ],
@@ -5014,6 +5033,7 @@
         ],
         "fighter/link/model/body/c00/model.xmb": [
             "fighter/link/model/body/c14/model.xmb",
+            "fighter/link/model/body/c08/model.xmb",
             "fighter/link/model/body/c10/model.xmb",
             "fighter/link/model/body/c12/model.xmb"
         ],
@@ -5514,6 +5534,53 @@
             "fighter/link/model/ancientbowarrow/c10/model.numshexb",
             "fighter/link/model/ancientbowarrow/c12/model.numshexb"
         ],
+        "fighter/link/model/body/c00/alp_link_002_col.nutexb": [
+            "fighter/link/model/body/c08/alp_link_002_col.nutexb",
+            "fighter/link/model/body/c10/alp_link_002_col.nutexb",
+            "fighter/link/model/body/c12/alp_link_002_col.nutexb"
+        ],
+        "fighter/link/model/body/c00/alp_link_002_nor.nutexb": [
+            "fighter/link/model/body/c08/alp_link_002_nor.nutexb",
+            "fighter/link/model/body/c10/alp_link_002_nor.nutexb",
+            "fighter/link/model/body/c12/alp_link_002_nor.nutexb"
+        ],
+        "fighter/link/model/body/c00/alp_link_002_prm.nutexb": [
+            "fighter/link/model/body/c08/alp_link_002_prm.nutexb",
+            "fighter/link/model/body/c10/alp_link_002_prm.nutexb",
+            "fighter/link/model/body/c12/alp_link_002_prm.nutexb"
+        ],
+        "fighter/link/model/body/c00/def_link_002_nor.nutexb": [
+            "fighter/link/model/body/c08/def_link_002_nor.nutexb",
+            "fighter/link/model/body/c10/def_link_002_nor.nutexb",
+            "fighter/link/model/body/c12/def_link_002_nor.nutexb"
+        ],
+        "fighter/link/model/body/c00/def_link_002_prm.nutexb": [
+            "fighter/link/model/body/c08/def_link_002_prm.nutexb",
+            "fighter/link/model/body/c10/def_link_002_prm.nutexb",
+            "fighter/link/model/body/c12/def_link_002_prm.nutexb"
+        ],
+        "fighter/link/model/body/c00/metal_link_001_nor.nutexb": [
+            "fighter/link/model/body/c08/metal_link_001_nor.nutexb",
+            "fighter/link/model/body/c10/metal_link_001_nor.nutexb",
+            "fighter/link/model/body/c12/metal_link_001_nor.nutexb"
+        ],
+        "fighter/link/model/body/c00/metal_link_001_prm.nutexb": [
+            "fighter/link/model/body/c08/metal_link_001_prm.nutexb",
+            "fighter/link/model/body/c10/metal_link_001_prm.nutexb",
+            "fighter/link/model/body/c12/metal_link_001_prm.nutexb"
+        ],
+        "fighter/link/model/body/c00/model.numdlb": [
+            "fighter/link/model/body/c08/model.numdlb",
+            "fighter/link/model/body/c12/model.numdlb"
+        ],
+        "fighter/link/model/body/c00/model.numshb": [
+            "fighter/link/model/body/c08/model.numshb"
+        ],
+        "fighter/link/model/body/c00/model.numshexb": [
+            "fighter/link/model/body/c08/model.numshexb",
+            "fighter/link/model/body/c10/model.numshexb",
+            "fighter/link/model/body/c12/model.numshexb"
+        ],
         "fighter/link/model/boomerang/c00/metal_boomerang_001_col.nutexb": [
             "fighter/link/model/boomerang/c08/metal_boomerang_001_col.nutexb",
             "fighter/link/model/boomerang/c10/metal_boomerang_001_col.nutexb",
@@ -5624,10 +5691,74 @@
             "sound/bank/fighter_voice/vc_link_c10.nus3bank",
             "sound/bank/fighter_voice/vc_link_c12.nus3bank"
         ],
+        "fighter/link/model/body/c01/alp_link_002_col.nutexb": [
+            "fighter/link/model/body/c09/alp_link_002_col.nutexb",
+            "fighter/link/model/body/c11/alp_link_002_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/alp_link_002_nor.nutexb": [
+            "fighter/link/model/body/c09/alp_link_002_nor.nutexb",
+            "fighter/link/model/body/c11/alp_link_002_nor.nutexb"
+        ],
+        "fighter/link/model/body/c01/alp_link_002_prm.nutexb": [
+            "fighter/link/model/body/c09/alp_link_002_prm.nutexb",
+            "fighter/link/model/body/c11/alp_link_002_prm.nutexb",
+            "fighter/link/model/body/c13/alp_link_002_prm.nutexb"
+        ],
         "fighter/link/model/body/c01/dark_model.numatb": [
             "fighter/link/model/body/c09/dark_model.numatb",
             "fighter/link/model/body/c11/dark_model.numatb",
             "fighter/link/model/body/c13/dark_model.numatb"
+        ],
+        "fighter/link/model/body/c01/def_link_002_col.nutexb": [
+            "fighter/link/model/body/c09/def_link_002_col.nutexb",
+            "fighter/link/model/body/c11/def_link_002_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/def_link_002_nor.nutexb": [
+            "fighter/link/model/body/c09/def_link_002_nor.nutexb",
+            "fighter/link/model/body/c11/def_link_002_nor.nutexb"
+        ],
+        "fighter/link/model/body/c01/def_link_002_prm.nutexb": [
+            "fighter/link/model/body/c09/def_link_002_prm.nutexb",
+            "fighter/link/model/body/c11/def_link_002_prm.nutexb"
+        ],
+        "fighter/link/model/body/c01/deyes_eye_link_d_col.nutexb": [
+            "fighter/link/model/body/c09/deyes_eye_link_d_col.nutexb",
+            "fighter/link/model/body/c11/deyes_eye_link_d_col.nutexb",
+            "fighter/link/model/body/c13/deyes_eye_link_d_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/deyes_eye_link_wd_col.nutexb": [
+            "fighter/link/model/body/c09/deyes_eye_link_wd_col.nutexb",
+            "fighter/link/model/body/c11/deyes_eye_link_wd_col.nutexb",
+            "fighter/link/model/body/c13/deyes_eye_link_wd_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/eye_link_b_col.nutexb": [
+            "fighter/link/model/body/c09/eye_link_b_col.nutexb",
+            "fighter/link/model/body/c11/eye_link_b_col.nutexb",
+            "fighter/link/model/body/c13/eye_link_b_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/eye_link_g_col.nutexb": [
+            "fighter/link/model/body/c09/eye_link_g_col.nutexb",
+            "fighter/link/model/body/c11/eye_link_g_col.nutexb",
+            "fighter/link/model/body/c13/eye_link_g_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/eye_link_w_col.nutexb": [
+            "fighter/link/model/body/c09/eye_link_w_col.nutexb",
+            "fighter/link/model/body/c11/eye_link_w_col.nutexb",
+            "fighter/link/model/body/c13/eye_link_w_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/eye_link_w_nor.nutexb": [
+            "fighter/link/model/body/c09/eye_link_w_nor.nutexb",
+            "fighter/link/model/body/c11/eye_link_w_nor.nutexb",
+            "fighter/link/model/body/c13/eye_link_w_nor.nutexb"
+        ],
+        "fighter/link/model/body/c01/eye_link_w_prm.nutexb": [
+            "fighter/link/model/body/c09/eye_link_w_prm.nutexb",
+            "fighter/link/model/body/c11/eye_link_w_prm.nutexb",
+            "fighter/link/model/body/c13/eye_link_w_prm.nutexb"
+        ],
+        "fighter/link/model/body/c01/leyes_eye_link_l_col.nutexb": [
+            "fighter/link/model/body/c09/leyes_eye_link_l_col.nutexb",
+            "fighter/link/model/body/c11/leyes_eye_link_l_col.nutexb"
         ],
         "fighter/link/model/body/c01/light_model.numatb": [
             "fighter/link/model/body/c09/light_model.numatb",
@@ -5637,6 +5768,17 @@
             "fighter/link/model/body/c09/lod.xmb",
             "fighter/link/model/body/c11/lod.xmb",
             "fighter/link/model/body/c13/lod.xmb"
+        ],
+        "fighter/link/model/body/c01/metal_link_001_col.nutexb": [
+            "fighter/link/model/body/c09/metal_link_001_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/metal_link_001_nor.nutexb": [
+            "fighter/link/model/body/c09/metal_link_001_nor.nutexb",
+            "fighter/link/model/body/c11/metal_link_001_nor.nutexb"
+        ],
+        "fighter/link/model/body/c01/metal_link_001_prm.nutexb": [
+            "fighter/link/model/body/c09/metal_link_001_prm.nutexb",
+            "fighter/link/model/body/c11/metal_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c01/metamon_model.numatb": [
             "fighter/link/model/body/c09/metamon_model.numatb",
@@ -5661,6 +5803,18 @@
             "fighter/link/model/body/c09/model.xmb",
             "fighter/link/model/body/c11/model.xmb",
             "fighter/link/model/body/c13/model.xmb"
+        ],
+        "fighter/link/model/body/c01/skin_link_001_col.nutexb": [
+            "fighter/link/model/body/c09/skin_link_001_col.nutexb",
+            "fighter/link/model/body/c11/skin_link_001_col.nutexb"
+        ],
+        "fighter/link/model/body/c01/skin_link_001_nor.nutexb": [
+            "fighter/link/model/body/c09/skin_link_001_nor.nutexb",
+            "fighter/link/model/body/c11/skin_link_001_nor.nutexb"
+        ],
+        "fighter/link/model/body/c01/skin_link_001_prm.nutexb": [
+            "fighter/link/model/body/c09/skin_link_001_prm.nutexb",
+            "fighter/link/model/body/c11/skin_link_001_prm.nutexb"
         ],
         "fighter/link/model/ancientbow/c01/dark_model.numatb": [
             "fighter/link/model/ancientbow/c09/dark_model.numatb",
@@ -6303,41 +6457,9 @@
             "fighter/kirby/model/copy_link_cap/c11/model.xmb",
             "fighter/kirby/model/copy_link_cap/c13/model.xmb"
         ],
-        "fighter/link/model/body/c00/alp_link_002_col.nutexb": [
-            "fighter/link/model/body/c10/alp_link_002_col.nutexb",
-            "fighter/link/model/body/c12/alp_link_002_col.nutexb"
-        ],
-        "fighter/link/model/body/c00/alp_link_002_nor.nutexb": [
-            "fighter/link/model/body/c10/alp_link_002_nor.nutexb",
-            "fighter/link/model/body/c12/alp_link_002_nor.nutexb"
-        ],
-        "fighter/link/model/body/c00/alp_link_002_prm.nutexb": [
-            "fighter/link/model/body/c10/alp_link_002_prm.nutexb",
-            "fighter/link/model/body/c12/alp_link_002_prm.nutexb"
-        ],
         "fighter/link/model/body/c00/def_link_002_col.nutexb": [
             "fighter/link/model/body/c10/def_link_002_col.nutexb",
             "fighter/link/model/body/c12/def_link_002_col.nutexb"
-        ],
-        "fighter/link/model/body/c00/def_link_002_nor.nutexb": [
-            "fighter/link/model/body/c10/def_link_002_nor.nutexb",
-            "fighter/link/model/body/c12/def_link_002_nor.nutexb"
-        ],
-        "fighter/link/model/body/c00/def_link_002_prm.nutexb": [
-            "fighter/link/model/body/c10/def_link_002_prm.nutexb",
-            "fighter/link/model/body/c12/def_link_002_prm.nutexb"
-        ],
-        "fighter/link/model/body/c00/metal_link_001_nor.nutexb": [
-            "fighter/link/model/body/c10/metal_link_001_nor.nutexb",
-            "fighter/link/model/body/c12/metal_link_001_nor.nutexb"
-        ],
-        "fighter/link/model/body/c00/metal_link_001_prm.nutexb": [
-            "fighter/link/model/body/c10/metal_link_001_prm.nutexb",
-            "fighter/link/model/body/c12/metal_link_001_prm.nutexb"
-        ],
-        "fighter/link/model/body/c00/model.numshexb": [
-            "fighter/link/model/body/c10/model.numshexb",
-            "fighter/link/model/body/c12/model.numshexb"
         ],
         "fighter/link/model/body/c00/skin_link_001_col.nutexb": [
             "fighter/link/model/body/c10/skin_link_001_col.nutexb",
@@ -6363,65 +6485,9 @@
             "fighter/link/model/body/c11/alp_link_001_prm.nutexb",
             "fighter/link/model/body/c13/alp_link_001_prm.nutexb"
         ],
-        "fighter/link/model/body/c01/alp_link_002_col.nutexb": [
-            "fighter/link/model/body/c11/alp_link_002_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/alp_link_002_nor.nutexb": [
-            "fighter/link/model/body/c11/alp_link_002_nor.nutexb"
-        ],
-        "fighter/link/model/body/c01/alp_link_002_prm.nutexb": [
-            "fighter/link/model/body/c11/alp_link_002_prm.nutexb",
-            "fighter/link/model/body/c13/alp_link_002_prm.nutexb"
-        ],
         "fighter/link/model/body/c01/def_link_001_emi.nutexb": [
             "fighter/link/model/body/c11/def_link_001_emi.nutexb",
             "fighter/link/model/body/c13/def_link_001_emi.nutexb"
-        ],
-        "fighter/link/model/body/c01/def_link_002_col.nutexb": [
-            "fighter/link/model/body/c11/def_link_002_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/def_link_002_nor.nutexb": [
-            "fighter/link/model/body/c11/def_link_002_nor.nutexb"
-        ],
-        "fighter/link/model/body/c01/def_link_002_prm.nutexb": [
-            "fighter/link/model/body/c11/def_link_002_prm.nutexb"
-        ],
-        "fighter/link/model/body/c01/deyes_eye_link_d_col.nutexb": [
-            "fighter/link/model/body/c11/deyes_eye_link_d_col.nutexb",
-            "fighter/link/model/body/c13/deyes_eye_link_d_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/deyes_eye_link_wd_col.nutexb": [
-            "fighter/link/model/body/c11/deyes_eye_link_wd_col.nutexb",
-            "fighter/link/model/body/c13/deyes_eye_link_wd_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/eye_link_b_col.nutexb": [
-            "fighter/link/model/body/c11/eye_link_b_col.nutexb",
-            "fighter/link/model/body/c13/eye_link_b_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/eye_link_g_col.nutexb": [
-            "fighter/link/model/body/c11/eye_link_g_col.nutexb",
-            "fighter/link/model/body/c13/eye_link_g_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/eye_link_w_col.nutexb": [
-            "fighter/link/model/body/c11/eye_link_w_col.nutexb",
-            "fighter/link/model/body/c13/eye_link_w_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/eye_link_w_nor.nutexb": [
-            "fighter/link/model/body/c11/eye_link_w_nor.nutexb",
-            "fighter/link/model/body/c13/eye_link_w_nor.nutexb"
-        ],
-        "fighter/link/model/body/c01/eye_link_w_prm.nutexb": [
-            "fighter/link/model/body/c11/eye_link_w_prm.nutexb",
-            "fighter/link/model/body/c13/eye_link_w_prm.nutexb"
-        ],
-        "fighter/link/model/body/c01/leyes_eye_link_l_col.nutexb": [
-            "fighter/link/model/body/c11/leyes_eye_link_l_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/metal_link_001_nor.nutexb": [
-            "fighter/link/model/body/c11/metal_link_001_nor.nutexb"
-        ],
-        "fighter/link/model/body/c01/metal_link_001_prm.nutexb": [
-            "fighter/link/model/body/c11/metal_link_001_prm.nutexb"
         ],
         "fighter/link/model/body/c01/model.numatb": [
             "fighter/link/model/body/c11/model.numatb"
@@ -6435,18 +6501,6 @@
         "fighter/link/model/body/c01/model.nusktb": [
             "fighter/link/model/body/c11/model.nusktb",
             "fighter/link/model/body/c13/model.nusktb"
-        ],
-        "fighter/link/model/body/c01/skin_link_001_col.nutexb": [
-            "fighter/link/model/body/c11/skin_link_001_col.nutexb"
-        ],
-        "fighter/link/model/body/c01/skin_link_001_nor.nutexb": [
-            "fighter/link/model/body/c11/skin_link_001_nor.nutexb"
-        ],
-        "fighter/link/model/body/c01/skin_link_001_prm.nutexb": [
-            "fighter/link/model/body/c11/skin_link_001_prm.nutexb"
-        ],
-        "fighter/link/model/body/c00/model.numdlb": [
-            "fighter/link/model/body/c12/model.numdlb"
         ],
         "fighter/lucario/model/body/c00/dark_model.numatb": [
             "fighter/lucario/model/body/c08/dark_model.numatb"
