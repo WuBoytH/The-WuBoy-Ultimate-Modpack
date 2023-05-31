@@ -1,5 +1,37 @@
 {
     "share-to-added": {
+        "fighter/cloud/motion/body/c00/j01appealhilloop.nuanmb": [
+            "fighter/cloud/motion/body/c08/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appealhilloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealhilloop.nuanmb": [
+            "fighter/cloud/motion/body/c09/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appealhilloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appealhirloop.nuanmb": [
+            "fighter/cloud/motion/body/c08/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appealhirloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealhirloop.nuanmb": [
+            "fighter/cloud/motion/body/c09/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appealhirloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appeallwloop.nuanmb": [
+            "fighter/cloud/motion/body/c08/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appeallwloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appeallwloop.nuanmb": [
+            "fighter/cloud/motion/body/c09/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appeallwloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c00/j01appealsloop.nuanmb": [
+            "fighter/cloud/motion/body/c08/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/motion/body/c01/j01appealsloop.nuanmb": [
+            "fighter/cloud/motion/body/c09/j01appealsloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appealsloop.nuanmb"
+        ],
         "fighter/edge/motion/body/c00/j01appeallwloop.nuanmb": [
             "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
             "fighter/edge/motion/body/c09/j01appeallwloop.nuanmb",
@@ -214,6 +246,30 @@
         ]
     },
     "new-dir-files": {
+        "fighter/cloud/c08": [
+            "fighter/cloud/motion/body/c08/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c08/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c08/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c08/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c09": [
+            "fighter/cloud/motion/body/c09/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c09/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c09/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c09/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c10": [
+            "fighter/cloud/motion/body/c10/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c10/j01appealsloop.nuanmb"
+        ],
+        "fighter/cloud/c11": [
+            "fighter/cloud/motion/body/c11/j01appealhilloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appealhirloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appeallwloop.nuanmb",
+            "fighter/cloud/motion/body/c11/j01appealsloop.nuanmb"
+        ],
         "fighter/edge/c08": [
             "fighter/edge/motion/body/c08/j01appeallwloop.nuanmb",
             "fighter/edge/motion/body/c08/j01appealsattack.nuanmb",
